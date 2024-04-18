@@ -1,1 +1,73 @@
+# Site settings - Parameter tuning - (Warning : Multiple changes can follow on the web site)
+title: Breizh Data Club
+email: dcn.prof@gmail.com
+url: https://dcn-prof.github.io/breizhdataclub/
+description: "Breizh Data Club, For Data Lovers Only!"
+keywords: "breizh, bretagne, data, data, data science, open data, tech, engineering, computing, artificial intelligence "
+date: " created in 2027, still alive . . . "
 
+entree: ""
+meta_author: Prof. Calculus et alii.
+baseline: ""
+
+# Google webmaster tools
+google_verify:
+
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18479a #80B3FF
+  primary-rgb: "26,71,154" #"128,179,255"
+  secondary:  763b8f  #FD6E8A
+  secondary-dark: 95388d #A2122F
+
+# Footer settings
+footer:
+  copyright: BreizhCamp / Breizh Data Club
+  location: Contact us
+  credits: Crédits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/breizhcamp-%F0%9F%92%BB-26991589/
+  - title : linkedin
+    url : https://www.linkedin.com/showcase/breizh-data-day
+    
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: BreizhCamp est une association 1901 
+  - line: domiciliée à Rennes (Bretagne)
+  - line: France - Europe - Monde
+  - line: "   "
+  - line: Question éditoriale ?
+  - line: e-mail = <code>dcn.prof@gmail.com</code>
+  - line: "   "
+  - line: Question existentielle ou autre ?
+  - line: e-mail = <code>contact@breizhcamp.org</code>
+  - line: "   "
+  - line: "   "
+
+# Credits content
+credits: 'Créé avec le générateur de site web Jekyll et le thème Freelancer.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+collections:
+  - workshop
+  - conf
+  - orga
+  - sponsors
+  
