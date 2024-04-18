@@ -1,2 +1,2 @@
-# breizhdataclub
-Breizh Data Club's motto: Only For Data Lovers
+# breizh data club
+Breizh Data Club's motto: For Data Lovers Only 
