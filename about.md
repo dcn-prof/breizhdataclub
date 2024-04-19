@@ -1,35 +1,34 @@
  # TITRE : Mon beau projet
 
-One Paragraph of project description goes here
+Un petit paragraphe pour exposer mon beau projet.
 
 ## POURQUOI ? : Ce qui me meut 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Un petit paragraphe pour exprimer mes objectifs
 
 ### INITIALISATION : Prerequisites
 
-What things you need to install the software and how to install them
+Que faut-il faire initialement avant de commencer ?
 
 ```
-Quelques exemples : Give examples
+Quelques exemples
 ```
 
-### INSTALLATION : Installing
+### INSTALLATION : On y va maintenant. On est dans le dur . . .
 
-A step by step series of examples that tell you how to get a development env running
+Pas par pas, on donne des exemples qui expliquent comment faire avec pragmatisme.
 
-Say what the step will be
+Faut y aller pas par pas, brique par brique, comme au Lego.
+```
+Un exemple par exemple : Poser une brique rouge puis une brique bleue.
+```
+
+Et re-me-le-me-le : Et on recommence autant que faire se peut ou se doit.
 
 ```
-Un exemple par exemple : Give, at least, one example
+Jusqu'au finalisation terminale.
 ```
-
-Et re-me-le-me-le : And repeat
-
-```
-Jusqu'au final : until finished
-```
-Last point
-* [Maven](https://maven.apache.org/) - Dependency Management
+Dernier point 
+* [Maven](https://maven.apache.org/) - Pour en savoir plus sur Maven
 
 Version 2024-04-19
