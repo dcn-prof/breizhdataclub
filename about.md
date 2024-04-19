@@ -29,5 +29,7 @@ Et re-me-le-me-le : And repeat
 ```
 Jusqu'au final : until finished
 ```
+Last point
+* [Maven](https://maven.apache.org/) - Dependency Management
 
 Version 2024-04-19
