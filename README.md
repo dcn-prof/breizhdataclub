@@ -2,37 +2,31 @@
 Our motto: **_For Data Lovers Only_** 
 
 Test_TREUZKEMM = OK
-
 >
 >
->
->
->
-* Ya du taf. . .
-   * Ya du taf . . .
-   *    * Ya du taf . . .
-        *    * Ya du taf . . .
-             *    * Ya du taf . . . 
->
->
->
->
->
+Test_GWELADENNM 
 >
 >
 
-| Aligné à gauche  | Centré          | Aligné à droite |
-| :--------------- |:---------------:| ---------------:|
-| Colonne gauche 1 |   ce texte        |  $100 |
-| Colonne gauche 2 | est             |   $10 |
-| Colonne gauche 3 | centré          |    $1 |
+* Pour la visite de notre site, c'est par ici. 
+   * Bienvenue au Club !
+   * Voici le sommaire . . .
 
->
->
->
->
+
+
+|      Les infos       |  Date de mise à jour   |     Lien pour en savoir plus        |
+| :------------------- |:----------------------:| --------------------1--------------:|
+|    Dernière info     |     2024-04-20         |  <https://breizhdataday.innozh.fr/> |
+|    BreizhCamp 2024   |     2024-04-20         |  <https://www.breizhcamp.org/>      |
+|    Journal Le Mnde   |     2024-04-20         |  <https://www.lemonde.fr>           |
+|    x-x-x-x-x-x-x-x   |                        |                                     |
+|                      |                        |                                     |
+|                      |                        |                                     |
+|                      |                        |                                     |
+
+Test_GWELADENNM = OK
 
 Test_DIBENN = OK
 ## Qui sommes-nous ? 
-Pour en savoir plus, cliquez ici (<https://dcn-prof.github.io/breizhdataclub/about/>)
+Pour en savoir plus sur le **Breizh Data Club**, cliquez ici (<https://dcn-prof.github.io/breizhdataclub/about/>)
 
