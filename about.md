@@ -5,7 +5,7 @@ Autrement nommée _User-Group_ ou _Meetup_
 
 ## POURQUOI ? : For Data Lovers Only ! 
 
-Nos objectifs : satisfaire les _Data-Scientists_, les _Statisticians_, les _Data-Analysts_, les _Data-Engineers, etc. 
+Nos objectifs : satisfaire les _Data-Scientists_, les _Statisticians_, les _Data-Analysts_, les _Data-Engineers_, etc. 
 
 ### INITIALISATION : Prerequisites
 
