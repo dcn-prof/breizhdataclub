@@ -1,10 +1,11 @@
- # TITRE : Mon beau projet
+ # TITRE : Breizh Data Club
 
-Un petit paragraphe pour exposer mon beau projet.
+Communauté technique rennaise de l'association BreizhCamp passionnée par les Data.
+Autrement nommée _User-Group_ ou _Meetup_
 
-## POURQUOI ? : Ce qui me meut 
+## POURQUOI ? : For Data Lovers Only ! 
 
-Un petit paragraphe pour exprimer mes objectifs
+Nos objectifs : satisfaire les _Data-Scientists_, les _Statisticians_, les _Data-Analysts_, les _Data-Engineers, etc. 
 
 ### INITIALISATION : Prerequisites
 
