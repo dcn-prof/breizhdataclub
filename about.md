@@ -1,17 +1,17 @@
 
-# TITRE : Breizh Data Club
+# QUI ? : Breizh Data Club
 
 Communauté technique rennaise de l'association **BreizhCamp** rassemblant des passionnés pour les Data.
-(Communuaté parfois nommée _User-Group_ ou _Meetup_ au sein de **BreizhCamp**)
+> (Les communuatés techniques sont parfois nommées _User-Group_ ou _Meetup_ au sein de **BreizhCamp**)
 
 ## POUR QUI ? : For Data Lovers Only ! 
 
 Pour tous ceux et toutes celles qui se reconnaissent sous les intitulés suivants :
 _Data-Scientists_, _Statisticians_, _Data-Analysts_, _Data-Engineers_, _Data-Driven-Workers_, etc. 
 
-## POURQUOI ? : For Data Lovers Only ! 
+## POURQUOI ? : For the pleasure of Data Lovers . . . 
 
-Notre objectif est de satisfaire la curiossté et l'intérêt des _Data-Lovers_
+Notre objectif est de satisfaire la curiosité et l'intérêt des _Data-Lovers_
 
 ### INITIALISATION : Prerequisites
 
@@ -36,6 +36,6 @@ Et re-me-le-me-le : Et on recommence autant que faire se peut ou se doit.
 Jusqu'au finalisation terminale.
 ```
 Dernier point 
-* [Maven](https://maven.apache.org/) - Pour en savoir plus sur Maven
+* [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/) - Pour suivre notre actualité, _stay tuned_
 
-Version 2024-04-19
+Version 2024-04-20
