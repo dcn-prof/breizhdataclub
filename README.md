@@ -6,4 +6,5 @@ Test_TREUZKEMM
 Test_DIBENN
 
 
-[Qui sommes-nous ?] (https://dcn-prof.github.io/breizhdataclub/about/)
+[Qui sommes-nous ?] (<https://dcn-prof.github.io/breizhdataclub/about/>)
+
