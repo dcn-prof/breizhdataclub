@@ -1,15 +1,12 @@
 # Breizh Data Club
 Our motto: **_For Data Lovers Only_** 
 
->
->Test_TREUZKEMM = OK
-
 
 >
->Test_GWELADENNM 
+> GWELADENNM = open
 
-# Bienvenue au Club !
-* Pour la visite de notre site, c'est par ici. 
+## Bienvenue au Club !
+* Pour la visite, c'est par ici. 
  
 ### Voici le sommaire . . .
 
@@ -27,14 +24,14 @@ Our motto: **_For Data Lovers Only_**
 | :------------------- |:----------------------:| --------------------------------------------------:|
 
 >
->Test_GWELADENNM = OK
+> GWELADENNM = close
 
 >
->Test_DIBENN
+> DIBENN = open
 
 ## Qui sommes-nous ? 
-Pour en savoir plus sur le **Breizh Data Club**, cliquez ici (<https://dcn-prof.github.io/breizhdataclub/about/>)
+Pour en savoir plus sur le **Breizh Data Club**, cliquez ici <https://dcn-prof.github.io/breizhdataclub/about/>
 
 >
->Test_DIBENN = OK
+> DIBENN = close
 >
