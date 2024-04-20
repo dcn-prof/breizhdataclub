@@ -1,10 +1,16 @@
-# breizh data club
-Breizh Data Club's motto: For Data Lovers Only 
+# Breizh Data Club
+Our motto: **_For Data Lovers Only_** 
 
-Test_TREUZKEMM
-
-Test_DIBENN
+Test_TREUZKEMM = OK
 
 
-[Qui sommes-nous ?] (<https://dcn-prof.github.io/breizhdataclub/about/>)
+
+Ya du taf. . .
+
+
+
+
+Test_DIBENN = OK
+## Qui sommes-nous ? 
+Pour en savoir plus, cliquez ici (<https://dcn-prof.github.io/breizhdataclub/about/>)
 
