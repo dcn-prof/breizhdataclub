@@ -18,6 +18,8 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data-Lovers_
 ### Un logo  pour rassembler les Data Lovers sous une même bannière 
 ![le logo du Breizh Data Club](https://secure.meetupstatic.com/photos/event/a/d/a/5/clean_490484453.jpeg))
 
+![le logo du Breizh Data Club](https://github.com/dcn-prof/breizhdataclub/blob/main/illustrim/99_orga_logo-BDC.png)
+
 ### Des conférences thématiques 
 * En soirée, de temps en temps, après le travail 
 * Une journée complète une fois par an, le **Breizh Data Day**
