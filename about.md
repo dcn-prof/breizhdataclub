@@ -1,11 +1,17 @@
- # TITRE : Breizh Data Club
 
-Communauté technique rennaise de l'association BreizhCamp passionnée par les Data.
-Autrement nommée _User-Group_ ou _Meetup_
+# TITRE : Breizh Data Club
+
+Communauté technique rennaise de l'association **BreizhCamp** rassemblant des passionnés pour les Data.
+(Communuaté parfois nommée _User-Group_ ou _Meetup_ au sein de **BreizhCamp**)
+
+## POUR QUI ? : For Data Lovers Only ! 
+
+Pour tous ceux et toutes celles qui se reconnaissent sous les intitulés suivants :
+_Data-Scientists_, _Statisticians_, _Data-Analysts_, _Data-Engineers_, _Data-Driven-Workers_, etc. 
 
 ## POURQUOI ? : For Data Lovers Only ! 
 
-Nos objectifs : satisfaire les _Data-Scientists_, les _Statisticians_, les _Data-Analysts_, les _Data-Engineers_, etc. 
+Notre objectif est de satisfaire la curiossté et l'intérêt des _Data-Lovers_
 
 ### INITIALISATION : Prerequisites
 
