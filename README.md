@@ -1,3 +1,3 @@
 
 # breizh data club
-Breizh Data Club's motto  << For Data Lovers Only >> 
+Breizh Data Club, for Data Lovers Only 
