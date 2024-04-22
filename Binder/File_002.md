@@ -36,12 +36,15 @@ Pour simplifier, retenons une image : les données sont comme un minerai brut do
 #  
 Au cours des dernières décennies, en raison notamment du développement des échanges induits par Internet, par le Web et par toutes les applications qui se sont greffées dessus, nous avons assisté à une inflation de la production de données. Cela a mécaniquement entrainé une profusion d'échanges de données et à contribuer à nourrir encore plus le processus de transformation Données -> Informations -> Connaissances -> Décisions -> Actions.
 
-D'énormes volumes de données poviennent notamment :
+D'énormes volumes de données proviennent notamment :
 * des sciences d'observations et de mesures expérimentales : Astronomie, Météorologie, Climatomogie, Nucléaire, Médécine et Epidémiologie, Démographie, Sociologie, Agronomie, etc.
+* des techniques de visualisation et de partage d'information : Cartopgraphie, Géomatique, Datavisualisation, etc.
 * des réseaux d'objets connectés : véhicules terrestres, aériens ou navals, capteurs d'infrastructure réticulée, objets personnels (smartphones, ...), etc.
 * des réseaux sociaux (à titre individuel et/ou professionnel), etc.
+* des fournisseurs de données ouvertes (_Open Data_)
 * de l'observation automatisées des comportements des utilisateurs (et/ou clients) d'infrastructures : transports, collectivités publiques, etc.
-* etc.
+* des robots, des automates et autres machines dotées de capteurs pour interagir avec leur environnement.
+* Etc. Etc.
 
 Actuellement, trois décennies après la création du Web, ce n'est plus la rareté des données qui limite leur exploitation. C'est plutôt la profusion des données qui rend parfois difficile leur analyse et leur valorisation. Il faut donc parfois faire des choix drastiques pour sérier les données et tenter d'en exploiter quelques sous-ensembles avec une pertinence accrue. C'est typiquement l'approche des tableaux de bord qui facilite la visualistion des données afin de mieux décider et d'agir.
 
@@ -54,12 +57,31 @@ Quand on parle de *Big Data* (ou de *Mégadonnées*), on s'intéresse à des vol
 
 #  
 #  
+#### A quoi servent les données en informatique ?
+Historiquement, dans les temps anciens de informatique, on ne considérait que le **matériel**. Normal ! Avant les années 1950, on parlait mécanographie. C'est à dire de machines à calculer plus ou moins sophistiquées. Bien sûr les machines à calculer travaillaient sur des données mais, bon, la plupart du temps les données étaient saisies à la main.
 
+Par la suite, on s'est intéressé au **matériel** et au **logiciel**. Le logiciel (appelé "programme" à l'époque) consistait en une liste d'actions à réaliser sur le matériel. Cette liste d'actions rassemblait à la fois des algorithmes et des données plus ou moins entremélés. En gros, on considérait les données comme des constantes dans le code et, parfois, quand il fallait bien travailler sur quelques variables, on les alimentait à la main à l'aide d'un clavier, par exemple.
+
+Quand les données ont commencé à devenir envahissantes, il a fallut inventer des processus de lecture externes pour nourrir les variables. On s'est alors intéressé au **matériel**, au **logiciel** et aux **données**. Ces dernières pouvaient être lues séquentiellement : sur des bandes perforées, sur des cartes perforées ou sur des claviers. Et même plus tard, sur des supports magnétiques (bandes, disques, etc.) ce qui a ouvert de nouvelles possibilités d'accès non-séquentiel.
+Un peu plus tard, le volume croissant des données a graduellement imposé l'idée de mieux structurer les données sous forme de tables, de listes, d'ensembles hétérogènes accessibles grâce à des index, etc.
+
+Actuellement, on s'intéresse au **matériel**, aux **algorithmes**, aux **langages** et aux **données**. Ce que l'on appelait "logiciels" est désormais différencié en deux sous-ensembles : d'un côté, ce qui relève des algorithems (les méthodes pour faire, les recettes de cuisine en quelque sorte) et, d'autre part, ce qui relève de l'implémentation concrète (les couches logicielles d'exploitaion au dessus du matériel). Quant aux données, elles sont accessibles en très grandes quantités et sous des formats extrêmement diversifiés. Certaines données sont publiques, d'autres sont privées. Quelques unes sont hyperprotégées soit pour des raisons stratégiques (propriété intellectuelle ou autre), soit pour des raison réglementaire (vie privée, etc.).
+
+Aujourd'hui, les données sont partout. Dans la vrai vie et dans le monde de l'informatique en particulier.
+
+Plus récemment, la profusion des données a facilité les techniques d'apprentissage automatique ce qui a permis le développement d'une nouvelle génération de robots dotés d'une certaine forme d'intelligence artificielle.
+
+Cette perspective ouvre de nouveaux chantiers : techniques, économiques, éthiques; juridiques, etc.
+
+C'est ce qui explique pourquoi les données suscitent tant de passion (et donc de passionnés).
+
+#  
+#  
 ## Pour en savoir plus sur ce thème
 
-- Source : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
-- Source : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
-- Source : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
+- Source 1 : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
+- Source 2 : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
+- Source 3 : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
 
   
 
@@ -67,7 +89,7 @@ Quand on parle de *Big Data* (ou de *Mégadonnées*), on s'intéresse à des vol
 
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
-#### Titre encore plus petit
+
 
 Version 2024-04-22
 
