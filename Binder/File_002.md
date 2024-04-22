@@ -29,6 +29,10 @@ Pour simplifier, retenons une image : les données sont un minerai brut dont on 
 ![Raffinage des données](../illustrim/data-process-fine-tuning.png)
 #### Fig.1  - Transformation graduelles des données en informations puis connaissances
 
+(../illustrim/data-decison-action-00.png)
+
+
+
 - Source : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
 - Source : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
 
