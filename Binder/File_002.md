@@ -25,7 +25,8 @@ Avec le foisionnement des données, en informatique, on s'est alors mis à parle
 
 Pour simplifier, retenons une image : les données sont un minerai brut dont on peut extraire des informations. Ces informations permettent de produire des connaissances plus ou moins élaborées sur la base desquelles on peut prendre des décisions et, le cas échéant, déclencher des actions.
 
-https://github.com/dcn-prof/breizhdataclub/blob/main/illustrim/data-process-fine-tuning.png
+![Raffinage des données](../illustrim/data-process-fine-tuning.png)
+
 
 - Source : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
 - Source : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
@@ -33,6 +34,7 @@ https://github.com/dcn-prof/breizhdataclub/blob/main/illustrim/data-process-fine
 
 
 
+#### WORK IN PROGRESS / CHANTIER EN COURS
 #### Titre encore plus petit
 
 Pour voir un arbre, cliquez ici [lien GWEZENN](https://fr.wikipedia.org/wiki/Arbre)
