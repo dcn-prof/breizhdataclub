@@ -31,7 +31,7 @@ Pour simplifier, retenons une image : les données sont un minerai brut dont on 
 
 (../illustrim/data-decison-action-00.png)
 
-
+(../illustrim/data-decison-action-01.png)
 
 - Source : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
 - Source : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
