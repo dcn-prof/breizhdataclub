@@ -43,10 +43,13 @@ Une autre analogie est la visualistion des données (sous forme d'un tableau de 
 #  
 #  
 
-
+## Pour en savoir plus sur ce thème
 
 - Source : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
 - Source : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
+- Source : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
+
+  
 
 
 
@@ -54,5 +57,5 @@ Une autre analogie est la visualistion des données (sous forme d'un tableau de 
 #### WORK IN PROGRESS / CHANTIER EN COURS
 #### Titre encore plus petit
 
-Pour voir un arbre, cliquez ici [lien GWEZENN](https://fr.wikipedia.org/wiki/Arbre)
+
 
