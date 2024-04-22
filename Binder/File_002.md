@@ -27,11 +27,21 @@ Avec le foisonnement des données, en informatique, on s'est alors mis à parler
 Pour simplifier, retenons une image : les données sont un minerai brut dont on peut extraire des informations après raffinage. Ces informations raffinées permettent ensuite de produire des connaissances plus ou moins élaborées sur la base desquelles on pourra prendre des décisions et, le cas échéant, déclencher des actions.
 
 ![Raffinage des données](../illustrim/data-process-fine-tuning.png)
-#### Fig.1  - Transformation graduelles des données en informations puis connaissances
+![Raffinage des données](../illustrim/data-decison-action-01.png)
+#### Fig.1  - Transformation graduelles des données en informations puis connaissances puis action
 
-(../illustrim/data-decison-action-00.png)
+#  
+#  
 
-(../illustrim/data-decison-action-01.png)
+
+![Raffinage des données](../illustrim/data-decison-action-00.png)
+#### Fig.2  - Partir des données pour décider et agir
+
+
+#  
+#  
+
+
 
 - Source : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
 - Source : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
