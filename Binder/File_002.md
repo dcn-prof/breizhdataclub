@@ -24,7 +24,9 @@ Jusqu'à récemment (disons quelques décennies), nous n'avions connaissance du 
 
 Avec le foisonnement des données, en informatique, on s'est alors mis à parler de _Data Processing_, de _Data Base_, d'_Open Data_, de _Big Data_, etc. 
 
-Pour simplifier, retenons une image : les données sont un minerai brut dont on peut extraire des informations après raffinage. Ces informations raffinées permettent ensuite de produire des connaissances plus ou moins élaborées sur la base desquelles on pourra prendre des décisions et, le cas échéant, déclencher des actions.
+On n'accumule pas les données pour le plaisir. On le fait, en général, avec une intention ou un objectif. Par exemple, on veut en extraire des éléments statistiques, apprendre de nouvelles connaissances, aider à prendre des décisions ou automatiser des prises de décisions, activer des mécanismes ou des robots, etc.
+
+Pour simplifier, retenons une image : les données sont comme un minerai brut dont on peut extraire des informations après raffinage. Ces informations raffinées permettent ensuite de produire des connaissances plus ou moins élaborées sur la base desquelles on pourra prendre des décisions et, le cas échéant, déclencher des actions ciblées en fonction des connaissances élaborées.
 
 ![Raffinage des données](../illustrim/data-process-fine-tuning.png)
 ![Raffinage des données](../illustrim/data-decison-action-01.png)
@@ -32,7 +34,7 @@ Pour simplifier, retenons une image : les données sont un minerai brut dont on 
 
 #  
 #  
-
+Une autre analogie est la visualistion des données (sous forme d'un tableau de bord adéquat) pour décider et agir.
 
 ![Raffinage des données](../illustrim/data-decison-action-00.png)
 #### Fig.2  - Partir des données pour décider et agir
