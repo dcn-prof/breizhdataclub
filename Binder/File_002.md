@@ -28,7 +28,7 @@ Pour simplifier, retenons une image : les données sont un minerai brut dont on 
 
 ![Raffinage des données](../illustrim/data-process-fine-tuning.png)
 ![Raffinage des données](../illustrim/data-decison-action-01.png)
-#### Fig.1  - Transformation graduelles des données en informations puis connaissances puis action
+#### Fig.1  - Transformation graduelle des données en informations puis connaissances puis action
 
 #  
 #  
