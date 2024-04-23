@@ -3,7 +3,7 @@
 ![le logo du Breizh Data Club](./illustrim/99_orga_logo-BDC.png)
 **_For Data Lovers Only_** 
 >
-
+![Graf du Breizh Data Club](./illustrim/Logos/Graf_HD_BDC_transparent_haute_def%20-%20violet.png)
 
 ## Bienvenue au Club !
 * Vous cherchez une info ? C'est par ici. On vous dit tout . . . 
