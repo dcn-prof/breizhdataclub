@@ -45,7 +45,7 @@
 |                              |                        |                                                    |
 |                              |                        |                                                    |
 |                              |                        |                                                    |
-| Histoire du Breizh Data Club |       2024-04-23       |                                                    |
+| Histoire du Breizh Data Club |       2024-04-23       |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_001/>                                                  |
 |      Histoire des Data       |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
 |                              |                        |                                                    |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
