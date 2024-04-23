@@ -1,9 +1,10 @@
 # Breizh Data Club
 
-![le logo du Breizh Data Club](./illustrim/99_orga_logo-BDC.png)
+![Graf du Breizh Data Club](./illustrim/Logos/Logo-BDC_Tshirt-5360_XL.jpg)
 **_For Data Lovers Only_** 
 >
-![Graf du Breizh Data Club](./illustrim/Logos/Graf_HD_BDC_transparent_haute_def%20-%20violet.png)
+
+
 
 ## Bienvenue au Club !
 * Vous cherchez une info ? C'est par ici. On vous dit tout . . . 
