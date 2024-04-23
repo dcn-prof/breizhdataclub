@@ -18,9 +18,17 @@
 |      BreizhCamp 2024    |     2024-04-20         |  <https://www.breizhcamp.org/>                     |
 |     Journal Le Monde    |     2024-04-20         |  <https://www.lemonde.fr>                          |
 |                         |                        |                                                    |
-|     Test of Binder      |      2024-04-20        |<https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
 |                         |                        |                                                    |
+|                         |                        |                                                    |
+|                         |                        |                                                    |
+|                         |                        |                                                    |
+|                         |                        |                                                    |
+|                         |                        |                                                    |
+|     Test of Binder      |      2024-04-20        |<https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
+|   Histoire du B.D.Club  |     2024-04-23         |                                                    |
 |   Histoire des Data     |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
+|                         |                        |                                                    |
+|                         |                        |                                                    |
 | :---------------------- |:----------------------:| --------------------------------------------------:|
 
 >
