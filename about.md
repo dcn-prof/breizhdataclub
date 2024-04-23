@@ -7,7 +7,7 @@ Communauté technique rennaise de l'association **BreizhCamp** rassemblant des p
 ## POUR QUI ?  For Data Lovers Only ! 
 
 Pour tous ceux et toutes celles qui se reconnaissent sous l'un des intitulés suivants :
-_Data-Scientist_, _Statisticien_, _Data-Analyst_, _Ingénieur Data_, _Ingéneur DataOps_, _Data Miner_, _Architecte Data_, _Data Manager_, _Admin de base de données (DBA)_, _Dévéloppeuur B.I._, _Ingénieur Dataviz_, _Chief Data Officer_, _Data Protection Officer_, _Ingénieur Machine Learning_, Ingénieur I.A._,  etc. ainsi que tous les métiers _data-driven_ . . .
+_Data-Scientist_, _Statisticien_, _Data-Analyst_, _Ingénieur Data_, _Ingéneur DataOps_, _Data Miner_, _Architecte Data_, _Data Manager_, _Admin de base de données (DBA)_, _Dévéloppeuur B.I._, _Ingénieur Dataviz_, _Chief Data Officer_, _Data Protection Officer_, _Ingénieur Machine Learning_, _Ingénieur I.A._,  etc. ainsi que tous les métiers _data-driven_ . . .
 
 ## POURQUOI ?  For the pleasure of Data Lovers . . . 
 
