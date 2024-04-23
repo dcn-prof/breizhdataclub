@@ -7,8 +7,9 @@
 
 >
 >
-
-
+>
+>
+>
 ## Bienvenue au Club !
 * Vous cherchez une info ? C'est par ici. On vous dit tout . . . 
  
@@ -16,30 +17,39 @@
 
 
 
-|        Les infos        |  Date de mise à jour   |          Lien pour en savoir plus                  |
-| :---------------------- |:----------------------:| --------------------------------------------------:|
-|      Dernière info      |     2024-04-20         |  <https://breizhdataday.innozh.fr/>                |
-|      BreizhCamp 2024    |     2024-04-20         |  <https://www.breizhcamp.org/>                     |
-|     Journal Le Monde    |     2024-04-20         |  <https://www.lemonde.fr>                          |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-|     Test of Binder      |      2024-04-20        |<https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
-|   Histoire du B.D.Club  |     2024-04-23         |                                                    |
-|   Histoire des Data     |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
-|                         |                        |                                                    |
-|                         |                        |                                                    |
-| :---------------------- |:----------------------:| --------------------------------------------------:|
+|    C'est pour bientôt        |  Date de l'événement   |          Lien pour en savoir plus                  |
+| :--------------------------- |:----------------------:| --------------------------------------------------:|
+| Soirée des communautés tech rennaises  |     16-05-2024         |  <https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>                |
+|        BreizhCamp 2024       | du 26 au 28.06.2024    |  <https://www.breizhcamp.org/>                     |
+|                              |                        |                                                    |
+|                              |                        |                                                    |
+| :--------------------------- |:----------------------:| --------------------------------------------------:|
 
 >
-
+|         En ce moment         |  Date de mise à jour   |          Lien pour en savoir plus                  |
+| :--------------------------- |:----------------------:| --------------------------------------------------:|
+|                              |                        |                                                    |
+|      Journal Le Monde        |     2024-04-23         |      <https://www.lemonde.fr>                      |
+|                              |                        |                                                    |
+| :--------------------------- |:----------------------:| --------------------------------------------------:|
 
 >
+|    Regards vers le passé     |  Date de mise à jour   |          Lien pour en savoir plus                  |
+| :--------------------------- |:----------------------:| --------------------------------------------------:|
+|                              |                        |                                                    |
+|                              |                        |                                                    |
+|                              |                        |                                                    |
+|                              |                        |                                                    |
+|                              |                        |                                                    |
+|                              |                        |                                                    |
+| Histoire du Breizh Data Club |       2024-04-23       |                                                    |
+|      Histoire des Data       |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
+|                              |                        |                                                    |
+| :--------------------------- |:----------------------:| --------------------------------------------------:|
 
+>
+>
+>
 
 ## Qui sommes-nous ? 
 Pour en savoir plus sur le **Breizh Data Club**, cliquer sur [A propos](https://dcn-prof.github.io/breizhdataclub/about/)
