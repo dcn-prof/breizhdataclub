@@ -2,12 +2,12 @@
 # QUI ?  Breizh Data Club
 
 Communauté technique rennaise de l'association **BreizhCamp** rassemblant des passionnés pour les Data.
-> (Les communuatés techniques sont parfois nommées _User-Group_ ou _Meetup_ au sein de **BreizhCamp**)
+> (Les communautés techniques sont parfois nommées _User-Group_ ou _Meetup_ au sein de **BreizhCamp**)
 
 ## POUR QUI ?  For Data Lovers Only ! 
 
-Pour tous ceux et toutes celles qui se reconnaissent sous les intitulés suivants :
-_Data-Scientists_, _Statisticians_, _Data-Analysts_, _Data-Engineers_, _Data-Driven-Workers_, etc. 
+Pour tous ceux et toutes celles qui se reconnaissent sous l'un des intitulés suivants :
+_Data-Scientist_, _Statisticien_, _Data-Analyst_, _Ingénieur Data_, _Ingéneur DataOps_, _Data Miner_, _Architecte Data_, _Data Manager_, _Admin de base de données (DBA)_, _Dévéloppeuur B.I._, _Ingénieur Dataviz_, _Chief Data Officer_, _Data Protection Officer_, _Ingénieur Machine Learning_, Ingénieur I.A._,  etc. ainsi que tous les métiers _data-driven_ . . .
 
 ## POURQUOI ?  For the pleasure of Data Lovers . . . 
 
@@ -29,5 +29,5 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data-Lovers_
 * [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/) - Pour suivre notre actualité, _stay tuned_
 * [Site BreizhCamp](https://www.breizhcamp.org/asso/) - Pour connaître les communautés techniques rennaises
 
-
-Version 2024-04-20
+>
+> * Version 2024-04-23
