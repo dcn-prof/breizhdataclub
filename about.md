@@ -33,13 +33,12 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data-Lovers_
 > .
 
 
-> [!NOTE]
-> Ah ! Oui ! Un dernier point 
+## [|||||||||] 
 >
-
 ## Vous souhaitez nous contacter ? 
 Pour ecrire un message au **Breizh Data Club**, cliquer sur [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/)
 
 >
 >
 >  *  Version 2024-04-24
+
