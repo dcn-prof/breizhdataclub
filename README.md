@@ -27,28 +27,35 @@
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 
 >
+## [/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\] 
+>
 
-|         En ce moment         |  Date de mise à jour   |          Lien pour en savoir plus                  |
+|         En ce moment         |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
-|      Journal Le Monde        |     2024-04-23         |      <https://www.lemonde.fr>                      |
+|      Journal Le Monde        |     2024-04-24         |      <https://www.lemonde.fr>                      |
 |                              |                        |                                                    |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 
 >
+## [/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\/|\\|/|\\|/|\\] 
+>
 
-|    Regards vers le passé     |  Date de mise à jour   |          Lien pour en savoir plus                  |
-| :--------------------------- |:----------------------:| --------------------------------------------------:|
-|                              |                        |                                                    |
-|                              |                        |                                                    |
-|                              |                        |                                                    |
-|                              |                        |                                                    |
-|                              |                        |                                                    |
-|                              |                        |                                                    |
-| Histoire du Breizh Data Club |       2024-04-23       |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_001/>                                                  |
-|      Histoire des Data       |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
-|                              |                        |                                                    |
-| :--------------------------- |:----------------------:| --------------------------------------------------:|
+|      Regards vers le passé      |  Date de l'événement   |          Lien pour en savoir plus                  |
+| :------------------------------ |:----------------------:| --------------------------------------------------:|
+|        Breizh Data Day 2024     |        2024-03-28      |                                                    |
+|          BreizhCamp 2023        |  du 28 au 30.06.2023   |                                                    |
+|        Breizh Data Day 2023     |        2023-04-04      |                                                    |
+|        Breizh Data Day 2019     |        2019-11-07      |                                                    |
+|        Breizh Data Day 2018     |        2018-10-19      |                                                    |
+|        Breizh Data Day 2017     |        2017-10-xx      |                                                    |
+|  1er Meetup Breizh Data Club    |        2017-03-02      |                                                    |
+|                                 |                        |                                                    |
+|                                 |                        |                                                    |
+|  Histoire du Breizh Data Club   |       2024-04-23       |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_001/>                                                  |
+|        Histoire des Data        |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
+|                                 |                        |                                                    |
+| :------------------------------ |:----------------------:| --------------------------------------------------:|
 
 >
 >
