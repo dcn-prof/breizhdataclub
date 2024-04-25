@@ -88,6 +88,9 @@ C'est ce qui explique pourquoi les données suscitent tant de passion (et donc d
 - Source 2 : [Wikipedia](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
 - Source 3 : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
 
+ 
+---
+## [Retour au sommaire](https://dcn-prof.github.io/breizhdataclub/)
   
   
 >
