@@ -21,6 +21,7 @@
 ## [/|\\|/|\\|/|\\] 
 >
 ## [/|\\|/|\\|/|\\] L'AVENIR DU FUTUR 
+
 |    C'est pour bientôt        |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 | Soirée des communautés tech rennaises  |     16-05-2024         |  <https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>                |
@@ -33,6 +34,7 @@
 ## [/|\\|/|\\|/|\\] 
 >
 ## [/|\\|/|\\|/|\\] EN COURS ET ACTUEL
+
 |         En ce moment         |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
@@ -44,6 +46,7 @@
 ## [/|\\|/|\\|/|\\] 
 >
 ## [/|\\|/|\\|/|\\] SOUVENIRS, SOUVENIRS . . .
+
 |      Regards vers le passé      |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 |        Breizh Data Day 2024     |        2024-03-28      |                                                    |
