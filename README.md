@@ -33,7 +33,7 @@
 |         En ce moment         |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
-|      Journal Le Monde        |     2024-04-24         |      <https://www.lemonde.fr>                      |
+|     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
 |                              |                        |                                                    |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 
