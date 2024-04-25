@@ -1,4 +1,10 @@
 ## HISTOIRE DU BREIZH DATA CLUB
+
+--- 
+[Retour](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
+---
+
+
 ### Petite histoire chronologique du Club
 
 #### Introduction
@@ -7,6 +13,29 @@ Il était une fois, voici longtemps, . . .
 
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
+> test texte surligné (avant)
+
+==surligné==   
+
+> test texte surligné ((après)
+
+#
+**texte en gras**
+
+***texte en gras et italique***
+
+_texte en italique_
+
+==texte surligné==
+
+~~texte barré~~
+
+
+Le XVIII<sup>e</sup> siècle
+
+#
+
+
 > test texte souligné (avant)
 
 <ins>  souligné </ins>   
