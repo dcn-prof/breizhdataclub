@@ -7,11 +7,16 @@ Il était une fois, voici longtemps, . . .
 
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
-> test color (avant)
+> test texte souligné (avant)
 
-texte normal [color=268260] texte coloré en vert [/color]
+#
 
-> test color (après)
+<ins>  souligné </ins>   
+
+
+
+
+> test texte souligné ((après)
 #  
 #  
 
