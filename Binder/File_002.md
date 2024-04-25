@@ -77,6 +77,11 @@ C'est ce qui explique pourquoi les données suscitent tant de passion (et donc d
 
 #  
 #  
+
+---
+
+## [|||||||||] 
+>
 ## Pour en savoir plus sur ce thème
 
 - Source 1 : [CNRTL](https://www.cnrtl.fr/definition/donn%C3%A9e)
@@ -84,14 +89,10 @@ C'est ce qui explique pourquoi les données suscitent tant de passion (et donc d
 - Source 3 : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
 
   
-
-
-
-
-#### WORK IN PROGRESS / CHANTIER EN COURS
-
-
-Version 2024-04-22
+  
+>
+>
+>  *  Version 2024-04-25
 
 
 
