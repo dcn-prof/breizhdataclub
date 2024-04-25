@@ -9,15 +9,26 @@ Il était une fois, voici longtemps, . . .
 #### WORK IN PROGRESS / CHANTIER EN COURS
 > test texte souligné (avant)
 
-#
-
 <ins>  souligné </ins>   
 
-
-
-
 > test texte souligné ((après)
+
+#
+
+> test texte exposant (avant)
+
+texte-normal <sup>   exposant  </sup>   texte-normal
+
+> test texte  exposant  ((après)
+
 #  
+
+> test texte indice (avant)
+
+texte-normal <sub>  indice  </sub>   texte-normal
+
+> test texte indice  ((après)
+
 #  
 
 
