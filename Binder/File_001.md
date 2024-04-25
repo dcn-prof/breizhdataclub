@@ -1,8 +1,5 @@
 ## HISTOIRE DU BREIZH DATA CLUB
 
---- 
-[Retour](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
----
 
 
 ### Petite histoire chronologique du Club
@@ -69,6 +66,8 @@ texte-normal <sub>  indice  </sub>   texte-normal
 
 - Source 1 : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
 
+---
+## [Retour au sommaire](https://dcn-prof.github.io/breizhdataclub/)
   
 >
 >
