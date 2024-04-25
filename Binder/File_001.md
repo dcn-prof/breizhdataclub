@@ -7,11 +7,11 @@ Il était une fois, voici longtemps, . . .
 
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
-> saut de page (avant)
+> test color (avant)
 
-+++
+texte normal [color=268260] texte coloré en vert [/color]
 
-> saut de page (après)
+> test color (après)
 #  
 #  
 
