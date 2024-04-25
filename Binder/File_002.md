@@ -67,12 +67,15 @@ Un peu plus tard encore, le volume croissant des données a graduellement impos�
 
 Actuellement, en informatique, on s'intéresse au **matériel**, aux **algorithmes**, aux **langages** et aux **données**. Ce que l'on appelait "logiciel" est désormais scindé en deux sous-ensembles : d'un côté, ce qui relève des algorithmes (les méthodes pour faire, les recettes de cuisine en quelque sorte) et, d'autre part, les langages qui relèvent de l'implémentation concrète (les couches logicielles d'exploitation au dessus du matériel). Quant aux données, elles sont désormais accessibles en très grandes quantités et sous des formats extrêmement diversifiés. Certaines données sont publiques, d'autres proviennent de sources privées. Quelques unes sont hyperprotégées soit pour des raisons stratégiques (propriété intellectuelle ou autre), soit pour des raisons réglementaires (protection de la vie privée, etc.).
 
+Quelles que soient leurs origines, les données sont désormais stockées ou produites en très grandes quantités. Pour faciliter leur utilisation et leur stockage, elles sont disponibles sous des formats sophistiqués visant à maximiser leur accessibilité en des temps les plus courts possible. Ainsi sont apparus divers formats de bases de données, de _pipe-lines_, d'ensembles multi-indexés, etc. destinés à stocker et brasser efficacement des mégadonnées (également appelées _Big Data_).
+
+
 Aujourd'hui, les données sont partout. Dans la vraie vie et dans le monde de l'informatique en particulier.
 
 Plus récemment, depuis les années 2010, la profusion gigantesque des données a facilité les techniques d'apprentissage automatique ce qui a favorisé le développement d'une nouvelle génération de robots dotés d'une certaine forme d'intelligence artificielle.
-Cette nouvelle perspective a ouvert de nouveaux chantiers : techniques, économiques, éthiques; juridiques,commerciaux, etc.
+Cette nouvelle perspective a ouvert de nouveaux chantiers : techniques, économiques, éthiques, juridiques,commerciaux, etc.
 
-C'est ce qui explique pourquoi les données suscitent actuellement tant de passion (et donc de passionnés).
+C'est ce qui explique pourquoi les données suscitent actuellement autant de passion (et donc autant de passionnés).
 
 
 
