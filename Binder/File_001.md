@@ -80,7 +80,42 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
-|             |                                                                          |                          |
+|:-----------:|:------------------------------------------------------------------------:|:------------------------:|
+
+>
+>
+>
+>
+#### Transformation du Breizh Data Club à partir de 2022
+
+Comme partout ailleurs, les activités du **Breizh Data Club** ont été impactées, voire perturbées et chahutées par la pandémie de CoViD-19 au cours des années 2020 et 2021. Une partie de conférences a continué à rassembler les _Data Lovers_ en distanciel grâce aux visioconférences. Mais d'autres activités ont du être annulées malgré l'énergie dépensée dans leur préparation.   
+
+Tout ceci explique le "coup de mou" ressenti par les _Data Lovers_ du **Breizh Data Club** en ce début d'année 2022.
+
+De surcroït, les tribulations administratives et bureaucratiques ont lassé une partie des administrateurs de l'association. En conséquence, le 10 mars 2022, une Assemblée Générale Extraordinaire a décidé l'arrêt du **Breizh Data Club** sous sa forme associative et sa continuation sous d'autres formes.
+
+C'est ainsi que l'association **Breizh Data Club** a été dissoute officiellement et que ses actifs ont été dévolus à deux associations poursuivant des buts voisins ou similaires. D'un côté, les _Data Lovers_ ont décidé de travailler conjointement avec l'association **BreizhCamp** à Rennes ( [BreizhCamp asso](https://www.breizhcamp.org/asso/) ) pour perpétuer les ***Meetups***. Et, de l'autre, ils ont décidé de travailler avec la technopole **INNÔZH** à Saint-Brieuc ( [INNÔZH asso](https://www.innozh.fr/innozh/qui-sommes-nous-2/) ) afin d'organiser les **Breizh Data Day** annuels.
+
+
+
+Sitôt dit, sitôt fait !
+
+La dissolution officielle du **Breizh Data Club** date du 14 novembre 2022. Les signataires de la dissolution
+de l’association sont Sophie Tardivel (ex. Présidente), Corentin Brémard (ex. Trésorier), Yann Hidot
+(Rédacteur) et Didier Certain (Trésorier). (Source : Annonce n° 741 parue au Journal Officiel du 29
+novembre 2022).
+
+#### Relance du Breizh Data Club à partir de 2023
+
+Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les événements structurants commes les journées annuelles **Breizh Data Day** et puis, ensuite, d'autres activités préparées conjointement avec les partenaires (**BreizhCamp** et **INNÔZH**). Le **Breizh Data Club** est devenu un _User Group_ de **BreizhCamp** ce qui permet de travailler, la main dans la main, sur le terrain tout en mutualisant les coûts administratifs et bureaucratiques. Et, par ailleurs, les _Data Lovers_ se sont appuyés sur **INNÔZH** pour la logistique et le financement des journées **Breizh Data Day**.
+
+
+
+|    Date     |                    Evénement                                             |    Pour en savoir plus   |
+| :----------:|:------------------------------------------------------------------------:|:------------------------:|
+| 04-04-2023  |  **Breizh Data Day #4** (2023) au Village by CA à Ploufragan (22)        |                          |
+| 28-06-2023  | **BreizhCamp 2023** 3 jours de conférences tech sur le Campus de Beaulieu à Renes |   [Youtube BreizhCamp](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)   |
+| 04-04-2023  |  **Breizh Data Day #5** (2024) au Palais des Congrès à Saint-Brieuc (22) |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
@@ -109,15 +144,6 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |:-----------:|:------------------------------------------------------------------------:|:------------------------:|
-
-
-
-
-
-
-
-
-
 
 
 
