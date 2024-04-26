@@ -59,11 +59,44 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 | 13-12-2018  |  [Data Thursday] Le déjeuner des Data Scientists à l'ENSAI               |                          |
 | 21-01-2019  |  Data visualisation: théorie et pratique                                 |                          |
 | 27-03-2019  |  IA: Rétrospective 2018, par-delà les buzz médiatiques (Gaming, NLP, AutoML...))                              |                          |
-| 11-04-2019  |  Data Thursday] Vous faites parler vos données ? Venez en parler !       |                          |
+| 11-04-2019  |  [Data Thursday] Vous faites parler vos données ? Venez en parler !      |                          |
 | 09-05-2019  |   Open data et machine learning pour l'efficacité commerciale            |                          |
 | 20-05-2019  |  Cartographie, quoi de neuf?                                             |                          |
 | 24-09-2019  |  Afterwork EjC sur la Data Science                                       |                          |
-| 07-11-2019  | **Breizh Data Day #3-** (2019) à Rennes School of Business               |                          |
+| 07-11-2019  | **Breizh Data Day #3-** (2019) à Rennes School of Business               |    [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>)  |
+| 26-03-2020  | Application de la Data Science à la détection d'attaques en cybersécurité |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
+| 13-05-2020  | Les données au service des différents métiers : l'exemple des tableaux de bord |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
+| 10-06-2020  | Gouvernance des données : Quelle plus-value pour mon organisation ?      |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
+| 11-03-2021  |CoViD-19: Qu'est-ce que les données ont apporté aux épidémiologistes?     |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
+| 18-03-2021  | Comment allier exploitation des données personnelles de santé et sécurité ? |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf          |
+| 25-03-2021  | Les données pour mesurer le risque CoViD dans les quartiers défavorisés  | [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
+| 01-04-2021  | Présentation d'un modèle de Machine Learning pour optimiser le diagnostic CoViD-19 |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
+| 15-04-2021  | Manipulation des images et fausses informations : qu'est-ce que l'IA a changé ? |  [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
+| 22-04-2021  |Analyse de scène extérieure par deep learning: fusion, déséquilibres, adaptation |  [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
+| 29-04-2021  |  L’IA au service des Archives Reconnaissance de manuscrits des 17e-18e siècles  | [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
+| 02-12-2021  | Meetup Python - Exemple d'outils développés par Plotly (Keyan Bennaceur)   | Présentiel               |
+| 07-01-2022  | Stratégie marketing grâce à la data                                      |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
