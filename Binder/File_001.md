@@ -56,6 +56,14 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 | 19-04-2018  | [Petit-dej] Le data mining au service de problématiques économiques      |                          |
 | 04-07-2018  | Apprendre et Enseigner la data science — Table ronde                     |                          |
 | 19-10-2018  | **Breizh Data Day #2** (2018) à la CCI d’Ille-et-Vilaine à Rennes        | [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>)                         |
+| 13-12-2018  |  [Data Thursday] Le déjeuner des Data Scientists à l'ENSAI               |                          |
+| 21-01-2019  |  Data visualisation: théorie et pratique                                 |                          |
+| 27-03-2019  |  IA: Rétrospective 2018, par-delà les buzz médiatiques (Gaming, NLP, AutoML...))                              |                          |
+| 11-04-2019  |  Data Thursday] Vous faites parler vos données ? Venez en parler !       |                          |
+| 09-05-2019  |   Open data et machine learning pour l'efficacité commerciale            |                          |
+| 20-05-2019  |  Cartographie, quoi de neuf?                                             |                          |
+| 24-09-2019  |  Afterwork EjC sur la Data Science                                       |                          |
+| 07-11-2019  | **Breizh Data Day #3-** (2019) à Rennes School of Business               |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
@@ -67,10 +75,7 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-| :----------:|:------------------------------------------------------------------------:|:------------------------:|
+|:-----------:|:------------------------------------------------------------------------:|:------------------------:|
 
 
 
