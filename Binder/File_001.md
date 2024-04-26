@@ -45,7 +45,7 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 | 16-03-2017  |  Soirée R2Com                                                            |                          |
 | 08-06-2017  | Data Thursday : Vous faites parler vos données ? Venez en parler !       |                          |
 | 14-09-2017  | Data Thursday : Vous faites parler vos données ? Venez en parler !       |                          |
-| 19-10-2017  | **Breizh Data Day #1** (2017) au Poool - la French Tech Rennes           |                          |
+| 19-10-2017  | **Breizh Data Day #1** (2017) au Poool - la French Tech Rennes           |  [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos)     |
 | 23-11-2017  | Text mining & Marketing                                                  |                          |
 | 12-12-2017  |  À la découverte de Wikidata                                             |                          |
 | 18-01-2018  | Data Thursday : Vous faites parler vos données ? Venez en parler !       |                          |
@@ -55,9 +55,33 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 | 12-04-2018  | [Data Thursday] Rendez-vous à l'ENSAI                                    |                          |
 | 19-04-2018  | [Petit-dej] Le data mining au service de problématiques économiques      |                          |
 | 04-07-2018  | Apprendre et Enseigner la data science — Table ronde                     |                          |
-| 19-10-2018  | **Breizh Data Day #2** (2018) à la CCI d’Ille-et-Vilaine à Rennes        |                          |
+| 19-10-2018  | **Breizh Data Day #2** (2018) à la CCI d’Ille-et-Vilaine à Rennes        | [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>)                         |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
+|             |                                                                          |                          |
 |             |                                                                          |                          |
 | :----------:|:------------------------------------------------------------------------:|:------------------------:|
+
+
+
+
+
+
+
+
+
+
+
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
 > test texte surligné (avant)
