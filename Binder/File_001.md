@@ -35,7 +35,7 @@ Conformément à ses objectifs, le Club a organisé régulièrement des rencontr
 4) des visioconférences (surtout pendant la pandémie de CoViD-19).
 
 Voici, ci-dessous, la liste chronologique des occasions de rencontres (pour se former et échanger)
-entre membres du Club ( Source : [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>) ).
+entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>) ).
 
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
