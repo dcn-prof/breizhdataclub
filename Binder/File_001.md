@@ -94,7 +94,7 @@ Tout ceci explique le "coup de mou" ressenti par les _Data Lovers_ du **Breizh D
 
 De surcroït, les tribulations administratives et bureaucratiques ont lassé une partie des administrateurs de l'association. En conséquence, le 10 mars 2022, une Assemblée Générale Extraordinaire a décidé l'arrêt du **Breizh Data Club** sous sa forme associative et sa continuation sous d'autres formes.
 
-C'est ainsi que l'association **Breizh Data Club** a été dissoute officiellement et que ses actifs ont été dévolus à deux associations poursuivant des buts voisins ou similaires. D'un côté, les _Data Lovers_ ont décidé de travailler conjointement avec l'association **BreizhCamp** à Rennes ( [BreizhCamp asso](https://www.breizhcamp.org/asso/) ) pour perpétuer les ***Meetups***. Et, de l'autre, ils ont décidé de travailler avec la technopole **INNÔZH** à Saint-Brieuc ( [INNÔZH asso](https://www.innozh.fr/innozh/qui-sommes-nous-2/) ) afin d'organiser les **Breizh Data Day** annuels.
+C'est ainsi que l'association **Breizh Data Club** a été dissoute officiellement et que ses actifs ont été dévolus à deux associations poursuivant des buts voisins ou similaires. D'un côté, les _Data Lovers_ ont décidé de travailler conjointement avec l'association **BreizhCamp** à Rennes ([BreizhCamp asso](https://www.breizhcamp.org/asso/)) pour perpétuer les ***Meetups***. Et, de l'autre, ils ont décidé de travailler avec la technopole **INNÔZH** à Saint-Brieuc ([INNÔZH asso](https://www.innozh.fr/innozh/qui-sommes-nous-2/)) afin d'organiser les **Breizh Data Day** annuels.
 
 
 
@@ -107,7 +107,7 @@ novembre 2022).
 
 #### Relance du Breizh Data Club à partir de 2023
 
-Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les événements structurants commes les journées annuelles **Breizh Data Day** et puis, ensuite, d'autres activités préparées conjointement avec les partenaires (**BreizhCamp** et **INNÔZH**). Le **Breizh Data Club** est devenu un _User Group_ de **BreizhCamp** ce qui permet de travailler, la main dans la main, sur le terrain tout en mutualisant les coûts administratifs et bureaucratiques. Et, par ailleurs, les _Data Lovers_ se sont appuyés sur **INNÔZH** pour la logistique et le financement des journées **Breizh Data Day**.
+Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les événements structurants comme les journées annuelles **Breizh Data Day** et puis, ensuite, d'autres activités préparées conjointement avec les partenaires (**BreizhCamp** et **INNÔZH**). Le **Breizh Data Club** est devenu un des _User Groups_ de **BreizhCamp** ce qui permet de travailler, la main dans la main, sur le terrain tout en mutualisant les coûts administratifs et bureaucratiques. Et, par ailleurs, les _Data Lovers_ se sont appuyés sur **INNÔZH** pour organiser la logistique et assurer le financement des journées **Breizh Data Day**.
 
 
 
@@ -115,22 +115,7 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les
 | :----------:|:------------------------------------------------------------------------:|:------------------------:|
 | 04-04-2023  |  **Breizh Data Day #4** (2023) au Village by CA à Ploufragan (22)        |                          |
 | 28-06-2023  | **BreizhCamp 2023** 3 jours de conférences tech sur le Campus de Beaulieu à Renes |   [Youtube BreizhCamp](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)   |
-| 04-04-2023  |  **Breizh Data Day #5** (2024) au Palais des Congrès à Saint-Brieuc (22) |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
+| 04-04-2023  |  **Breizh Data Day #5** (2024) au Palais des Congrès à Saint-Brieuc (22) |[INNÔZH-BDC](https://breizhdataday.innozh.fr/)  |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
@@ -145,7 +130,14 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les
 |             |                                                                          |                          |
 |:-----------:|:------------------------------------------------------------------------:|:------------------------:|
 
+>
 
+
+#### La suite de l'histoire reste à écrire 
+
+Les _Data Lovers_ restent motivés pour organiser des moments de partage et d'apprentissage sur les sujets techniques (TECH) et sur les retours d'expérience (RETEX) qui touchent les différents aspects et les divers domaines des _Data_.
+
+C'est pourquoi l'avenir du **Breizh Data Club** reste encore à écrire . . .
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
 > test texte surligné (avant)
@@ -202,14 +194,16 @@ texte-normal <sub>  indice  </sub>   texte-normal
 >
 ## Pour en savoir plus sur ce thème
 
-- Source 1 : [Histoire illustrée de l'informatique](https://laboutique.edpsciences.fr/produit/1255/9782759827053/histoire-illustree-de-l-informatique)
+- Source 1 : [Meetup Breizh Data Club](https://www.meetup.com/fr-FR/Breizh-Data-Club/)
+- Source 2 : [Youtube BreizhCamp](https://www.meetup.com/fr-FR/Breizh-Data-Club/)
+- Source 3 : [Souvenirs, souvenirs](https://dcn-prof.github.io/breizhdataclub)
 
 ---
 ## [Retour au sommaire](https://dcn-prof.github.io/breizhdataclub/)
   
 >
 >
->  *  Version 2024-04-25
+>  *  Version 2024-04-26
 
 
 
