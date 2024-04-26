@@ -25,6 +25,17 @@ Ouest en impliquant les entreprises, les établissements d'enseignement, les exp
 associations, les réseaux sociaux et, plus généralement, tous ceux qui enseignent ou font de la _data
 science_, de l'ingénierie _data_, de la _dataviz_, etc.
 
+#### Activités du Breizh Data Club de 2017 à 2022
+
+Conformément à ses objectifs, le Club a organisé régulièrement des rencontres pour se former et
+échanger entre _Data Lovers_. Ces rencontres ont eu lieu sous divers formats :
+1) des soirées après le travail (***Meetup***), environ une fois tous les deux mois.
+2) des réunions à des horaires atypiques (petit-déjeuner, repas de midi, etc.).
+3) des journées entières de conférences (**Breizh Data Day**), une fois par an.
+4) des visioconférences (surtout pendant la pandémie de CoViD-19).
+
+Voici, ci-dessous, la liste chronologique des occasions de rencontres (pour se former et échanger)
+entre membres du Club ( Source : [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>) ).
 
 
 #### WORK IN PROGRESS / CHANTIER EN COURS
