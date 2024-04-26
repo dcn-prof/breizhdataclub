@@ -38,6 +38,27 @@ Voici, ci-dessous, la liste chronologique des occasions de rencontres (pour se f
 entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.com/breizh-data-club/events>) ).
 
 
+|    Date     |                    Evénement                                             |    Pour en savoir plus   |
+| :----------:|:------------------------------------------------------------------------:|:------------------------:|
+| 02-03-2017  |  Panama Papers : Investigation et Big Data                               |                          |
+| 14-03-2017  |  Soirée Ausy Career Booster Nights                                       |                          |
+| 16-03-2017  |  Soirée R2Com                                                            |                          |
+| 08-06-2017  | Data Thursday : Vous faites parler vos données ? Venez en parler !       |                          |
+| 14-09-2017  | Data Thursday : Vous faites parler vos données ? Venez en parler !       |                          |
+| 19-10-2017  | **Breizh Data Day #1** (2017) au Poool - la French Tech Rennes           |                          |
+| 23-11-2017  | Text mining & Marketing                                                  |                          |
+| 12-12-2017  |  À la découverte de Wikidata                                             |                          |
+| 18-01-2018  | Data Thursday : Vous faites parler vos données ? Venez en parler !       |                          |
+| 24-01-2018  |  R, vous avez dit R ?                                                    |                          |
+| 15-02-2018  |  RGPD, Métadonnées et sécurité informatique                              |                          |
+| 08-03-2018  | Neo4J : introduction et cas d'usage                                      |                          |
+| 12-04-2018  | [Data Thursday] Rendez-vous à l'ENSAI                                    |                          |
+| 19-04-2018  | [Petit-dej] Le data mining au service de problématiques économiques      |                          |
+| 04-07-2018  | Apprendre et Enseigner la data science — Table ronde                     |                          |
+| 19-10-2018  | **Breizh Data Day #2** (2018) à la CCI d’Ille-et-Vilaine à Rennes        |                          |
+|             |                                                                          |                          |
+| :----------:|:------------------------------------------------------------------------:|:------------------------:|
+
 #### WORK IN PROGRESS / CHANTIER EN COURS
 > test texte surligné (avant)
 
