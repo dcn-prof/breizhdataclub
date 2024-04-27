@@ -59,7 +59,7 @@
 |        Breizh Data Day 2023     |        2023-04-04      |                                                    |
 |        Breizh Data Day 2019     |        2019-11-07      |                                                    |
 |        Breizh Data Day 2018     |        2018-10-19      |                                                    |
-|        Breizh Data Day 2017     |        2017-10-xx      |                                                    |
+|        Breizh Data Day 2017     |        2017-10-19      |                                                    |
 |  1er Meetup Breizh Data Club    |        2017-03-02      |                                                    |
 |                                 |                        |                                                    |
 |                                 |                        |                                                    |
