@@ -63,8 +63,8 @@
 |  1er Meetup Breizh Data Club    |        2017-03-02      |                                                    |
 |                                 |                        |                                                    |
 |                                 |                        |                                                    |
-|  Histoire du Breizh Data Club   |       2024-04-23       |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_001/>                                                  |
-|        Histoire des Data        |     2024-04-23         |     <https://dcn-prof.github.io/breizhdataclub/Binder/File_002/>                        |
+|  Histoire du Breizh Data Club   |       2024-04-23       | [Histoire du BDC](https://dcn-prof.github.io/breizhdataclub/Binder/File_001/) |
+|        Histoire des Data        |     2024-04-23         | [Histoire des Data](https://dcn-prof.github.io/breizhdataclub/Binder/File_002/) |
 |                                 |                        |                                                    |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 
@@ -81,5 +81,5 @@ Pour en savoir plus sur le **Breizh Data Club**, cliquer sur [A propos](https://
 
 >
 >
->  *  Version 2024-04-23
+>  *  Version 2024-04-27
 
