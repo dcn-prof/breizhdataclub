@@ -26,6 +26,9 @@ En dehors des amphis, dans le grand hall de l'Université et/ou autour des table
 
 Des animations sont régulièrement proposées par les sponsors ce qui contribue à la convivialité de l'ambiance.
 
+#### Galerie de photos souvenirs
+C'est ici [Photos Souvenirs](https://www.breizhcamp.org/)
+
 #### Rendez-vous l'année prochaine pour le BreizhCamp 2024 
 
 La prochaine édition (la 12<sup>ème</sup> édition) du **BreizhCamp** est prévue du 26 au 28 juin 2024 sur le Campus de Beaulieu.
