@@ -40,7 +40,7 @@ Adresse : 2 Rue de la Mabilais, 35000 Rennes
 >
 ## Pour en savoir plus sur ce thème
 
-- Source 1 : [Skeepers]((https://skeepers.io/fr/)
+- Source 1 : [Skeepers](https://skeepers.io/fr/)
 
 
 ---
