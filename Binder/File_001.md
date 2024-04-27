@@ -67,32 +67,29 @@ entre membres du Breizh Data Club ( Source : [Meetup BDC](<https://www.meetup.co
 | 26-03-2020  | Application de la Data Science à la détection d'attaques en cybersécurité |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
 | 13-05-2020  | Les données au service des différents métiers : l'exemple des tableaux de bord |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
 | 10-06-2020  | Gouvernance des données : Quelle plus-value pour mon organisation ?      |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
-| 11-03-2021  |CoViD-19: Qu'est-ce que les données ont apporté aux épidémiologistes?     |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
+| 11-03-2021  |CoViD-19 : Qu'est-ce que les données ont apporté aux épidémiologistes?     |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
 | 18-03-2021  | Comment allier exploitation des données personnelles de santé et sécurité ? |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf          |
 | 25-03-2021  | Les données pour mesurer le risque CoViD dans les quartiers défavorisés  | [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
 | 01-04-2021  | Présentation d'un modèle de Machine Learning pour optimiser le diagnostic CoViD-19 |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
 | 15-04-2021  | Manipulation des images et fausses informations : qu'est-ce que l'IA a changé ? |  [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf   |
 | 22-04-2021  |Analyse de scène extérieure par deep learning: fusion, déséquilibres, adaptation |  [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
 | 29-04-2021  |  L’IA au service des Archives Reconnaissance de manuscrits des 17e-18e siècles  | [Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
-| 02-12-2021  | Meetup Python - Exemple d'outils développés par Plotly (Keyan Bennaceur)   | Présentiel               |
+| 02-12-2021  | Meetup Python - Exemple d'outils développés par Plotly (par Keyan Bennaceur)   | Présentiel               |
 | 07-01-2022  | Stratégie marketing grâce à la data                                      |[Youtube BDC](https://www.youtube.com/@breizhdataclub1166/videos) Enreg.Visioconf  |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
 |             |                                                                          |                          |
 |:-----------:|:------------------------------------------------------------------------:|:------------------------:|
 
 >
 >
 >
->
+
 #### Transformation du Breizh Data Club à partir de 2022
 
-Comme partout ailleurs, les activités du **Breizh Data Club** ont été impactées, voire perturbées et chahutées par la pandémie de CoViD-19 au cours des années 2020 et 2021. Une partie de conférences a continué à rassembler les _Data Lovers_ en distanciel grâce aux visioconférences. Mais d'autres activités ont du être annulées malgré l'énergie dépensée dans leur préparation.   
+Comme partout ailleurs, les activités du **Breizh Data Club** ont été impactées, voire perturbées et chahutées par la pandémie de CoViD-19 au cours des années 2020 et 2021. Une partie de conférences a continué à rassembler les _Data Lovers_ en distanciel grâce aux visioconférences. Mais d'autres activités ont dû être annulées malgré l'énergie dépensée dans leur préparation.   
 
 Tout ceci explique le "coup de mou" ressenti par les _Data Lovers_ du **Breizh Data Club** en ce début d'année 2022.
 
-De surcroït, les tribulations administratives et bureaucratiques ont lassé une partie des administrateurs de l'association. En conséquence, le 10 mars 2022, une Assemblée Générale Extraordinaire a décidé l'arrêt du **Breizh Data Club** sous sa forme associative et sa continuation sous d'autres formes.
+De surcroît, les tribulations administratives et bureaucratiques ont lassé une partie des administrateurs de l'association. En conséquence, le 10 mars 2022, une Assemblée Générale Extraordinaire a décidé l'arrêt du **Breizh Data Club** sous sa forme associative et sa continuation sous d'autres formes.
 
 C'est ainsi que l'association **Breizh Data Club** a été dissoute officiellement et que ses actifs ont été dévolus à deux associations poursuivant des buts voisins ou similaires. D'un côté, les _Data Lovers_ ont décidé de travailler conjointement avec l'association **BreizhCamp** à Rennes ([BreizhCamp asso](https://www.breizhcamp.org/asso/)) pour perpétuer les ***Meetups***. Et, de l'autre, ils ont décidé de travailler avec la technopole **INNÔZH** à Saint-Brieuc ([INNÔZH asso](https://www.innozh.fr/innozh/qui-sommes-nous-2/)) afin d'organiser les **Breizh Data Day** annuels.
 
@@ -107,7 +104,7 @@ novembre 2022).
 
 #### Relance du Breizh Data Club à partir de 2023
 
-Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les événements structurants comme les journées annuelles **Breizh Data Day** et puis, ensuite, d'autres activités préparées conjointement avec les partenaires (**BreizhCamp** et **INNÔZH**). Le **Breizh Data Club** est devenu un des _User Groups_ de **BreizhCamp** ce qui permet de travailler, la main dans la main, sur le terrain tout en mutualisant les coûts administratifs et bureaucratiques. Et, par ailleurs, les _Data Lovers_ se sont appuyés sur **INNÔZH** pour organiser la logistique et assurer le financement des journées **Breizh Data Day**.
+Les activités pour _Data Lovers_ ont ainsi pu reprendre progressivement en douceur. D'abord les événements structurants comme les journées annuelles **Breizh Data Day** et puis, ensuite, d'autres activités préparées conjointement avec les partenaires (**BreizhCamp** et **INNÔZH**). Le **Breizh Data Club** est devenu un des _User Groups_ de **BreizhCamp** ce qui permet de travailler, main dans la main, sur le terrain tout en mutualisant les coûts administratifs et logistiques. Et, par ailleurs, les _Data Lovers_ se sont appuyés sur **INNÔZH** pour organiser la logistique et assurer le financement des journées **Breizh Data Day**.
 
 
 
@@ -119,15 +116,6 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
 |:-----------:|:------------------------------------------------------------------------:|:------------------------:|
 
 >
@@ -135,57 +123,10 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre en douceur. D'abord les
 
 #### La suite de l'histoire reste à écrire 
 
-Les _Data Lovers_ restent motivés pour organiser des moments de partage et d'apprentissage sur les sujets techniques (TECH) et sur les retours d'expérience (RETEX) qui touchent les différents aspects et les divers domaines des _Data_.
+Les _Data Lovers_ restent motivés pour organiser des moments de partage, de découverte et d'apprentissage sur divers sujets techniques (TECH) ainsi que sur des retours d'expérience (RETEX) touchant différents aspects et différents domaines _Data-driven_.
 
-C'est pourquoi l'avenir du **Breizh Data Club** reste encore à écrire . . .
+C'est pourquoi l'avenir du **Breizh Data Club** reste ouvert . . .  (et reste encore à écrire . . .).
 
-#### WORK IN PROGRESS / CHANTIER EN COURS
-> test texte surligné (avant)
-
-==surligné==   
-
-> test texte surligné ((après)
-
-#
-**texte en gras**
-
-***texte en gras et italique***
-
-_texte en italique_
-
-==texte surligné==
-
-~~texte barré~~
-
-
-Le XVIII<sup>e</sup> siècle
-
-#
-
-
-> test texte souligné (avant)
-
-<ins>  souligné </ins>   
-
-> test texte souligné ((après)
-
-#
-
-> test texte exposant (avant)
-
-texte-normal <sup>   exposant  </sup>   texte-normal
-
-> test texte  exposant  ((après)
-
-#  
-
-> test texte indice (avant)
-
-texte-normal <sub>  indice  </sub>   texte-normal
-
-> test texte indice  ((après)
-
-#  
 
 
 ---
@@ -195,8 +136,8 @@ texte-normal <sub>  indice  </sub>   texte-normal
 ## Pour en savoir plus sur ce thème
 
 - Source 1 : [Meetup Breizh Data Club](https://www.meetup.com/fr-FR/Breizh-Data-Club/)
-- Source 2 : [Youtube BreizhCamp](https://www.meetup.com/fr-FR/Breizh-Data-Club/)
-- Source 3 : [Souvenirs, souvenirs](https://dcn-prof.github.io/breizhdataclub)
+- Source 2 : [Youtube BreizhCamp](https://www.youtube.com/c/breizhcamp)
+- Source 3 : [Linkedin Breizh Data Day](https://www.linkedin.com/showcase/breizh-data-day)
 
 ---
 ## [Retour au sommaire](https://dcn-prof.github.io/breizhdataclub/)
