@@ -55,7 +55,7 @@
 |      Regards vers le passé      |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 |        Breizh Data Day 2024     |        2024-03-28      |                                                    |
-|          BreizhCamp 2023        |  du 28 au 30.06.2023   |                                                    |
+|          BreizhCamp 2023        |  du 28 au 30.06.2023   | [BreizhCamp 2023](https://dcn-prof.github.io/breizhdataclub/Binder/File_BzhCamp2023/)      |
 |        Breizh Data Day 2023     |        2023-04-04      |                                                    |
 |        Breizh Data Day 2019     |        2019-11-07      |                                                    |
 |        Breizh Data Day 2018     |        2018-10-19      |                                                    |
