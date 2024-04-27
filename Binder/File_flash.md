@@ -14,14 +14,14 @@ Le _Meetup_ sera aussi l'occasion de se réunir entre _data lovers_ le temps d'u
 
 
 #### Corentin Brémard 
-_Data Scientist_ est issu de l'ENSAI et il a travaillé chez Advalo puis chez Skeepers depuis 10 ans.
+_Data Scientist_ issu de l'ENSAI, Corentin a travaillé chez Advalo puis chez Skeepers depuis 10 ans.
 Expert en _Machine Learning_, l'expérience _start_-up a amené Corentin à s'auto-former afin de rester à la pointe de la technologie dans un contexte de montée en puissance du _Big Data_ puis de la _GenAI_. 
 
 Au sein de Skeepers, Corentin adapte et éprouve les nouvelles techniques dans le vaste domaine du marketing.
 
 
 #### Skeepers
-Créé en 2019, Skeepers accélère sa croissance au travers d'acquisitions, capitalisant plus d'une décennie d'innovation et de croissance. Avec plus de 450 employés dans des bureaux répartis dans 8 pays, Skeepers est le leader européen du Contenu Généré par les Utilisateurs (UGC, _User Generated Content_) pour l'engagement client. Skeepers aide les marques à développer des expériences impactantes pour les consommateurs. Skeepers propose une suite de solutions d'UGC qui offre une approche puissante et unique pour l'engagement des acheteurs. Skeepers permet aux marques d'exploiter tous les types d'UGC, de la création à la collecte, en passant par la gestion et l'activation. Grâce à aux solutions innovantes, basées sur l'IA, proposées par Skeepeers, les marques offrent aux consommateurs des expériences authentiques et fiables. La présentation d'aujourd'hui sera l'oacasion de découvrir comment on  peut tirer parti des UGC.
+Créé en 2019, Skeepers accélère sa croissance au travers d'acquisitions, capitalisant plus d'une décennie d'innovation et de croissance. Avec plus de 450 employés dans des bureaux répartis dans 8 pays, Skeepers est le leader européen du Contenu Généré par les Utilisateurs (UGC, _User Generated Content_) pour l'engagement client. Skeepers aide les marques à développer des expériences impactantes pour les consommateurs. Skeepers propose une suite de solutions d'UGC qui offre une approche puissante et unique pour l'engagement des acheteurs. Skeepers permet aux marques d'exploiter tous les types d'UGC, de la création à la collecte, en passant par la gestion et l'activation. Grâce aux solutions innovantes, basées sur l'IA, proposées par Skeepeers, les marques peuvent offrir aux consommateurs des expériences authentiques et fiables. La présentation d'aujourd'hui sera l'occasion de découvrir comment on peut tirer parti des UGC.
 
 
 #### Le Mabilay [Le Mabilay](https://metropole.rennes.fr/dit-le-ou-la-mabilay)
