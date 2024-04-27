@@ -11,7 +11,7 @@ _Data-Scientist_, _Statisticien_, _Data-Analyst_, _Ingénieur Data_, _Ingéneur 
 
 ## POURQUOI ?  For the pleasure of Data Lovers . . . 
 
-Notre objectif est de satisfaire la curiosité et l'intérêt des _Data-Lovers_
+Notre objectif est de satisfaire la curiosité et l'intérêt des _Data Lovers_
 
 ## AVEC QUOI ?  With different tools . . . 
 
@@ -37,7 +37,7 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data-Lovers_
 ## [|||||||||] 
 >
 ## Vous souhaitez nous contacter ? 
-Pour ecrire un message au **Breizh Data Club**, cliquer sur [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/)
+Pour écrire un message au **Breizh Data Club**, cliquer sur [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/)
 
 >
 >
