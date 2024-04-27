@@ -27,7 +27,7 @@ En dehors des amphis, dans le grand hall de l'Université et/ou autour des table
 Des animations sont régulièrement proposées par les sponsors ce qui contribue à la convivialité de l'ambiance.
 
 #### Galerie de photos souvenirs
-C'est ici [Photos Souvenirs](../Binder/File_BzhCamp2023photos)
+C'est ici [Photos Souvenirs](../File_BzhCamp2023photos)
 
 #### Rendez-vous l'année prochaine pour le BreizhCamp 2024 
 
