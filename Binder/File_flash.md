@@ -42,7 +42,7 @@ Le Poool x La French Tech Rennes St-Malo
 >
 
 ## Pour s'inscrire à ce Meetup Breizh Data Club / Mardi 14 mai 2024 à 18h30 / Le Mabilay à Rennes
-- Source 1 : [C'est par ici]((ttps://www.meetup.com/breizh-data-club/events/300636015/)
+- Source 1 : [C'est par ici](https://www.meetup.com/breizh-data-club/events/300636015/)
 
 ## Pour en savoir plus sur ce thème
 
