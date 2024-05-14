@@ -46,7 +46,7 @@ D'énormes volumes de données proviennent notamment :
 * des robots, des automates et autres machines dotées de capteurs pour interagir avec leur environnement.
 * Etc. Etc.
 
-Actuellement, trois décennies après la création du Web, ce n'est plus la rareté des données qui limite leur exploitation. C'est plutôt la profusion des données qui rend parfois difficile leur analyse et leur valorisation. Il faut donc parfois faire des choix drastiques pour sérier les données et tenter d'en exploiter quelques sous-ensembles avec une pertinence accrue. C'est typiquement l'approche des tableaux de bord qui facilite la visualistion des données afin de mieux décider et d'agir.
+Actuellement, trois décennies après la création du Web, ce n'est plus la rareté des données qui limite leur exploitation. C'est plutôt la profusion des données qui rend parfois difficile leur analyse et leur valorisation. Il faut donc parfois faire des choix drastiques pour sérier les données et tenter d'en exploiter quelques sous-ensembles avec une pertinence accrue. C'est typiquement l'approche des tableaux de bord qui facilitent la visualisation des données afin de mieux décider et d'agir.
 
 ![Raffinage des données](../illustrim/data-decison-action-00.png)
 #### Fig.2  - Partir des données pour décider et agir
