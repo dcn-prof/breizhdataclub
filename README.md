@@ -26,7 +26,6 @@
 
 |    C'est pour bientôt        |  Date de l'événement   |          Lien pour en savoir plus                  |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
-|  Meetup "RETEX Construction d'un chatbot avec approche RAG" par Corentin Brémard  |    14-05-2024   | [Flash](<https://dcn-prof.github.io/breizhdataclub/Binder/File_flash>)                                               |
 | Soirée des communautés tech rennaises  |     16-05-2024         |  <https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>                |
 |        BreizhCamp 2024       | du 26 au 28.06.2024    |  <https://www.breizhcamp.org/>                     |
 |                              |                        |                                                    |
