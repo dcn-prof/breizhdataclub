@@ -82,6 +82,7 @@
 |                                     |                        |                                                    |
 | Étude des impacts de l’IA sur le travail  |        2024-05-17      |  [LaborIA Explorer](<https://www.laboria.ai/laboria-explorer-synthese-generale/>)                                                   |
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
+| Etude ADEME–ARCEP - Evaluation de l'impact environnemental du numérique en France - Analyse prospective pour 2030 et 2050  |        2024-03-06      |  [ADEME - ARCEP (en PDF)](<https://www.arcep.fr/uploads/tx_gspublication/note-synthese-Arcep-gouvernement-prospective-2030-2050_mars2023.pdf>)                                                   |
 |                                     |                        |                                                    |
 |  ---------------------------------- | ---------------------- | -------------------------------------------------- |
 
