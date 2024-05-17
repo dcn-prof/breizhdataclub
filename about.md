@@ -37,9 +37,14 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data Lovers_
 ## [|||||||||] 
 >
 ## Vous souhaitez nous contacter ? 
-Pour écrire un message au **Breizh Data Club**, cliquer sur [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/)
+Pour écrire un message au **Breizh Data Club**, envoyez-nous un e-mail à
+![Prof Calculs](./illustrim/Logos/email-edit-BDC.png)
 
+
+
+---
 >
 >
->  *  Version 2024-04-24
+
+>  *  Version 2024-05-01
 
