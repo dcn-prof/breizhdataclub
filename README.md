@@ -79,6 +79,7 @@
 |         Des trucs à lire            |  Date de publication   |          Liens pour lire les trucs                 |
 | :---------------------------------- |:----------------------:| --------------------------------------------------:|
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
+| Étude des impacts de l’IA sur le travail  |        2024-05-17      |  [LaborIA Explorer](<https://www.laboria.ai/laboria-explorer-synthese-generale/>)                                                   |
 |                                     |                        |                                                    |
 |  ---------------------------------- | ---------------------- | -------------------------------------------------- |
 
