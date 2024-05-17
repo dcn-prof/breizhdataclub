@@ -24,7 +24,7 @@
 
 ## [/|\\|/|\\|/|\\] L'AVENIR DU FUTUR 
 
-|      C'est pour bientôt         |    Date de l'événement   |          Lien pour en savoir plus                  |
+|      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
 |          BreizhCamp 2024        |  du 26 au 28.06.2024     |  <https://www.breizhcamp.org/>                     |
@@ -38,7 +38,7 @@
 
 ## [/|\\|/|\\|/|\\] EN COURS ET ACTUEL
 
-|         En ce moment         |  Date de l'événement   |          Lien pour en savoir plus                  |
+|         En ce moment         |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
 |     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
@@ -51,7 +51,7 @@
 
 ## [/|\\|/|\\|/|\\] SOUVENIRS, SOUVENIRS . . .
 
-|      Regards vers le passé      |  Date de l'événement   |          Lien pour en savoir plus                  |
+|      Regards vers le passé      |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 | Soirée des communautés tech rennaises  |     2024-05-16         |  [Soirée des Communautés Tech 2024](<https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>)                |
 |       Meetup Breizh Data Club   |        2024-05-14      |  [Corentin Brémard](<https://dcn-prof.github.io/breizhdataclub/Binder/meetup_2024-05-14>)                                                   |
@@ -76,7 +76,7 @@
 
 ## [/|\\|/|\\|/|\\] BONNES FEUILLES . . .
 
-|         Des trucs à lire            |  Date de publication   |          Lien pour lire le truc                    |
+|         Des trucs à lire            |  Date de publication   |          Liens pour lire les trucs                 |
 | :---------------------------------- |:----------------------:| --------------------------------------------------:|
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
 |                                     |                        |                                                    |
