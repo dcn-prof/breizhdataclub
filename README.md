@@ -53,6 +53,7 @@
 
 |      Regards vers le passé      |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
+|                                     |                        |                                                    |
 | Soirée des communautés tech rennaises  |     2024-05-16         |  [Soirée des Communautés Tech 2024](<https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>)                |
 |       Meetup Breizh Data Club   |        2024-05-14      |  [Corentin Brémard](<https://dcn-prof.github.io/breizhdataclub/Binder/meetup_2024-05-14>)                                                   |
 |        Breizh Data Day 2024     |        2024-03-28      |                                                    |
@@ -78,6 +79,7 @@
 
 |  Un peu de lecture pour réfléchir   |  Date de publication   |   Liens pour lire les bonnes feuilles              |
 | :---------------------------------- |:----------------------:| --------------------------------------------------:|
+|                                     |                        |                                                    |
 | Étude des impacts de l’IA sur le travail  |        2024-05-17      |  [LaborIA Explorer](<https://www.laboria.ai/laboria-explorer-synthese-generale/>)                                                   |
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
 |                                     |                        |                                                    |
