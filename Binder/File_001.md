@@ -113,6 +113,9 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre progressivement en douc
 | 04-04-2023  |  **Breizh Data Day #4** (2023) au Village by CA à Ploufragan (22)        |                          |
 | 28-06-2023  | **BreizhCamp 2023** 3 jours de conférences tech sur le Campus de Beaulieu à Renes |   [Youtube BreizhCamp](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)   |
 | 28-03-2024  |  **Breizh Data Day #5** (2024) au Palais des Congrès à Saint-Brieuc (22) |[INNÔZH-BDC](https://breizhdataday.innozh.fr/)  |
+| 14-05-2024  |  Meetup "Développement d'un robot conversationnel d'entreprise basé sur une approche RAG"   |   [Corentin Brémard](https://dcn-prof.github.io/breizhdataclub/Binder/meetup_2024-05-14/)    |
+| 16-05-2024  | Soirée des communautés techniques rennaises organisée par BreizhCamp à l'ISTIC    | [BreizhCamp & friends](https://events.rennes.tech/events/7df7b1ba-132a-4d17-8a3c-871642cffe35)                      |
+|             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
