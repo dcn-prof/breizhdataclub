@@ -112,7 +112,7 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre progressivement en douc
 | :----------:|:------------------------------------------------------------------------:|:------------------------:|
 | 04-04-2023  |  **Breizh Data Day #4** (2023) au Village by CA à Ploufragan (22)        |                          |
 | 28-06-2023  | **BreizhCamp 2023** 3 jours de conférences tech sur le Campus de Beaulieu à Renes |   [Youtube BreizhCamp](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)   |
-| 04-04-2023  |  **Breizh Data Day #5** (2024) au Palais des Congrès à Saint-Brieuc (22) |[INNÔZH-BDC](https://breizhdataday.innozh.fr/)  |
+| 28-03-2024  |  **Breizh Data Day #5** (2024) au Palais des Congrès à Saint-Brieuc (22) |[INNÔZH-BDC](https://breizhdataday.innozh.fr/)  |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
 |             |                                                                          |                          |
