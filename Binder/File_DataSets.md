@@ -20,6 +20,8 @@ C'est juste le plaisir qui nous a guidés pour constituer cette liste non exhaus
 |   2024-05-24   |     **_Open Data_** Ille-et-Vilaine (Département)                |  [Ille-et-Vilaine - Open Data](https://www.ille-et-vilaine.fr/open-data-35)                                 |
 |   2024-05-24   |     **_Open Data_** Bretagne (Région)                            |  [Région Bretagne - Open Data](https://data.bretagne.bzh/pages/home-page/)                                 |
 |   2024-05-24   |     **_Open Data_** INSEE (France)                               |  [INSEE - Open Data](https://www.insee.fr/fr/information/2410988)                                |
+|   2024-05-24   |     **_Personnal or Non Commercial Use_** IMDb (USA) - a world-class authoritative source for information on movies, TV shows, and celebrities       |  [IMDb - Free Data](https://datasets.imdbws.com/)          |
+|                |                                                                  |                               |
 |                |                                                                  |                               |
 |                |                                                                  |                               |
 |:--------------:|:----------------------------------------------------------------:|:-----------------------------:|
