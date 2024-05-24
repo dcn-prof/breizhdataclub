@@ -11,8 +11,6 @@ Voici, ci-dessous, une liste de _data sets_ glanés, ici ou là, par nos _data l
 Aucune prétention scientifique dans cette liste, même si certains jeux de données sont très scientifiques.
 C'est juste le plaisir qui nous a guidés pour constituer cette liste non exhaustive . . .
 
-Si vous, oui **vous** qui passez par ici, vous souhaitez ajouter un item à cette liste, envoyez-nous vos suggestions à l'adresse indiquée en signature de notre site web [BreizhDataClub About](<https://dcn-prof.github.io/breizhdataclub/about/>)
-
 
 
 | Date d'ajout   |                  Jeux de données                                 |       Lien d'accès            |
@@ -39,7 +37,10 @@ En pareil cas, faites comme bon vous semble . . .  C'est votre choix.
 
 #### Nous vous souhaitons de bien jouer et surtout d'y prendre plaisir 
 
-**Et rappelez-vous !** Pensez à nous envoyer vos suggestions de _data sets_ libres d'accès (_open data_) à l'adresse indiquée en signature de notre site web **Breizh Data Club**.
+**Dernier point :** Si vous, oui **vous qui passez par ici**, vous souhaitez ajouter un item à laliste ci-dessus, envoyez-nous vos suggestions de _data sets_ libres d'accès (_open data_) par e-mail à l'adresse indiquée en signature de notre site web **Breizh Data Club**.
+[BreizhDataClub About](<https://dcn-prof.github.io/breizhdataclub/about/>)
+
+
 
 Merci et à bientôt.
 
