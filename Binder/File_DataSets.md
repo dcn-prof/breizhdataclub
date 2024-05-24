@@ -19,6 +19,7 @@ Si vous, oui **vous** qui passez par ici, vous souhaitez ajouter un item à cett
 | :-------------:|:----------------------------------------------------------------:|:-----------------------------:|
 |                |                                                                  |                               |
 |   2024-05-24   |     **_Open Data_** Rennes (Métropole)                           |  [Rennes Métropole - Open Data](https://data.rennesmetropole.fr/explore/?sort=explore.popularity_score)     |
+|   2024-05-24   |     **_Open Data_** Ille-et-Vilaine (Département)                |  [Ille-et-Vilaine - Open Data](https://www.ille-et-vilaine.fr/open-data-35)                                 |
 |   2024-05-24   |     **_Open Data_** Bretagne (Région)                            |  [Région Bretagne - Open Data](https://data.bretagne.bzh/pages/home-page/)                                 |
 |   2024-05-24   |     **_Open Data_** INSEE (France)                               |  [INSEE - Open Data](https://www.insee.fr/fr/information/2410988)                                |
 |                |                                                                  |                               |
@@ -26,7 +27,8 @@ Si vous, oui **vous** qui passez par ici, vous souhaitez ajouter un item à cett
 |:--------------:|:----------------------------------------------------------------:|:-----------------------------:|
 
 Remarque : Les jeux de données indiqués dans la liste ci-dessus sont quasiment tous en **_Open Data_** (sauf exception).
-Il se peut parfois que certaines sources de données vous demandent de vous identifier. En pareil cas, faites comme bon vous semble . . . 
+Il se peut parfois que certaines sources de données vous demandent de vous identifier. En effet, _Open Data_ signifie accessibilité aisée et gratuité des données. Mais _Open Data_ ne rime pas toujours avec anonymat. 
+En pareil cas, faites comme bon vous semble . . .  C'est votre choix.
 
 >
 >
