@@ -89,6 +89,15 @@
 
 ---
 
+## [/|\\|/|\\|/|\\] DES JEUX DE DONNEES POUR JOUER ?
+* Vous êtes joueur ? Vous aimez jouer avec des données ?
+>
+>
+Vous trouverez ici quelques _data sets_ pour vous faire plaisir.
+  [JEUX DE DONNEES libres d'accès](https://dcn-prof.github.io/breizhdataclub/Binder/File_DataSets/) 
+
+---
+
 ## [|||||||||] 
 >
 ## Qui sommes-nous ? 
