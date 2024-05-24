@@ -1,1 +1,62 @@
-sdsdsdf
+## VOUS ÊTES JOUEUR ? VOICI DES JEUX DE DONNEES . . .
+
+---
+
+### DES DATA SETS POUR LES DATA LOVERS
+
+
+#### Liste non exhaustive de data sets utiles ou amusants pour jouer avec des données
+
+Voici, ci-dessous, une liste de _data sets_ glanés, ici ou là, par nos _data lovers_.
+Aucune prétention scientifique dans cette liste, même si certains jeux de données sont très scientifiques.
+C'est juste le plaisir qui nous a guidés pour constituer cette liste non exhaustive . . .
+
+Si vous, oui **vous** qui passez par ici, vous souhaitez ajouter un item à cette liste, envoyez-nous vos suggestions à l'adresse indiquée en signature de notre site web [BreizhDataClub About](<https://dcn-prof.github.io/breizhdataclub/about/>)
+
+Remarque : Les jeux de données indiqués dans la liste ci-dessous sont quasiment tous en **_Open Data_** (sauf exception).
+Il se peut que certaines sources de données vous demandent de vous identifier. En pareil cas, faites comme bon vous semble . . . 
+
+| Date d'ajout   |                  Jeux de données                                 |       Lien d'accès            |
+| :-------------:|:----------------------------------------------------------------:|:-----------------------------:|
+|                |                                                                  |                               |
+|   2024-05-24   |     **_Open Data_** Rennes Métropole                             |  [Rennes Métropole - Open Data](https://data.rennesmetropole.fr/explore/?sort=explore.popularity_score)     |
+|   2024-05-24   |     **_Open Data_** INSEE                                        |  [INSEE - Open Data](https://www.insee.fr/fr/information/2410988)                             |
+|                |                                                                  |                               |
+|                |                                                                  |                               |
+|:--------------:|:----------------------------------------------------------------:|:-----------------------------:|
+
+>
+>
+>
+>
+
+---
+
+#### Nous vous souhaitons de bien jouer et surtout d'y prendre plaisir 
+
+**Et rappelez-vous !** Pensez à nous envoyer vos suggestions de _data sets_ libres d'accès (_open data_) à l'adresse indiquée en signature de notre site web **Breizh Data Club**.
+
+Merci et à bientôt.
+
+>
+>
+>
+
+
+
+## [|||||||||] 
+>
+## Pour en savoir plus sur le Breizh Data Club
+
+- Source 1 : [Meetup Breizh Data Club](https://www.meetup.com/fr-FR/Breizh-Data-Club/)
+- Source 2 : [Linkedin Breizh Data Club](https://www.linkedin.com/company/breizhdataclub)
+- Source 3 : [BreizhCamp Asso](https://www.breizhcamp.org/asso/)
+ 
+---
+
+
+## [Retour au sommaire](https://dcn-prof.github.io/breizhdataclub/)
+  
+>
+
+>  *  Version 2024-05-24
