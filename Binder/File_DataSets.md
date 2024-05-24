@@ -1,11 +1,11 @@
-## VOUS ÊTES JOUEUR ? VOICI DES JEUX DE DONNEES . . .
+## VOUS ÊTES JOUEUR ? VOICI DES JEUX DE DONNEES POUR VOUS AMUSER
 
 ---
 
-### DES DATA SETS POUR LES DATA LOVERS
+### DES _DATA SETS_ POUR LES _DATA LOVERS_
 
 
-#### Liste non exhaustive de data sets utiles ou amusants pour jouer avec des données
+#### Liste non exhaustive de quelques data sets utiles (ou amusants) pour jouer avec des données
 
 Voici, ci-dessous, une liste de _data sets_ glanés, ici ou là, par nos _data lovers_.
 Aucune prétention scientifique dans cette liste, même si certains jeux de données sont très scientifiques.
@@ -13,17 +13,20 @@ C'est juste le plaisir qui nous a guidés pour constituer cette liste non exhaus
 
 Si vous, oui **vous** qui passez par ici, vous souhaitez ajouter un item à cette liste, envoyez-nous vos suggestions à l'adresse indiquée en signature de notre site web [BreizhDataClub About](<https://dcn-prof.github.io/breizhdataclub/about/>)
 
-Remarque : Les jeux de données indiqués dans la liste ci-dessous sont quasiment tous en **_Open Data_** (sauf exception).
-Il se peut que certaines sources de données vous demandent de vous identifier. En pareil cas, faites comme bon vous semble . . . 
+
 
 | Date d'ajout   |                  Jeux de données                                 |       Lien d'accès            |
 | :-------------:|:----------------------------------------------------------------:|:-----------------------------:|
 |                |                                                                  |                               |
-|   2024-05-24   |     **_Open Data_** Rennes Métropole                             |  [Rennes Métropole - Open Data](https://data.rennesmetropole.fr/explore/?sort=explore.popularity_score)     |
-|   2024-05-24   |     **_Open Data_** INSEE                                        |  [INSEE - Open Data](https://www.insee.fr/fr/information/2410988)                             |
+|   2024-05-24   |     **_Open Data_** Rennes (Métropole)                           |  [Rennes Métropole - Open Data](https://data.rennesmetropole.fr/explore/?sort=explore.popularity_score)     |
+|   2024-05-24   |     **_Open Data_** Bretagne (Région)                            |  [Région Bretagne - Open Data](https://data.bretagne.bzh/pages/home-page/)                                 |
+|   2024-05-24   |     **_Open Data_** INSEE (France)                               |  [INSEE - Open Data](https://www.insee.fr/fr/information/2410988)                                |
 |                |                                                                  |                               |
 |                |                                                                  |                               |
 |:--------------:|:----------------------------------------------------------------:|:-----------------------------:|
+
+Remarque : Les jeux de données indiqués dans la liste ci-dessus sont quasiment tous en **_Open Data_** (sauf exception).
+Il se peut parfois que certaines sources de données vous demandent de vous identifier. En pareil cas, faites comme bon vous semble . . . 
 
 >
 >
