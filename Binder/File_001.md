@@ -13,7 +13,7 @@ rassemblés et se sont concertés pour organiser un premier _Meetup_ consacrée 
 Le thème de ce _Meetup_ initial était « ***Panama Papers : Investigation et Big Data*** ». Le conférencier
 était Michel Caradec, directeur technique chez CEGID à l’époque. C’est Michel Caradec qui, avec
 quelques autres participants comme Sophie Tardivel, Corentin Brémard, Colin Fay, Emmanuel Keita,
-Luc Sorel-Giffo, etc., décidèrent ensuite de créer l’association 1901 **Breizh Data Club**.
+Luc Sorel-Giffo, Zinnya Del Villar, Romain Vallée, etc., décidèrent ensuite de créer l’association 1901 **Breizh Data Club**.
 
 La création officielle du **Breizh Data Club** date du 28 juin 2017. Les initiateurs de l’association sont
 Sophie Tardivel (Présidente) et Corentin Brémard (Trésorier). Le siège social déclaré est « FRENCH
