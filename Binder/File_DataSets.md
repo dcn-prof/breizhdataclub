@@ -23,7 +23,7 @@ C'est juste le plaisir qui nous a guidés pour constituer cette liste non exhaus
 |   2024-05-24   |     **_Personnal or Non Commercial Use_** IMDb (USA) - a world-class authoritative source for information on movies, TV shows, and celebrities       |  [IMDb - Free Data](https://datasets.imdbws.com/)          |
 |   2024-05-29   |     **_Open Data_** Météo France                          |  [Portail Météo-France - Open Data](https://donneespubliques.meteofrance.fr/)                              |
 |   2024-05-29   |     **_Open Data_** Météo France                          |  [Météo et Climat - Open Data](https://meteo.data.gouv.fr/)                             |
-|   2024-05-29   |     **_Open Data_** Météo France                          |  [Portail des API - Open Data](https://portail-api.meteofrance.fr/web/fr/))                            |
+|   2024-05-29   |     **_Open Data_** Météo France                          |  [Portail des API - Open Data](https://portail-api.meteofrance.fr/web/fr/)                            |
 |                | |                |                                                                  |            |
 |                |                                                                  |                               |
 |:--------------:|:----------------------------------------------------------------:|:-----------------------------:|
