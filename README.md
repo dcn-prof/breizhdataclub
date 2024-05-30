@@ -84,6 +84,9 @@
 | L’IA peut-elle vraiment être frugale ?    |        2024-05-13      |  [TheConversation](<https://theconversation.com/lia-peut-elle-vraiment-etre-frugale-226274>)                                                   |
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
 | Etude ADEME–ARCEP - Evaluation de l'impact environnemental du numérique en France - Analyse prospective pour 2030 et 2050  |        2024-03-06      |  [ADEME - ARCEP (en PDF)](<https://www.arcep.fr/uploads/tx_gspublication/note-synthese-Arcep-gouvernement-prospective-2030-2050_mars2023.pdf>)                                                   |
+| Quand l'I.A. s'attaque aux prévisions météorologiques : évolution ou révoluton ?  |        2024-05-01      |  [Revue La Météorologie](<https://lameteorologie.fr/issues/2024/125/meteo_2024_125_48>)                                        |
+|                                     |                        |                                                    |
+|                                     |                        |                                                    |
 |                                     |                        |                                                    |
 |  ---------------------------------- | ---------------------- | -------------------------------------------------- |
 
