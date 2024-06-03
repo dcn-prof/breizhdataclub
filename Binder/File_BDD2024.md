@@ -36,12 +36,12 @@ En dehors des conférences, dans le hall et/ou autour des stands des sponsors, d
 Convivialité, bienveillance et détente étaient les maîtres-mots formulés par les visiteurs pour résumer la journée.
 
 #### Galerie de photos souvenirs
-C'est ici [Photos Souvenirs](../File_BzhCamp2023photos)
+C'est ici [Photos Souvenirs](../File_BDD2024photos)
+
 
 [TEST1](../illustrim/Photos)
 
-![Photo001](../illustrim/Photos/2024-05-14_BDC_Meetup_CorentinBjpg.jpg)
-![Photo002](../illustrim/01_Facade_Palais_Congrès.jpg)
+
 
 
 
