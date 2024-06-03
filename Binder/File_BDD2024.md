@@ -27,8 +27,9 @@ numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INN
 [Demandez le programme !](./illustrim/PDFfiles/Programme_BDD2024-(OK).pdf)
 
 
-[TEST](https://github.com/dcn-prof/breizhdataclub/illustrim/PDFfiles/Programme_BDD2024-(OK).pdf)
+[TEST1](https://github.com/dcn-prof/breizhdataclub/illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
+[TEST2](https://tsmcgrath.github.com/catch23/PDF/LowerComancheExample.pdf)
 
 [Vidéos des confs BreizhCamp 2023](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)
 >
