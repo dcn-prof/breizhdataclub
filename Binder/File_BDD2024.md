@@ -26,9 +26,7 @@ numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INN
 
 [Demandez le programme !](../illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
-[TEST4](../illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
-[Vidéos des confs BreizhCamp 2023](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)
 >
 
 #### Et des échanges informels 
@@ -39,6 +37,9 @@ Convivialité, bienveillance et détente étaient les maîtres-mots formulés pa
 
 #### Galerie de photos souvenirs
 C'est ici [Photos Souvenirs](../File_BzhCamp2023photos)
+
+[TEST1](../illustrim/Photos)
+
 
 #### Rendez-vous l'année prochaine pour le Breizh Data Day 2025 
 
