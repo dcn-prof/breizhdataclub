@@ -24,15 +24,7 @@ numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INN
 
 #### Un riche programme de conférences
 
-[Demandez le programme !](./illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
-
-[TEST0](./illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
-
-[TEST1](https://github.com/dcn-prof/breizhdataclub/illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
-
-[TEST2](https://github.com/dcn-prof/breizhdataclub/blob/main/illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
-
-[TEST3](https://tsmcgrath.github.io/catch23/PDF/LowerComancheExample.pdf)
+[Demandez le programme !](../illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
 [TEST4](../illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
