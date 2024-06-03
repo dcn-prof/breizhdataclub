@@ -40,6 +40,10 @@ C'est ici [Photos Souvenirs](../File_BzhCamp2023photos)
 
 [TEST1](../illustrim/Photos)
 
+![Photo001](../illustrim/Photos/2024-05-14_BDC_Meetup_CorentinBjpg.jpg)
+![Photo002](../illustrim/01_Facade_Palais_Congrès.jpg)
+
+
 
 #### Rendez-vous l'année prochaine pour le Breizh Data Day 2025 
 
