@@ -39,10 +39,6 @@ Convivialité, bienveillance et détente étaient les maîtres-mots formulés pa
 C'est ici [Photos Souvenirs](../File_BDD2024photos)
 
 
-[TEST1](../illustrim/Photos)
-
-
-
 
 
 #### Rendez-vous l'année prochaine pour le Breizh Data Day 2025 
