@@ -26,6 +26,7 @@ numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INN
 
 [Demandez le programme !](./illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
+[TEST0](./illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
 [TEST1](https://github.com/dcn-prof/breizhdataclub/illustrim/PDFfiles/Programme_BDD2024-OK.pdf)
 
