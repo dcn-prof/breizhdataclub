@@ -56,7 +56,7 @@
 |                                     |                        |                                                    |
 | Soirée des communautés tech rennaises  |     2024-05-16         |  [Soirée des Communautés Tech 2024](<https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>)                |
 |       Meetup Breizh Data Club   |        2024-05-14      |  [Corentin Brémard](<https://dcn-prof.github.io/breizhdataclub/Binder/meetup_2024-05-14>)                                                   |
-|        Breizh Data Day 2024     |        2024-03-28      |                                                    |
+|        Breizh Data Day 2024     |        2024-03-28      | [Breizh Data Day 2024](https://dcn-prof.github.io/breizhdataclub/Binder/File_BDD2024/)          |
 |          BreizhCamp 2023        |  du 28 au 30.06.2023   | [BreizhCamp 2023](https://dcn-prof.github.io/breizhdataclub/Binder/File_BzhCamp2023/)      |
 |        Breizh Data Day 2023     |        2023-04-04      |                                                    |
 |        Breizh Data Day 2019     |        2019-11-07      |                                                    |
