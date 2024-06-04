@@ -17,7 +17,7 @@ Cette nouvelle édition du **Breizh Data Day** a volontairement cherché à prop
 - et ce qui est souhaitable pour les citoyens, les usagers ou les clients (numérique responsable et durable, protection des droits et de la vie privée, etc.).
 
 La programmation 2024 proposait à la fois des conférences techniques (TECH) et des retours d’expériences d’entreprises (RETEX) afin d’accueillir un public diversifié : enseignants-chercheurs, chefs d’entreprises, professionnels du
-numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INNÔZH, le **Breizh Data Day 2024** était gratuit et ouvert à tous. Cette large ouverture a contribué à la diversité du public ét à la richesse des échanges. 
+numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INNÔZH, le **Breizh Data Day 2024** était gratuit et ouvert à tous. Cette large ouverture a contribué à la diversité du public et à la richesse des échanges. 
 
 
 >
@@ -58,7 +58,7 @@ Pour en savoir plus sur le **Breizh Data Day 2025**, cliquer [ICI](https://breiz
 
 - Source 1 : [INNÔZH - Saint-Brieuc](https://www.innozh.fr/innozh/qui-sommes-nous-2/)
 - Source 2 : [site Breizh Data Day 2024](https://breizhdataday.innozh.fr/)
-- Source N : [Palais des Congrès - Saint-Brieuc](https://www.saintbrieucexpocongres.com/)
+- Source 3 : [Palais des Congrès - Saint-Brieuc](https://www.saintbrieucexpocongres.com/)
   
 ---
 
