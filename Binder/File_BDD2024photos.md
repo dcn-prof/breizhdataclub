@@ -23,7 +23,7 @@
 ### Le programme dans la salle "Doris"
 ![Photo005](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
 **Le programme des conférences RETEX**
-> Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à terre-Neuve ou en Islande.
+> Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à Terre-Neuve ou en Islande.
 
 ### Charles DELANNOY & Mouad HILALI (Doctolib)
 ![Photo006](../illustrim/Photos/BDD2024/06_Amphi_Conf_Doctolib-02.jpg)
@@ -36,22 +36,24 @@
 performance de leur élevage ?**
 >
 
+### Vincent DUBREUIL (LETG - Université de Rennes 2)
+![Photo008](../illustrim/Photos/BDD2024/09_Doris_Conf_UR2-LETG-01.png)
+**Suivi des îlots de chaleur à Rennes par un réseau de stations connectées**
+> Comment utiliser les données (température, pluviomètrie, etc.) pour anticiper les effets du réchauffement climatique.
+> Le Professeur DUBREUIL est également, depuis 2022, Co-Président du Haut Conseil Breton pour le Climat (HCBC)
+
+### Jean-Luc TROMPARENT (Hellowork)
+![Photo009](../illustrim/Photos/BDD2024/10_Amphi_Conf_Mojo_Tromparent-02.jpg)
+**Mojo, le futur langage de l’IA ?**
+> Mojo est un langage de programmation apparu en 2023 qui vise à combiner la facilité d'utilisation du langage Python avec les performances d'un langage de programmation de plus bas niveau (cf. les langages C et C++).
 
 
-### Le programme dans la salle Doris
-![Photo008](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
->
 
-### Le programme dans la salle Doris
-![Photo009](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
->
+### Une présentation des usages possibles des Data et de l'I.A. à la SNCF en Bretagne
+![Photo010](../illustrim/Photos/BDD2024/20_Amphi_Conf_SNCF-02.jpg)
+**L'I.A. et les Data au service des trains régionaux**
+ >La SNCF était un sponsor Platinum de la journée
 
-### Le programme dans la salle Doris
-![Photo010](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
->
 
 ### Le programme dans la salle Doris
 ![Photo011](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
