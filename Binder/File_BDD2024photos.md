@@ -60,28 +60,14 @@ performance de leur élevage ?**
 **Echanges pour débriefer en fin de journée**
 >
 
-illustrim/Photos/BDD2024/99_orga_Elodie_Leang.jpg
+
 
 ### La véritable cheville ouvrière du Breizh Data Day 2024
 ![Photo012](../illustrim/Photos/BDD2024/99_orga_Elodie_Leang.jpg)
+>
 **Merci beaucoup Elodie pour votre dynamisme et votre efficacité !**
 >
-
-
-
-
-#### Photo 006  (---do not lean out of the window---)
-![Photo006](../illustrim/Photos/T-Rex_ISTIC_268143.jpg)
-**Légende n°6**
-> Commentaire annexe sur cette photo n°6
-> 
-#### Photo 007
-![Photo007](../illustrim/Photos/T-Rex_ISTIC_268787.jpg)
-**Légende n°7**
 >
-
-
-
 
 
 ---
