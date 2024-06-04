@@ -12,8 +12,8 @@
 
 ### La Keynote du matin
 ![Photo003](../illustrim/03_Amphi_Keynote-matin-03.jpg)
-**Zinnya Del Villar (Data-pop Alliance)**
->Zinnya Del Villar a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'IA au Service du Bien Commun ».
+**Zinnya DEL VILLAR (Data-pop Alliance)**
+>Zinnya DEL VILLAR a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'IA au Service du Bien Commun ».
 
 ### Le programme dans la salle "Le Grand Léjon"
 ![Photo004](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
@@ -49,31 +49,25 @@ performance de leur élevage ?**
 
 
 
-### Une présentation des usages possibles des Data et de l'I.A. à la SNCF en Bretagne
+### Présentation des usages possibles de l'I.A. et des Data par la SNCF en Bretagne
 ![Photo010](../illustrim/Photos/BDD2024/20_Amphi_Conf_SNCF-02.jpg)
 **L'I.A. et les Data au service des trains régionaux**
  >La SNCF était un sponsor Platinum de la journée
 
 
-### Le programme dans la salle Doris
-![Photo011](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
+### Les principaux organisateurs du Breizh Data Day 2024
+![Photo011](../illustrim/Photos/BDD2024/99_orga-05.png)
+**Echanges pour débriefer en fin de journée**
 >
 
-### Le programme dans la salle Doris
-![Photo012](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
+illustrim/Photos/BDD2024/99_orga_Elodie_Leang.jpg
+
+### La véritable cheville ouvrière du Breizh Data Day 2024
+![Photo012](../illustrim/Photos/BDD2024/99_orga_Elodie_Leang.jpg)
+**Merci beaucoup Elodie pour votre dynamisme et votre efficacité !**
 >
 
-### Le programme dans la salle Doris
-![Photo013](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
->
 
-### Le programme dans la salle Doris
-![Photo014](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
->
 
 
 #### Photo 006  (---do not lean out of the window---)
