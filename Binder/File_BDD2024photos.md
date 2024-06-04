@@ -15,20 +15,20 @@
 **Zinnya Del Villar (Data-pop Alliance)**
 >Zinnya Del Villar a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'IA au Service du Bien Commun ».
 
-### Le programme dans la salle Grand Léjon
+### Le programme dans la salle "Le Grand Léjon"
 ![Photo004](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
 **Le programme des conférences TECH**
->
+> Le Grand Léjon est un phare qui signale l'entrée nord de la baie de Saint-Brieuc.
 
-### Le programme dans la salle Doris
+### Le programme dans la salle "Doris"
 ![Photo005](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
 **Le programme des conférences RETEX**
->
+> Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à terre-Neuve ou en Islande.
 
-### La conférence Doctolib
+### Charles DELANNOY & Mouad HILALI (Doctolib)
 ![Photo006](../illustrim/Photos/BDD2024/06_Amphi_Conf_Doctolib-02.jpg)
 **Comment optimiser une énorme base de données ? En optimisant les index . . .**
->
+> Charles DELANNOY (sur la photo)
 
 ### Stéphanie LESCARRET (ACSystème)
 ![Photo007](../illustrim/Photos/BDD2024/09_Doris_Conf_ACSysteme-01.png)
