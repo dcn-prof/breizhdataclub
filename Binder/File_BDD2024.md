@@ -8,16 +8,16 @@
 
 Cette année, à Saint-Brieuc, c'était la 5ème édition du **Breizh Data Day** créé initialement à Rennes en 2017. 
 
-Avec ses 16 conférences, le **Breizh Data Day 2024** nous a proposé de trouver les inspirations et d'appréhender les dernières technologies et tendances du moment dans les domaines des Data et de l'Intelligence Artificiellle.
+Avec ses 16 conférences, le **Breizh Data Day 2024** nous a proposé de trouver les inspirations et de comprendre les dernières technologies et tendances du moment dans les domaines des Data et de l'Intelligence Artificiellle.
 
 Pourquoi l'I.A. ? Tout simplement parce que les technologies de l'I.A. sont de très grandes consommatrices de Data (notamment toutes celles qui s'appuient sur le _Machine Learning_ pour affiner et optimiser leurs modèles sous-jacents).
 
-Cette nouvelle édition a volontairement cherché à proposer aux visiteurs un savant dosage d'informations entre :
+Cette nouvelle édition du **Breizh Data Day** a volontairement cherché à proposer aux visiteurs un savant dosage d'informations entre :
 - ce qui est faisable pour contribuer techniquement au développement économique de l’écosystème régional
 - et ce qui est souhaitable pour les citoyens, les usagers ou les clients (numérique responsable et durable, protection des droits et de la vie privée, etc.).
 
 La programmation 2024 proposait à la fois des conférences techniques (TECH) et des retours d’expériences d’entreprises (RETEX) afin d’accueillir un public diversifié : enseignants-chercheurs, chefs d’entreprises, professionnels du
-numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INNÔZH, le **Breizh Data Day 2024** était gratuit et ouvert à tous.
+numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INNÔZH, le **Breizh Data Day 2024** était gratuit et ouvert à tous. Cette large ouverture a contribué à la diversité du public ét à la richesse des échanges. 
 
 
 >
@@ -41,9 +41,9 @@ C'est ici [Photos Souvenirs](../File_BDD2024photos)
 
 
 
-#### Rendez-vous l'année prochaine pour le Breizh Data Day 2025 
+## Rendez-vous l'année prochaine pour le Breizh Data Day 2025 
 
-La prochaine édition (la 6<sup>ème</sup> édition) du **Breizh Data Day** est prévue au printemps 2025 à Saint-Brieuc. La date définitive n'est pas encore fixée mais elle le sera au cours de l'été 2024.
+La prochaine édition (la 6<sup>ème</sup>) du **Breizh Data Day** est prévue au printemps 2025 à Saint-Brieuc. La date définitive n'est pas encore fixée mais elle le sera au cours de l'été 2024.
 
 Pour en savoir plus sur le **Breizh Data Day 2025**, cliquer [ICI](https://breizhdataday.innozh.fr/)
 
@@ -66,5 +66,5 @@ Pour en savoir plus sur le **Breizh Data Day 2025**, cliquer [ICI](https://breiz
   
 >
 
->  *  Version 2024-05-03
+>  *  Version 2024-05-04
 >    
