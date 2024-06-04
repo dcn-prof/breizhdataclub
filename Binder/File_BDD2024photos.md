@@ -5,7 +5,7 @@
 **L'Affiche du Breizh Data Day 2024**
 >
 ### Le Palais
-![Photo002](../illustrim/01_Facade_Palais_Congr%C3%A8s.jpg)
+![Photo002](../illustrim/Photos/BDD2024/01_Facade_Palais_Congres.jpg)
 **Le Palais des Congrès de Saint-Brieuc**
 >
 
