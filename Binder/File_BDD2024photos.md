@@ -4,6 +4,7 @@
 ![Photo001](../illustrim/02_Affiche-BDD2024.jpg)
 **L'Affiche du Breizh Data Day 2024**
 >
+
 ### Le Palais
 ![Photo002](../illustrim/Photos/BDD2024/01_Facade_Palais_Congres.jpg)
 **Le Palais des Congrès de Saint-Brieuc**
@@ -14,18 +15,29 @@
 **Zinnya Del Villar (Data-pop Alliance)**
 >Zinnya Del Villar a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'IA au Service du Bien Commun ».
 
+### Le programme dans la salle Grand Léjon
+![Photo004](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
+**Le programme des conférences TECH**
+>
 
-#### Photo 004
-![Photo004](../illustrim/Photos/T-Rex_ISTIC_268143.jpg)
-**Légende n°4**
+### Le programme dans la salle Doris
+![Photo005](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
+**Le programme des conférences RETEX**
+>
 
-#### Photo 005
-![Photo004](../illustrim/Photos/T-Rex_ISTIC_268787.jpg)
-**Légende n°5**
 
-#### Photo 006
-![Photo004](../illustrim/Photos/ecoCode_JohannaDuigou_BzhCamp2023.jpg)
+
+#### Photo 006  (---do not lean out of the window---)
+![Photo006](../illustrim/Photos/T-Rex_ISTIC_268143.jpg)
 **Légende n°6**
+
+#### Photo 007
+![Photo007](../illustrim/Photos/T-Rex_ISTIC_268787.jpg)
+**Légende n°7**
+
+#### Photo 008
+![Photo008](../illustrim/Photos/ecoCode_JohannaDuigou_BzhCamp2023.jpg)
+**Légende n°8**
 > Commentaire annexe sur cette photo
 
 
