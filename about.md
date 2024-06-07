@@ -25,8 +25,9 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data Lovers_
 * Et plus encore : des invitations à divers événements pour technophiles, etc.   
 
 
-### Quelques liens utiles  
+### Quelques liens utiles pour en savoir plus 
 * [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/) - Pour suivre notre actualité, _stay tuned_
+* [Page Linkedin](https://www.linkedin.com/company/breizhdataclub/) - Pour commenter et/ou réagir sur l'air du temps 
 * [Site BreizhCamp](https://www.breizhcamp.org/asso/) - Pour connaître les communautés techniques rennaises
 
 >
@@ -46,5 +47,5 @@ Pour écrire un message au **Breizh Data Club**, envoyez-nous un e-mail à
 >
 >
 
->  *  Version 2024-05-01
+>  *  Version 2024-06-07
 
