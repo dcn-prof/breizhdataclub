@@ -42,8 +42,7 @@ En pareil cas, faites comme bon vous semble . . .  C'est votre choix.
 #### Nous vous souhaitons de bien jouer et surtout d'y prendre plaisir 
 
 **Dernier point :** Si vous, oui vous qui passez par ici, vous souhaitez ajouter un item à la liste ci-dessus, envoyez-nous vos suggestions de _data sets_ libres d'accès (_open data_) par e-mail à l'adresse suivante
-[Contact Breizh Data Club](<https://github.com/dcn-prof/breizhdataclub/blob/main/about.md#vous-souhaitez-nous-contacter->)
-
+[Contact Breizh Data Club](<https://github.com/dcn-prof/breizhdataclub/about/#vous-souhaitez-nous-contacter->).
 
 
 Merci et à bientôt.
