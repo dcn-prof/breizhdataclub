@@ -58,82 +58,101 @@
 > 
 
 ### Charles DELANNOY & Mouad HILALI (Doctolib)
-![Photo006](../illustrim/Photos/BDD2024/06_Amphi_Conf_Doctolib-02.jpg)
+![Photo11](../illustrim/Photos/BDD2024/06_Amphi_Conf_Doctolib-02.jpg)
 **Comment optimiser une énorme base de données ? En optimisant les index . . .**
 > Charles DELANNOY (sur la photo)
 
 
 ### Présentation des usages possibles de l'I.A. et des Data par la SNCF en Bretagne
-![Photo010](../illustrim/Photos/BDD2024/20_Amphi_Conf_SNCF-02.jpg)
+![Photo12](../illustrim/Photos/BDD2024/20_Amphi_Conf_SNCF-02.jpg)
 **L'I.A. et les Data au service des trains régionaux**
  >La SNCF était un sponsor Platinum de la journée
 
 ### Laurent MONTEIRO & Johann PROD’HOMME (LMSYS)
-![Photo11](../illustrim/Photos/BDD2024/09_Amphi_Conf_LMSYS_Monteiro-Prodhomme-01.jpg)  
+![Photo13](../illustrim/Photos/BDD2024/09_Amphi_Conf_LMSYS_Monteiro-Prodhomme-01.jpg)  
 **Micro-datacenter local, une alternative responsable pour répondre aux enjeux
 de réappropriation et de souveraineté des données** 
 >
 
 ### Jean-Luc TROMPARENT (Hellowork)
-![Photo009](../illustrim/Photos/BDD2024/10_Amphi_Conf_Mojo_Tromparent-02.jpg)
+![Photo14](../illustrim/Photos/BDD2024/10_Amphi_Conf_Mojo_Tromparent-02.jpg)
 **Mojo, le futur langage de l’I.A. ?**
 > Mojo est un langage de programmation apparu en 2023 qui vise à combiner la facilité d'utilisation du langage Python avec les performances d'un langage de programmation de plus bas niveau (cf. les langages C et C++).
 
 ### Le programme dans la salle "Doris"
-![Photo005](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
+![Photo104](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
 **Le programme des conférences RETEX**
 > Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à Terre-Neuve ou en Islande.
 
 ### Vincent ROCCHISANI (Groupe Roullier)
-![Photo006](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupe-Roullier-01.png)  
+![Photo105](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupe-Roullier-01.png)  
 **La Transformation Data du Groupe Roullier** 
 > 
 
 ### Mylène MAIGNANT (Wenvision)
-![Photo006](../illustrim/Photos/BDD2024/02_Doris_Wenvision-05.png)  
+![Photo106](../illustrim/Photos/BDD2024/02_Doris_Wenvision-05.png)  
 **Acculturer est la clé du succès de l’IA générative en entreprise** 
 > 
 
 ### Emmanuelle GUYOT (Groupama Loire Bretagne)
-![Photo006](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02.png)  
+![Photo107](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02.png)  
 **L’I.A. au service de l'amélioration de l'expérience client** 
 > 
 
 ### Stéphanie LESCARRET (ACSystème)
-![Photo007](../illustrim/Photos/BDD2024/09_Doris_Conf_ACSysteme-01.png)
+![Photo108](../illustrim/Photos/BDD2024/09_Doris_Conf_ACSysteme-01.png)
 **Nutrition animale et data visualisation : comment montrer aux éleveurs la
 performance de leur élevage ?**
 >
 
 ### Solenn LE BOUCHER & Stéphane BIZET (Le Guen & Associés)
-![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_Solen-Le-Boucher.jpg)  ![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_StephaneBizetjpg.jpg)  
+![Photo109](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_Solen-Le-Boucher.jpg)  ![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_StephaneBizetjpg.jpg)  
 **I.A., Data et Propriété Industrielle** 
 > 
 
 ### Nicolas HUCHE  (Néosoft)
-![Photo006](../illustrim/Photos/BDD2024/09_Doris_Conf_NeoSoft-01.png)  
+![Photo110](../illustrim/Photos/BDD2024/09_Doris_Conf_NeoSoft-01.png)  
 **Guide pratique vers une Data plus responsable** 
 >
 
 ### Vincent DUBREUIL (LETG - Université de Rennes 2)
-![Photo008](../illustrim/Photos/BDD2024/09_Doris_Conf_UR2-LETG-01.png)
+![Photo111](../illustrim/Photos/BDD2024/09_Doris_Conf_UR2-LETG-01.png)
 **Suivi des îlots de chaleur à Rennes par un réseau de stations connectées**
 > Comment utiliser les données (température, pluviomètrie, etc.) pour anticiper les effets du réchauffement climatique.
 > Le Professeur DUBREUIL est également, depuis 2022, Co-Président du Haut Conseil Breton pour le Climat (HCBC)
 
 ### Emmanuel FRENOD  (SEE-D)
-![Photo006](../illustrim/Photos/BDD2024/07_Doros_Conf_SEE-D_EmmanuelFrenod-02.jpg)  
+![Photo112](../illustrim/Photos/BDD2024/07_Doros_Conf_SEE-D_EmmanuelFrenod-02.jpg)  
 **Jumeaux Numériques Apprenants pour le Pilotage Robuste d’élevages de poules pondeuses** 
 >
 
+### Voici venu le moment de conclure le Breizh Data Day 2024
+![Photo201](../illustrim/Photos/BDD2024/99-orga_staff-000.jpg)
+**Bénédicte LE GOUIL, Directrice d'INNÔZH monte sur la scène du Grand Léjon**
 
+### Remerciements pour tous les participants venus au Breih Data Day 2024
+![Photo202](../illustrim/Photos/BDD2024/99_orga-00.png)
+**Bilan en fin de la journée : 390 personnes sont venues à l’événement.**
+>
 
-### Les principaux organisateurs du Breizh Data Day 2024
-![Photo011](../illustrim/Photos/BDD2024/99_orga-05.png)
-**Echanges pour débriefer en fin de journée**
+### Remerciements pour l'équipe d'INNÔZH qui a oeuvré en coulisse 
+![Photo203](../illustrim/Photos/BDD2024/99-orga_staff-003.jpg)
+**Bénédicte LE GOUIL, Directrice d'INNÔZH, entourée de ses co-équipières**
+>
+
+### Remerciements pour l'équipe d'INNÔZH qui a oeuvré en coulisse 
+![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-xxx.jpg)
+**Sans oublier celles qui ont mis de l'huile dans les rouages**
 >
 
 
+### Débriefing avec quelques membres du ComEd (Comité éditorial) du Breizh Data Day 2024 
+![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-001.jpg)
+![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-002.jpg)
+**Elaborer le programme des conférences, tel est le job du ComEd** 
+>L'objectif du ComEd est de satisfaire le public tout en se faisant plaisir . . .
+
+>
 
 ### La véritable cheville ouvrière du Breizh Data Day 2024
 ![Photo012](../illustrim/Photos/BDD2024/99_orga_Elodie_Leang.jpg)
