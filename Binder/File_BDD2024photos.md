@@ -25,6 +25,29 @@
 **Le programme des conférences RETEX**
 > Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à Terre-Neuve ou en Islande.
 
+### Julien PERRON & Victor KLÖTZER (Ouest France)
+![Photo006](../illustrim/Photos/BDD2024/08_Amphi_Conf_Ouest-France-01.png)
+**Ouest-France, de l'IA dans le quotidien : traitements de données multimodales appliqués aux contenus éditoriaux**
+> 
+
+### Arnaud VALENCE (ESIEA)
+![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence.png)
+**IA génératives/conversationnelles : opportunités et menaces**
+> 
+
+###  Sophie TARDIVEL (Doptim)
+![Photo006](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-03.jpg)
+**L'IA pour évaluer la qualité des soudures et moins gaspiller**
+> 
+
+
+
+### Xxxxx YYYYY (Zzzzzz)
+![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence.png)
+**IA data et blablabla **
+> 
+
+
 ### Charles DELANNOY & Mouad HILALI (Doctolib)
 ![Photo006](../illustrim/Photos/BDD2024/06_Amphi_Conf_Doctolib-02.jpg)
 **Comment optimiser une énorme base de données ? En optimisant les index . . .**
