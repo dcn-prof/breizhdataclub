@@ -109,9 +109,11 @@ performance de leur élevage ?**
 >
 
 ### Solenn LE BOUCHER & Stéphane BIZET (Le Guen & Associés)
-![Photo109](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_Solen-Le-Boucher.jpg)  ![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_StephaneBizetjpg.jpg)  
+![Photo109](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_Solen-Le-Boucher-0R.gif)  ![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_StephaneBizetjpg.jpg)  
 **I.A., Data et Propriété Industrielle** 
 > 
+
+illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_Solen-Le-Boucher-0R.gif
 
 ### Nicolas HUCHE  (Néosoft)
 ![Photo110](../illustrim/Photos/BDD2024/09_Doris_Conf_NeoSoft-01.png)  
