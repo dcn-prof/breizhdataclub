@@ -53,7 +53,7 @@
 **Réduction des coûts d’étiquetage en intelligence artificielle** 
 > 
 
-### Johann PROD’HOMME & Laurent MONTEIRO (LMSYS)
+### Laurent MONTEIRO & Johann PROD’HOMME (LMSYS)
 ![Photo006](../illustrim/Photos/BDD2024/09_Amphi_Conf_LMSYS_Monteiro-Prodhomme-01.jpg)  
 **Micro-datacenter local, une alternative responsable pour répondre aux enjeux
 de réappropriation et de souveraineté des données** 
