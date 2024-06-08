@@ -90,9 +90,11 @@ de réappropriation et de souveraineté des données**
 > 
 
 ### Mylène MAIGNANT (Wenvision)
-![Photo106](../illustrim/Photos/BDD2024/02_Doris_Wenvision-05.png)  
+![Photo106](../illustrim/Photos/BDD2024/09_Doris_Wenvision-06RR.gif)  
 **Acculturer est la clé du succès de l’IA générative en entreprise** 
 > 
+
+
 
 ### Emmanuelle GUYOT (Groupama Loire Bretagne)
 ![Photo107](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02.png)  
