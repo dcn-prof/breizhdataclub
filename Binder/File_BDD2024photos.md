@@ -126,9 +126,10 @@ performance de leur élevage ?**
 > Le Professeur DUBREUIL est également, depuis 2022, Co-Président du Haut Conseil Breton pour le Climat (HCBC)
 
 ### Emmanuel FRENOD  (SEE-D)
-![Photo112](../illustrim/Photos/BDD2024/07_Doros_Conf_SEE-D_EmmanuelFrenod-02.jpg)  
+![Photo112](../illustrim/Photos/BDD2024/07_Doris_Conf_SEE-D_EmmanuelFrenod-02R.gif)  
 **Jumeaux Numériques Apprenants pour le Pilotage Robuste d’élevages de poules pondeuses** 
 >
+
 
 ### Voici venu le moment de conclure le Breizh Data Day 2024
 ![Photo201](../illustrim/Photos/BDD2024/99-orga_staff-000.jpg)
