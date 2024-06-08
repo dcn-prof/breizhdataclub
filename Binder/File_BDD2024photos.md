@@ -31,20 +31,22 @@
 > 
 
 ### Arnaud VALENCE (ESIEA) 
-![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-05.jpeg)
- **IA génératives/conversationnelles : opportunités et menaces**
-> 
+![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-05.jpeg) 
+
+**IA génératives/conversationnelles : opportunités et menaces** 
+>  
 
 ###  Sophie TARDIVEL (Doptim) 
 ![Photo006](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-05.jpg) 
- **L'IA pour évaluer la qualité des soudures et moins gaspiller**
+
+**L'IA pour évaluer la qualité des soudures et moins gaspiller**
+> Merci Sophie pour ce remplacement, au pied levé, de la conférence de Basile Brochut (Marine Weather Intelligence) prévue initialement sur ce créneau.
 > 
 
 
-
 ### Xxxxx YYYYY (Zzzzzz)
-![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-05.jpeg) 
-**IA data et blablabla**
+![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
+**IA, data, blablabla et 390 mercis** 
 > 
 
 
