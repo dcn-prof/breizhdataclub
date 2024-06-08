@@ -11,9 +11,10 @@
 >
 
 ### La Keynote du matin
-![Photo03](../illustrim/03_Amphi_Keynote-matin-03.jpg)
+![Photo03](../illustrim/03_Amphi_Keynote-matin-03R.gif)
 **Zinnya DEL VILLAR (Data-pop Alliance)**
 >Zinnya DEL VILLAR a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'I.A. au Service du Bien Commun ».
+
 
 ### Le programme dans la salle "Le Grand Léjon"
 ![Photo04](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
