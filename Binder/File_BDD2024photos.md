@@ -95,7 +95,7 @@ de réappropriation et de souveraineté des données**
 > 
 
 ### Emmanuelle GUYOT (Groupama Loire Bretagne)
-![Photo107](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02RR.gif)  
+![Photo107](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02RRR.gif)  
 **L’I.A. au service de l'amélioration de l'expérience client** 
 > 
 
