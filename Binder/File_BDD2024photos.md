@@ -30,21 +30,21 @@
 **Ouest-France, de l'IA dans le quotidien : traitements de données multimodales appliqués aux contenus éditoriaux**
 > 
 
-### Arnaud VALENCE (ESIEA)
-![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence.png)
-**IA génératives/conversationnelles : opportunités et menaces**
+### Arnaud VALENCE (ESIEA) 
+![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-05.jpeg)
+ **IA génératives/conversationnelles : opportunités et menaces**
 > 
 
-###  Sophie TARDIVEL (Doptim)
-![Photo006](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-03.jpg)
-**L'IA pour évaluer la qualité des soudures et moins gaspiller**
+###  Sophie TARDIVEL (Doptim) 
+![Photo006](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-05.jpg) 
+ **L'IA pour évaluer la qualité des soudures et moins gaspiller**
 > 
 
 
 
 ### Xxxxx YYYYY (Zzzzzz)
-![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence.png)
-**IA data et blablabla **
+![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-05.jpeg) 
+**IA data et blablabla**
 > 
 
 
