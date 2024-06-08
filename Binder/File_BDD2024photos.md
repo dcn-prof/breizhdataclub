@@ -141,19 +141,21 @@ performance de leur élevage ?**
 >
 
 ### Remerciements pour l'équipe d'INNÔZH qui a oeuvré en coulisse 
-![Photo203](../illustrim/Photos/BDD2024/99-orga_staff-003.jpg)
+![Photo203](../illustrim/Photos/BDD2024/99-orga_staff-003R.jpg)
 **Bénédicte LE GOUIL, Directrice d'INNÔZH, entourée de ses co-équipières**
 >
 
+
 ### Remerciements pour l'équipe d'INNÔZH qui a oeuvré en coulisse 
-![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-xxx.jpg)
+![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-xxxR.jpg)
 **Sans oublier celles qui ont mis de l'huile dans les rouages tout au long de la journée**
 >
 
 
+
 ### Débriefing avec quelques membres du ComEd (Comité éditorial) du Breizh Data Day 2024 
-![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-001.jpg)
-![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-002.jpg)
+![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-001R.jpg)
+![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-002R.jpg)
 **Elaborer le programme des conférences, tel est le job du ComEd** 
 >L'objectif du ComEd est de satisfaire le public tout en se faisant plaisir . . .
 
