@@ -94,12 +94,13 @@ de réappropriation et de souveraineté des données**
 **Acculturer est la clé du succès de l’IA générative en entreprise** 
 > 
 
-
-
 ### Emmanuelle GUYOT (Groupama Loire Bretagne)
-![Photo107](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02.png)  
+![Photo107](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02RR.gif)  
 **L’I.A. au service de l'amélioration de l'expérience client** 
 > 
+
+
+
 
 ### Stéphanie LESCARRET (ACSystème)
 ![Photo108](../illustrim/Photos/BDD2024/09_Doris_Conf_ACSysteme-01.png)
