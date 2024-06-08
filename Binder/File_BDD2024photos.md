@@ -130,7 +130,7 @@ performance de leur élevage ?**
 ![Photo201](../illustrim/Photos/BDD2024/99-orga_staff-000.jpg)
 **Bénédicte LE GOUIL, Directrice d'INNÔZH monte sur la scène du Grand Léjon**
 
-### Remerciements pour tous les participants venus au Breih Data Day 2024
+### Remerciements pour tous les participants venus au Breizh Data Day 2024
 ![Photo202](../illustrim/Photos/BDD2024/99_orga-00.png)
 **Bilan en fin de la journée : 390 personnes sont venues à l’événement.**
 >
@@ -142,7 +142,7 @@ performance de leur élevage ?**
 
 ### Remerciements pour l'équipe d'INNÔZH qui a oeuvré en coulisse 
 ![Photo011](../illustrim/Photos/BDD2024/99-orga_staff-xxx.jpg)
-**Sans oublier celles qui ont mis de l'huile dans les rouages**
+**Sans oublier celles qui ont mis de l'huile dans les rouages tout au long de la journée**
 >
 
 
@@ -176,4 +176,4 @@ performance de leur élevage ?**
   
 >
 
->  *  Version 2024-06-04
+>  *  Version 2024-06-08
