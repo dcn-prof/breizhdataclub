@@ -1,90 +1,118 @@
 ## Breizh Data Day 2024 - Photos souvenirs
 
 ### L'Affiche 
-![Photo001](../illustrim/02_Affiche-BDD2024.jpg)
+![Photo01](../illustrim/02_Affiche-BDD2024.jpg)
 **L'Affiche du Breizh Data Day 2024**
 >
 
 ### Le Palais
-![Photo002](../illustrim/Photos/BDD2024/01_Facade_Palais_Congres.jpg)
+![Photo02](../illustrim/Photos/BDD2024/01_Facade_Palais_Congres.jpg)
 **Le Palais des Congrès de Saint-Brieuc**
 >
 
 ### La Keynote du matin
-![Photo003](../illustrim/03_Amphi_Keynote-matin-03.jpg)
+![Photo03](../illustrim/03_Amphi_Keynote-matin-03.jpg)
 **Zinnya DEL VILLAR (Data-pop Alliance)**
->Zinnya DEL VILLAR a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'IA au Service du Bien Commun ».
+>Zinnya DEL VILLAR a ouvert la journée avec la conférence « Construire un avenir inclusif et durable : L'I.A. au Service du Bien Commun ».
 
 ### Le programme dans la salle "Le Grand Léjon"
-![Photo004](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
+![Photo04](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
 **Le programme des conférences TECH**
 > Le Grand Léjon est un phare qui signale l'entrée nord de la baie de Saint-Brieuc.
 
-### Le programme dans la salle "Doris"
-![Photo005](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
-**Le programme des conférences RETEX**
-> Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à Terre-Neuve ou en Islande.
 
 ### Julien PERRON & Victor KLÖTZER (Ouest France)
-![Photo006](../illustrim/Photos/BDD2024/08_Amphi_Conf_Ouest-France-01.png)
-**Ouest-France, de l'IA dans le quotidien : traitements de données multimodales appliqués aux contenus éditoriaux**
+![Photo05](../illustrim/Photos/BDD2024/08_Amphi_Conf_Ouest-France-01.png)
+**Ouest-France, de l'I.A. dans le quotidien : traitements de données multimodales appliqués aux contenus éditoriaux**
 > 
 
 ### Arnaud VALENCE (ESIEA) 
-![Photo006](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-05.jpeg) 
+![Photo06](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-06.gif) 
 
-**IA génératives/conversationnelles : opportunités et menaces** 
+**I.A. génératives/conversationnelles : opportunités et menaces** 
 >  
 
-###  Sophie TARDIVEL (Doptim) 
-![Photo006](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-05.jpg) 
 
-**L'IA pour évaluer la qualité des soudures et moins gaspiller**
-> Merci Sophie pour ce remplacement, au pied levé, de la conférence de Basile Brochut (Marine Weather Intelligence) prévue initialement sur ce créneau.
+
+### Sylvain BARTHELEMY (Gwenlake)
+![Photo07](../illustrim/Photos/BDD2024/04_Amphi_Gwenlake_Sylvain-Barthelemy-1.jpg)  
+**I.A. générative et Unified Knowledge source pour les entreprises** 
+> 
+
+
+###  Sophie TARDIVEL (Doptim) 
+![Photo08](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-05.jpg) 
+
+**L'I.A. pour évaluer la qualité des soudures et moins gaspiller**
+> Merci beaucoup Sophie pour ce remplacement, au pied levé, de la conférence de Basile Brochut (Marine Weather Intelligence) prévue initialement sur ce créneau.
 > 
 
 ### Thomas WENTZ (Speredia)
-![Photo006](../illustrim/Photos/BDD2024/07_Amphi_Conf_Speredia-01.png)  
+![Photo09](../illustrim/Photos/BDD2024/07_Amphi_Conf_Speredia-01.png)  
 **A.I. Act : vers la régulation des Intelligences Artificielles dans l’U.E.** 
 > 
 
 ### Arthur HOARAU (IRISA)
-![Photo006](../illustrim/Photos/BDD2024/04_Amphi_Conf_IRISA-01.png)  
+![Photo10](../illustrim/Photos/BDD2024/04_Amphi_Conf_IRISA-01.png)  
 **Réduction des coûts d’étiquetage en intelligence artificielle** 
 > 
-
-### Laurent MONTEIRO & Johann PROD’HOMME (LMSYS)
-![Photo006](../illustrim/Photos/BDD2024/09_Amphi_Conf_LMSYS_Monteiro-Prodhomme-01.jpg)  
-**Micro-datacenter local, une alternative responsable pour répondre aux enjeux
-de réappropriation et de souveraineté des données** 
->
-
-
-### Xxxxx YYYYY (Zzzzzz)
-![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
-**IA, data, blablabla et 390 mercis** 
-> 
-
-### Xxxxx YYYYY (Zzzzzz)
-![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
-**IA, data, blablabla et 390 mercis** 
-> 
-
-### Xxxxx YYYYY (Zzzzzz)
-![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
-**IA, data, blablabla et 390 mercis** 
-> 
-
 
 ### Charles DELANNOY & Mouad HILALI (Doctolib)
 ![Photo006](../illustrim/Photos/BDD2024/06_Amphi_Conf_Doctolib-02.jpg)
 **Comment optimiser une énorme base de données ? En optimisant les index . . .**
 > Charles DELANNOY (sur la photo)
 
+
+### Présentation des usages possibles de l'I.A. et des Data par la SNCF en Bretagne
+![Photo010](../illustrim/Photos/BDD2024/20_Amphi_Conf_SNCF-02.jpg)
+**L'I.A. et les Data au service des trains régionaux**
+ >La SNCF était un sponsor Platinum de la journée
+
+### Laurent MONTEIRO & Johann PROD’HOMME (LMSYS)
+![Photo11](../illustrim/Photos/BDD2024/09_Amphi_Conf_LMSYS_Monteiro-Prodhomme-01.jpg)  
+**Micro-datacenter local, une alternative responsable pour répondre aux enjeux
+de réappropriation et de souveraineté des données** 
+>
+
+### Jean-Luc TROMPARENT (Hellowork)
+![Photo009](../illustrim/Photos/BDD2024/10_Amphi_Conf_Mojo_Tromparent-02.jpg)
+**Mojo, le futur langage de l’I.A. ?**
+> Mojo est un langage de programmation apparu en 2023 qui vise à combiner la facilité d'utilisation du langage Python avec les performances d'un langage de programmation de plus bas niveau (cf. les langages C et C++).
+
+### Le programme dans la salle "Doris"
+![Photo005](../illustrim/Photos/BDD2024/02_Programme-BDD2024-Doris.jpg)
+**Le programme des conférences RETEX**
+> Un Doris est une embarcation à fond plat utilisée par les pêcheurs de morues à Terre-Neuve ou en Islande.
+
+### Vincent ROCCHISANI (Groupe Roullier)
+![Photo006](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupe-Roullier-01.png)  
+**La Transformation Data du Groupe Roullier** 
+> 
+
+### Mylène MAIGNANT (Wenvision)
+![Photo006](../illustrim/Photos/BDD2024/02_Doris_Wenvision-05.png)  
+**Acculturer est la clé du succès de l’IA générative en entreprise** 
+> 
+
+### Emmanuelle GUYOT (Groupama Loire Bretagne)
+![Photo006](../illustrim/Photos/BDD2024/09_Doris_Conf_Groupama-02.png)  
+**L’I.A. au service de l'amélioration de l'expérience client** 
+> 
+
 ### Stéphanie LESCARRET (ACSystème)
 ![Photo007](../illustrim/Photos/BDD2024/09_Doris_Conf_ACSysteme-01.png)
 **Nutrition animale et data visualisation : comment montrer aux éleveurs la
 performance de leur élevage ?**
+>
+
+### Solenn LE BOUCHER & Stéphane BIZET (Le Guen & Associés)
+![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_Solen-Le-Boucher.jpg)  ![Photo006](../illustrim/Photos/BDD2024/09_Doris_LeGuenetAss_StephaneBizetjpg.jpg)  
+**I.A., Data et Propriété Industrielle** 
+> 
+
+### Nicolas HUCHE  (Néosoft)
+![Photo006](../illustrim/Photos/BDD2024/09_Doris_Conf_NeoSoft-01.png)  
+**Guide pratique vers une Data plus responsable** 
 >
 
 ### Vincent DUBREUIL (LETG - Université de Rennes 2)
@@ -93,17 +121,11 @@ performance de leur élevage ?**
 > Comment utiliser les données (température, pluviomètrie, etc.) pour anticiper les effets du réchauffement climatique.
 > Le Professeur DUBREUIL est également, depuis 2022, Co-Président du Haut Conseil Breton pour le Climat (HCBC)
 
-### Jean-Luc TROMPARENT (Hellowork)
-![Photo009](../illustrim/Photos/BDD2024/10_Amphi_Conf_Mojo_Tromparent-02.jpg)
-**Mojo, le futur langage de l’IA ?**
-> Mojo est un langage de programmation apparu en 2023 qui vise à combiner la facilité d'utilisation du langage Python avec les performances d'un langage de programmation de plus bas niveau (cf. les langages C et C++).
+### Emmanuel FRENOD  (SEE-D)
+![Photo006](../illustrim/Photos/BDD2024/07_Doros_Conf_SEE-D_EmmanuelFrenod-02.jpg)  
+**Jumeaux Numériques Apprenants pour le Pilotage Robuste d’élevages de poules pondeuses** 
+>
 
-
-
-### Présentation des usages possibles de l'I.A. et des Data par la SNCF en Bretagne
-![Photo010](../illustrim/Photos/BDD2024/20_Amphi_Conf_SNCF-02.jpg)
-**L'I.A. et les Data au service des trains régionaux**
- >La SNCF était un sponsor Platinum de la journée
 
 
 ### Les principaux organisateurs du Breizh Data Day 2024
