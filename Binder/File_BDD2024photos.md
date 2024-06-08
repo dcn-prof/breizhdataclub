@@ -34,9 +34,8 @@
 >  
 
 
-
 ### Sylvain BARTHELEMY (Gwenlake)
-![Photo07](../illustrim/Photos/BDD2024/04_Amphi_Gwenlake_Sylvain-Barthelemy-1.jpg)  
+![Photo07](../illustrim/Photos/BDD2024/04_Amphi_Gwenlake_Sylvain-Barthelemy-01R.gif)  
 **I.A. générative et Unified Knowledge source pour les entreprises** 
 > 
 
