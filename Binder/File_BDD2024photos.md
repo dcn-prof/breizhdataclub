@@ -43,6 +43,32 @@
 > Merci Sophie pour ce remplacement, au pied levé, de la conférence de Basile Brochut (Marine Weather Intelligence) prévue initialement sur ce créneau.
 > 
 
+### Thomas WENTZ (Speredia)
+![Photo006](../illustrim/Photos/BDD2024/07_Amphi_Conf_Speredia-01.png)  
+**A.I. Act : vers la régulation des Intelligences Artificielles dans l’U.E.** 
+> 
+
+### Arthur HOARAU (IRISA)
+![Photo006](../illustrim/Photos/BDD2024/04_Amphi_Conf_IRISA-01.png)  
+**Réduction des coûts d’étiquetage en intelligence artificielle** 
+> 
+
+### Johann PROD’HOMME & Laurent MONTEIRO (LMSYS)
+![Photo006](../illustrim/Photos/BDD2024/09_Amphi_Conf_LMSYS_Monteiro-Prodhomme-01.jpg)  
+**Micro-datacenter local, une alternative responsable pour répondre aux enjeux
+de réappropriation et de souveraineté des données** 
+>
+
+
+### Xxxxx YYYYY (Zzzzzz)
+![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
+**IA, data, blablabla et 390 mercis** 
+> 
+
+### Xxxxx YYYYY (Zzzzzz)
+![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
+**IA, data, blablabla et 390 mercis** 
+> 
 
 ### Xxxxx YYYYY (Zzzzzz)
 ![Photo006](../illustrim/Photos/BDD2024/99_orga-00.png)  
