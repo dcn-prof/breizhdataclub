@@ -85,7 +85,7 @@
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
 | Etude ADEME–ARCEP - Evaluation de l'impact environnemental du numérique en France - Analyse prospective pour 2030 et 2050  |        2024-03-06      |  [ADEME - ARCEP (en PDF)](<https://www.arcep.fr/uploads/tx_gspublication/note-synthese-Arcep-gouvernement-prospective-2030-2050_mars2023.pdf>)                                                   |
 | Quand l'I.A. s'attaque aux prévisions météorologiques : évolution ou révolution ?  |        2024-05-01      |  [Revue La Météorologie](<https://lameteorologie.fr/issues/2024/125/meteo_2024_125_48>)                                        |
-|                                     |                        |                                                    |
+| Interrogation topologique des partitions musicales. L'art et la manière de naviguer dans des partitions musicales grâce à une approche topologique. |        2024-06-18      |  [Journal Data Knowledge Engineering](<https://inria.hal.science/hal-04614440v1/document>)                                        ||                                     |                        |                                                    |
 |                                     |                        |                                                    |
 |                                     |                        |                                                    |
 |  ---------------------------------- | ---------------------- | -------------------------------------------------- |
