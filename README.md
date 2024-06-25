@@ -27,8 +27,8 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
-|          BreizhCamp 2024        |  du 26 au 28.06.2024     |  <https://www.breizhcamp.org/>                     |
-|                                 |                          |                                                    |
+|                                 |    /!\ Next year         |      /!\ Stay tuned . . .                          |
+|          BreizhCamp 2025        |  du 25 au 27.06.2025     |  <https://www.breizhcamp.org/>                     |
 |                                 |                          |                                                    |
 | ------------------------------- |   --------------------   | ---------------------------------------------------|
 
@@ -40,6 +40,8 @@
 
 |         En ce moment         |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
+|                              |                        |                                                    |
+|          BreizhCamp 2024        |  du 26 au 28.06.2024     |  <https://www.breizhcamp.org/>                     |
 |                              |                        |                                                    |
 |     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
 |                              |                        |                                                    |
