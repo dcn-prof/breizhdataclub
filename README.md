@@ -27,6 +27,8 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
+|                                 |                          |                                                    |
+|                                 |                          |                                                    |
 |                                 |    /!\ Next year         |      /!\ Stay tuned . . .                          |
 |          BreizhCamp 2025        |  du 25 au 27.06.2025     |  <https://www.breizhcamp.org/>                     |
 |                                 |                          |                                                    |
@@ -41,7 +43,7 @@
 |         En ce moment         |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
-|          BreizhCamp 2024        |  du 26 au 28.06.2024     |  <https://www.breizhcamp.org/>                     |
+|                              |                        |                                                    |
 |                              |                        |                                                    |
 |     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
 |                              |                        |                                                    |
@@ -55,7 +57,8 @@
 
 |      Regards vers le passé      |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
-|                                     |                        |                                                    |
+|                                 |                        |                                                    |
+|          BreizhCamp 2024        |  du 26 au 28.06.2024     |  <https://www.breizhcamp.org/>                   |
 | Soirée des communautés tech rennaises  |     2024-05-16         |  [Soirée des Communautés Tech 2024](<https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>)                |
 |       Meetup Breizh Data Club   |        2024-05-14      |  [RETEX / RAG par Corentin Brémard](<https://dcn-prof.github.io/breizhdataclub/Binder/meetup_2024-05-14>)                                                   |
 |        Breizh Data Day 2024     |        2024-03-28      | [Breizh Data Day 2024](https://dcn-prof.github.io/breizhdataclub/Binder/File_BDD2024/)          |
