@@ -3,9 +3,11 @@
 ### Logo usuel de BreizhCamp
 ![Photo001](../illustrim/Photos/logo-BreizhCamp.png)
 
-
 #### Bannière du BreizhCamp 2024
 ![Photo002](../illustrim/Photos/BZHCamp2024/breizhcamp-2024.png)
+
+#### Entrée de l'Université lors du BreizhCamp 2024
+![Photo003](../illustrim/Photos/BZHCamp2024/Entree_BZHCamp.jpg)
 
 
 #### Amphi E : Et si on ouvre grand les bras aux S.I.G. ? (Talab Ou Ali Halima /  Groupe SII)
@@ -14,19 +16,15 @@
 #### Amphi E : HTMX - Retour aux templates ou futur front-end ? (Harold Faveraau /  LIKSI)
 ![Photo003](../illustrim/Photos/BZHCamp2024/Amphi-E_Externatic.jpg)
 
+#### Amphi B : Un eseconde pour traiter un milliars de lignes en Java (Maxime Reynier /  One Point)
+![Photo003](../illustrim/Photos/BZHCamp2024/Conf_Tech_BZHCamp.jpg)
 
 
-#### Les stars prennent la pause au grand air 
-![Photo004](../illustrim/Photos/T-Rex_ISTIC_268143.jpg)
-
-#### Un autre photo des stars  
-![Photo004](../illustrim/Photos/T-Rex_ISTIC_268787.jpg)
 
 
-#### Non mais on a travaillé aussi . . .
-![Photo004](../illustrim/Photos/ecoCode_JohannaDuigou_BzhCamp2023.jpg)
-Johanna DUIGOU et David DE CARVALHO présentent une conf sur **ecoCode**.
-> Comment réduire l'empreinte écologique des logiciels.
+
+
+
 
 
 
