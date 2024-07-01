@@ -34,14 +34,20 @@
 ![Photo021](../illustrim/Photos/BZHCamp2024/Hall_BZHCamp-02.jpg)
 
 
-### Et aussi d'autres occasions de rencontres non-programmées . . .  
+### Et aussi les fresques visuelles de Sophie Sorel-Giffo . . .  
 ### 
 
-#### Légende de légende de légende
-![Photo016](../illustrim/Photos/BZHCamp2024/Hall_BZHCamp-02.jpg)
+#### Le thème du BreizhCamp 2024
+![Photo091](../illustrim/Photos/BZHCamp2024/2024-06-28_Sophie-SG-04.jpg)
 
+#### Vision synoptique du BreizhCamp 2024
+![Photo092](../illustrim/Photos/BZHCamp2024/2024-06-28_Sophie-SG-01.jpg)
 
+#### La conférence sur BrailleRap
+![Photo093](../illustrim/Photos/BZHCamp2024/2024-06-28_Sophie-SG-02.jpg)
 
+#### Une conférence pour réfléchir sur le sens de la vie des technophiles
+![Photo094](../illustrim/Photos/BZHCamp2024/2024-06-28_Sophie-SG-03.jpg)
 
 
 
@@ -60,4 +66,4 @@
 >
 
 >  *  Version 2024-07-01
->  *  
+>    
