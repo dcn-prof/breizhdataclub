@@ -5,10 +5,16 @@
 
 
 #### Bannière du BreizhCamp 2024
-![Photo002](../illustrim/Photos/breizhassic-world.png)
+![Photo002](../illustrim/Photos/BZHCamp2024/breizhcamp-2024.png)
 
-#### Instantané dans un amphi
-![Photo003](../illustrim/Photos/img_Amphi_A_0888_720.jpg)
+
+#### Amphi E : Et si on ouvre grand les bras aux S.I.G. ? (Talab Ou Ali Halima /  Groupe SII)
+![Photo003](../illustrim/Photos/BZHCamp2024/Amphi-conf-SIG.jpg)
+
+#### Amphi E : HTMX - Retour aux templates ou futur front-end ? (Harold Faveraau /  LIKSI)
+![Photo003](../illustrim/Photos/BZHCamp2024/Amphi-E_Externatic.jpg)
+
+
 
 #### Les stars prennent la pause au grand air 
 ![Photo004](../illustrim/Photos/T-Rex_ISTIC_268143.jpg)
