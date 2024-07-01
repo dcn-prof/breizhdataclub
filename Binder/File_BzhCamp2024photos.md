@@ -46,7 +46,7 @@
 #### La conférence sur BrailleRap
 ![Photo093](../illustrim/Photos/BZHCamp2024/2024-06-28_Sophie-SG-02.jpg)
 
-#### Une conférence pour réfléchir sur le sens de la vie des technophiles
+#### Une réflexion sur le sens de la vie chez les geeks et les geekettes au temps de l'I.A.
 ![Photo094](../illustrim/Photos/BZHCamp2024/2024-06-28_Sophie-SG-03.jpg)
 
 
