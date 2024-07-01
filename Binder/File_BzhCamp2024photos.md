@@ -31,7 +31,7 @@ Johanna DUIGOU et David DE CARVALHO présentent une conf sur **ecoCode**.
 >
 ## Pour en savoir plus sur ce thème
 
-- Source 1 : [Vidéos des confs BreizhCamp 2023](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j)
+- Source 1 : [Vidéos des confs BreizhCamp 2024 : A venir prochainement . . . ]
 
 ---
 
@@ -39,4 +39,5 @@ Johanna DUIGOU et David DE CARVALHO présentent une conf sur **ecoCode**.
   
 >
 
->  *  Version 2024-06-29
+>  *  Version 2024-07-01
+>  *  
