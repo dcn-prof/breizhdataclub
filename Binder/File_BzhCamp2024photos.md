@@ -6,18 +6,18 @@
 #### Bannière du BreizhCamp 2024
 ![Photo002](../illustrim/Photos/BZHCamp2024/breizhcamp-2024.png)
 
-#### Entrée de l'Université lors du BreizhCamp 2024
+#### Entrée de l'Université lors du BreizhCamp 2024 (Fac de Sciences - Campus de Beaulieu)
 ![Photo003](../illustrim/Photos/BZHCamp2024/Entree_BZHCamp.jpg)
 
 
 #### Amphi E : Et si on ouvre grand les bras aux S.I.G. ? (Talab Ou Ali Halima /  Groupe SII)
-![Photo003](../illustrim/Photos/BZHCamp2024/Amphi-conf-SIG.jpg)
+![Photo011](../illustrim/Photos/BZHCamp2024/Amphi-conf-SIG.jpg)
 
 #### Amphi E : HTMX - Retour aux templates ou futur front-end ? (Harold Faveraau /  LIKSI)
-![Photo003](../illustrim/Photos/BZHCamp2024/Amphi-E_Externatic.jpg)
+![Photo012](../illustrim/Photos/BZHCamp2024/Amphi-E_Externatic.jpg)
 
 #### Amphi B : Un eseconde pour traiter un milliars de lignes en Java (Maxime Reynier /  One Point)
-![Photo003](../illustrim/Photos/BZHCamp2024/Conf_Tech_BZHCamp.jpg)
+![Photo013](../illustrim/Photos/BZHCamp2024/Conf_Tech_BZHCamp.jpg)
 
 
 
