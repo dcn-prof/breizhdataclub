@@ -6,7 +6,7 @@
 #### Bannière du BreizhCamp 2024
 ![Photo002](../illustrim/Photos/BZHCamp2024/breizhcamp-2024.png)
 
-#### Entrée de l'Université lors du BreizhCamp 2024 (Fac de Sciences - Campus de Beaulieu)
+#### Entrée Sud de la Fac de Sciences lors du BreizhCamp 2024 (Université de Rennes 1 - Campus de Beaulieu)
 ![Photo003](../illustrim/Photos/BZHCamp2024/Entree_BZHCamp.jpg)
 
 
