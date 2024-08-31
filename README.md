@@ -30,7 +30,10 @@
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |    /!\ Next year         |      /!\ Stay tuned . . .                          |
-|          BreizhCamp 2025        |  du 25 au 27.06.2025     |  <https://www.breizhcamp.org/>                     |
+|                                 |                          |                                                    |
+|      Breizh Data Day 2025       |        15.05.2025        |   <https://breizhdataday.innozh.fr/>               |
+|                                 |                          |                                                    |
+|          BreizhCamp 2025        |   du 25 au 27.06.2025    |  <https://www.breizhcamp.org/>                     |
 |                                 |                          |                                                    |
 | ------------------------------- |   --------------------   | ---------------------------------------------------|
 
