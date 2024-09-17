@@ -17,7 +17,7 @@ Le **BreizhCamp** ne pourrait pas avoir lieu sans le support financier des spons
 
 [Demandez le programme !](https://www.breizhcamp.org/conference/programme/)
 
-[Vidéos des confs BreizhCamp 2024  (à venir prochainement . . . ) ]
+[Vidéos des confs BreizhCamp 2024, c'est ici](https://www.youtube.com/playlist?list=PLv7xGPH0RMUSa01SXi__a8r2rvrVJbgaU)
 >
 
 #### Et des échanges informels 
