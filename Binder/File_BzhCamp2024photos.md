@@ -57,7 +57,9 @@
 >
 ## Pour en savoir plus sur ce thème
 
-- Source 1 : [Vidéos des confs BreizhCamp 2024 : A venir prochainement . . . ]
+- Source 1 : 
+ [Vidéos des confs BreizhCamp 2024, c'est ici](https://www.youtube.com/playlist?list=PLv7xGPH0RMUSa01SXi__a8r2rvrVJbgaU)
+
 
 ---
 
