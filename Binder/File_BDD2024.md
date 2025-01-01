@@ -43,7 +43,7 @@ C'est ici [Photos Souvenirs](../File_BDD2024photos)
 
 ## Rendez-vous l'année prochaine pour le Breizh Data Day 2025 
 
-La prochaine édition (la 6<sup>ème</sup>) du **Breizh Data Day** est prévue au printemps 2025 à Saint-Brieuc. La date définitive n'est pas encore fixée mais elle le sera au cours de l'été 2024.
+La prochaine édition (la 6<sup>ème</sup>) du **Breizh Data Day** est prévue au printemps 2025 à Saint-Brieuc. Vous pouvez déjà noter la date de **Jeudi 15 mai 2025** dans votre agenda. Cet événement aura lieu au **Totem de l'Innovation** (53 boulevard Clémenceau) à **Saint Brieuc**.
 
 Pour en savoir plus sur le **Breizh Data Day 2025**, cliquer [ICI](https://breizhdataday.innozh.fr/)
 
@@ -66,5 +66,5 @@ Pour en savoir plus sur le **Breizh Data Day 2025**, cliquer [ICI](https://breiz
   
 >
 
->  *  Version 2024-05-04
+>  *  Version 2025-01-01
 >    
