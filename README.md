@@ -27,7 +27,7 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
-| /!\ CFP pour BreizhCamp 2025 /!\|      < 10.03.2025     |      <https://sessionize.com/breizhcamp-2025/>  |
+| /!\ CFP pour BreizhCamp 2025 /!\ |      < 10.03.2025     |      <https://sessionize.com/breizhcamp-2025/>  |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
