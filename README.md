@@ -27,7 +27,8 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
-| /!\ CFP pour BreizhCamp 2025            Ouvert jusqu'au 10 mars 2025      |     < 10.03.2025    |      <https://sessionize.com/breizhcamp-2025/>  |
+| /!\ CFP pour BreizhCamp 2025 /!\ Ouvert jusqu'au 10 mars 2025      |     < 10.03.2025    |      <https://sessionize.com/breizhcamp-2025/>  |
+|                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |      Breizh Data Day 2025       |        15.05.2025        |   <https://breizhdataday.innozh.fr/>               |
