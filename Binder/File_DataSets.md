@@ -25,7 +25,7 @@ C'est juste le plaisir qui nous a guidés pour constituer cette liste non exhaus
 |   2024-05-29   |     **_Open Data_** Météo France                          |  [Météo et Climat - Open Data](https://meteo.data.gouv.fr/)                             |
 |   2024-05-29   |     **_Open Data_** Météo France                          |  [Portail des API - Open Data](https://portail-api.meteofrance.fr/web/fr/)                            |
 |   2025-01-01   |     **_Open Data_** University of California Irvine       |  [Archives of Information & Computer Sciences - Open Data](https://archive.ics.uci.edu/)                            |
-|   2025-01-01   |     **_Open Data_** Kaggle datasets  |  [AI é ML Community - Open Data](https://www.kaggle.com/datasets)                   |
+|   2025-01-01   |     **_Open Data_** Kaggle datasets  |  [AI & ML Community - Open Data](https://www.kaggle.com/datasets)                   |
 |                | |                |                                                                  |            |
 |                |                                                                  |                               |
 |:--------------:|:----------------------------------------------------------------:|:-----------------------------:|
