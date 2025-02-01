@@ -1,15 +1,11 @@
 ## Soirée des Communautés Tech Rennaises 2025 - Une initiative de BreizhCamp 
 
-
-
 ### Jeudi 6 mars 2025 
 
 #### 18h45 - 21h00
 
-Dans les locaux de 
-#### Creative Seeds 
-3679 Boulevard des Alliés 
-35510 Cesson-Sévigné
+Dans les locaux de **Creative Seeds** 
+3679 Boulevard des Alliés - 35510 Cesson-Sévigné
 
 
 #### Un événement organisé par les communautés tech de l'association BreizhCamp 
