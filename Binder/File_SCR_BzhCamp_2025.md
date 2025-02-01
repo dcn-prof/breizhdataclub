@@ -9,7 +9,7 @@ Dans les locaux de **Creative Seeds**
 
 
 #### Un événement organisé par les communautés tech de l'association BreizhCamp 
-[BreizhCamp Asso] (https://www.breizhcamp.org/asso/)
+[BreizhCamp Asso](https://www.breizhcamp.org/asso/)
 
 
 ### Invitation diffusée par l'association BreizhCamp
