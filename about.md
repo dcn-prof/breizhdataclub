@@ -39,7 +39,7 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data Lovers_
 >
 ## Vous souhaitez nous contacter ? 
 Pour écrire un message au **Breizh Data Club**, envoyez-nous un e-mail à
-![Prof Calculs](./illustrim/Logos/email-edit-BDC.png)
+![Prof Calculus](./illustrim/Logos/sign-Pr_Calculus_000C-OK.png)
 
 
 
@@ -47,5 +47,5 @@ Pour écrire un message au **Breizh Data Club**, envoyez-nous un e-mail à
 >
 >
 
->  *  Version 2024-06-07
+>  *  Version 2025-02-01
 
