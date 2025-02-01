@@ -12,8 +12,8 @@ Dans les locaux de **Creative Seeds**
 [https://www.breizhcamp.org/asso/]
 
 ### Invitation diffusée par l'association BreizhCamp
-[Picture001](../illustrim/PDFfiles/soiree_DC_2025-03-06-light.png)
-
+[Invitation light](../illustrim/PDFfiles/soiree_DC_2025-03-06-light.png)
+[Invitation dark](../illustrim/PDFfiles/soiree_DC_2025-03-06-dark.png)
 #  
 
 
