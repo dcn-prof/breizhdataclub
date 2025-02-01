@@ -27,7 +27,7 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
-| Soirée des Communautés Tech de Rennes 2025 |      06.03.2025     |  [BreizhCamp SCTR 2025](<https://dcn-prof.github.io/breizhdataclub/Binder/File_SCR_BzhCamp_2025/>)       |
+| Soirée des Communautés Tech de Rennes 2025 |      06.03.2025     |  [BreizhCamp SCTR 2025](https://dcn-prof.github.io/breizhdataclub/Binder/File_SCR_BzhCamp_2025/)       |
 |                                 |                          |                                                    |
 | /!\ CFP pour BreizhCamp 2025 /!\ |      < 10.03.2025     |      <https://sessionize.com/breizhcamp-2025/>  |
 |                                 |                          |                                                    |
