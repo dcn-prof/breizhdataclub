@@ -27,6 +27,8 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
+| Soirée des Communautés Tech de Rennes 2025 |      06.03.2025     |        |
+|                                 |                          |                                                    |
 | /!\ CFP pour BreizhCamp 2025 /!\ |      < 10.03.2025     |      <https://sessionize.com/breizhcamp-2025/>  |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
@@ -121,5 +123,5 @@ Pour en savoir plus sur le **Breizh Data Club**, cliquer sur [A propos](https://
 
 >
 >
->  *  Version 2024-06-30
+>  *  Version 2025-01-30
 
