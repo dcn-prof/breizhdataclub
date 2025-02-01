@@ -9,14 +9,15 @@ Dans les locaux de **Creative Seeds**
 
 
 #### Un événement organisé par les communautés tech de l'association BreizhCamp 
-[https://www.breizhcamp.org/asso/]
+[BreizhCamp Asso] (https://www.breizhcamp.org/asso/)
+
 
 ### Invitation diffusée par l'association BreizhCamp
 [Invitation light](../illustrim/PDFfiles/soiree_DC_2025-03-06-light.png)
 
 [Invitation dark](../illustrim/PDFfiles/soiree_DC_2025-03-06-dark.png)
-#  
 
+#  
 
 ---
 
