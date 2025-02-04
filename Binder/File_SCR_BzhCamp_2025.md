@@ -15,7 +15,10 @@ Dans les locaux de **Creative Seeds**
 ### Invitation diffusée par l'association BreizhCamp
 [Invitation light](../illustrim/PDFfiles/soiree_DC_2025-03-06-light.png)
 
-[Invitation dark](../illustrim/PDFfiles/soiree_DC_2025-03-06-dark.png)
+Pour en savoir plus sur cet événement,
+et/ou pour vous inscrire à cette soirée,
+et/ou pour proposer de faire une petite conf (20 minutes max + Q/R) à cette occasion,
+c'est par ici : [Mobilizon - Soirée des Communautés Tech. Rennaises 2025 ](https://events.rennes.tech/events/2fcd33e4-bc79-465d-a661-d5a39efd245c)
 
 #  
 
