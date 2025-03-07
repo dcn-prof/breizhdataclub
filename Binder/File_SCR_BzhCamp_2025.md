@@ -7,6 +7,8 @@ Dans les locaux de **Creative Seeds**
 
 #### Cet événement était organisé par les communautés tech de l'association BreizhCamp 
 [BreizhCamp Asso](https://www.breizhcamp.org/asso/)
+
+#
 Le Breizh Data Club était impliqué dans l'organisation de cette soirée.
 Et un conférence intitulée **Alea Jacta Est !** a été proposé par un membre du **Breizh Data Club** (Didier Certain).
 
