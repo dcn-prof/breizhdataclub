@@ -10,7 +10,7 @@ Dans les locaux de **Creative Seeds**
 
 #
 Le Breizh Data Club était impliqué dans l'organisation de cette soirée.
-Et un conférence intitulée **Alea Jacta Est !** a été proposé par un membre du **Breizh Data Club** (Didier Certain).
+Et une conférence intitulée **Alea Jacta Est !** a été proposée par un membre du **Breizh Data Club** (Didier Certain).
 
 # Globalement, les participants étaient contents de cette soirée
 aussi bien sur la qualité des conférences est des échanges que sur la qualité du picnic qui a suivi.
