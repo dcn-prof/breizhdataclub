@@ -12,10 +12,10 @@ Dans les locaux de **Creative Seeds**
 Le Breizh Data Club était impliqué dans l'organisation de cette soirée.
 Et une conférence intitulée **Alea Jacta Est !** a été proposée par un membre du **Breizh Data Club** (Didier Certain).
 
-# Globalement, les participants étaient contents de cette soirée
+** Globalement, les participants étaient contents de cette soirée **
 aussi bien sur la qualité des conférences est des échanges que sur la qualité du picnic qui a suivi.
 
-Rendez-vous pour l'année prochaine (en 2026) !
+Rendez-vous donc pour l'année prochaine (en 2026) !
 
 ---
 
