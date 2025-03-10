@@ -5,7 +5,7 @@ dans les locaux de **Creative Seeds** (3679 Boulevard des Alliés - 35510 Cesson
 
 
 #### Cet événement était organisé par les communautés tech de l'association BreizhCamp 
-[ Pour en savoir okus sur BreizhCamp Asso ](https://www.breizhcamp.org/asso/)
+[ Pour en savoir plus sur BreizhCamp Asso ](https://www.breizhcamp.org/asso/)
 
 
 **Le Breizh Data Club était impliqué dans l'organisation de cette soirée.**
