@@ -13,9 +13,12 @@ Dans les locaux de **Creative Seeds**
 
 Et une conférence intitulée **Alea Jacta Est !** a été proposée par un membre du **Breizh Data Club** (Didier Certain).
 
-![ Slides Alea Jacta Est ](../illustrim/PDFfiles/Slides_BDC_2025-03-06-V7short.pdf)
 [ Voici les slides d'Alea Jacta Est ](../illustrim/PDFfiles/Slides_BDC_2025-03-06-V7short.pdf)
 
+Et, en bonus, voici une petite vidéo pour illustrer la génération d'un nuage pseudo-aléatoire à l'aide d'une suite périodique basée sur des nombres de Mersenne (cf. slide 19).
+[ Voici la vidéo ](https://drive.google.com/file/d/1EsztPP4r5uDorcdKs1r6AnrQKkYHbumW/view?usp=sharing)
+
+** **
 **Globalement, les participants étaient contents de cette soirée**
 aussi bien sur la qualité des conférences et des échanges que sur la qualité du picnic qui a suivi.
 
