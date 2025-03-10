@@ -14,7 +14,7 @@ Dans les locaux de **Creative Seeds**
 Et une conférence intitulée **Alea Jacta Est !** a été proposée par un membre du **Breizh Data Club** (Didier Certain).
 
 ![ Slides Alea Jacta Est ](../illustrim/PDFfiles/Slides_BDC_2025-03-06-V7short.pdf)
-
+[ Voici les slides d'Alea Jacta Est ](../illustrim/PDFfiles/Slides_BDC_2025-03-06-V7short.pdf)
 
 **Globalement, les participants étaient contents de cette soirée**
 aussi bien sur la qualité des conférences et des échanges que sur la qualité du picnic qui a suivi.
