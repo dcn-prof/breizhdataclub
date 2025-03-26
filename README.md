@@ -27,8 +27,6 @@
 |      C'est pour bientôt         |    Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
-| /!\ CFP pour BreizhCamp 2025 /!\ |      < 24.03.2025     |      <https://sessionize.com/breizhcamp-2025/>  |
-|                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |      Breizh Data Day 2025       |        15.05.2025        |   <https://breizhdataday.innozh.fr/>               |
@@ -49,9 +47,10 @@
 |         En ce moment         |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
-|   CFP pour BreizhCamp 2025   | Ouvert jusqu'au 24 mars 2025 | <https://sessionize.com/breizhcamp-2025/>   |
+|                              |                        |                                                    |
 |                              |                        |                                                    |
 |     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
+|                              |                        |                                                    |
 |                              |                        |                                                    |
 | ---------------------------- |------------------------| ---------------------------------------------------|
 
@@ -123,5 +122,5 @@ Pour en savoir plus sur le **Breizh Data Club**, cliquer sur [A propos](https://
 
 >
 >
->  *  Version 2025-01-30
+>  *  Version 2025-03-25
 
