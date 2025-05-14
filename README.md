@@ -48,6 +48,7 @@
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
 |                              |                        |                                                    |
+|     Breizh Data Day 2025     |       15.05.2025       |   <https://breizhdataday.innozh.fr/>               |
 |                              |                        |                                                    |
 |     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
 |                              |                        |                                                    |
