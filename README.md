@@ -62,8 +62,8 @@
 |      Regards vers le passé      |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 |                                 |                        |                                                    |
-|      Breizh Data Day 2025       |      15.05.2025        |   <https://breizhdataday.innozh.fr/>               |
 |                                 |                        |                                                    |  
+|      Breizh Data Day 2025       |      15.05.2025        |   <https://breizhdataday.innozh.fr/>               |
 | Soirée des Communautés Tech de Rennes 2025 |      2025-03-06     |  [Soirée des Communautés Tech 2025](https://dcn-prof.github.io/breizhdataclub/Binder/File_SCR_BzhCamp_2025/)       |         
 |          BreizhCamp 2024        |  du 26 au 28.06.2024     | [BreizhCamp 2024](https://dcn-prof.github.io/breizhdataclub/Binder/File_BzhCamp2024/)                |
 | Soirée des communautés tech rennaises 2024 |     2024-05-16         |  [Soirée des Communautés Tech 2024](<https://www.meetup.com/fr-FR/breizh-data-club/events/300516413/>)                |
