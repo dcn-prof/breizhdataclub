@@ -24,7 +24,7 @@ numérique, étudiants … De surcroît, grâce aux sponsors rassemblés par INN
 
 #### Un riche programme de conférences
 
-[Demandez le programme !](./illustrim/PDFfiles/Programme_BDD2024-OK2.pdf)
+[Demandez le programme !](../illustrim/PDFfiles/Programme_BDD2024-OK2.pdf)
 
 
 >
