@@ -1,7 +1,7 @@
 ## Breizh Data Day 2025 - Photos souvenirs
 
 ### Le Théâtre "La Passerelle" de Saint-Brieuc
-![Photo01](../illustrim//Photos/BDD2025/Theatre_La_Passerelle_BDD2025-01.jpg]
+![Photo01](../illustrim//Photos/BDD2025/Theatre_La_Passerelle_BDD2025-01.jpg)
 **Le Théâtre "La Passerelle" de Saint-Brieuc**
 >
 
