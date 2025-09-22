@@ -41,8 +41,9 @@ En dehors des conférences, dans le hall et/ou autour des stands des sponsors, d
 Convivialité, bienveillance et détente étaient les maîtres-mots formulés par les visiteurs pour résumer la journée.
 
 #### Galerie de photos souvenirs   ( /!\  à mettre à jour ASAP )
-C'est ici [Photos Souvenirs](../File_BDD2025photos)
+C'est ici [Photos Souvenirs](../Binder/File_BDD2025photos)
 
+Binder/File_BDD2025photos.md
 
 #### Et aussi une vidéo souvenir 
 C'est ici [Vidéo Souvenir](https://youtu.be/oIBDLMm7fyQ)
