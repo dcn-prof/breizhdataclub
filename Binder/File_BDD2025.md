@@ -29,7 +29,7 @@ Cette large ouverture a contribué à la diversité du public et à la richesse 
 
 #### Un riche programme de conférences  ( /!\  à mettre à jour ASAP )
 
-[Demandez le programme !](../illustrim/PDFfiles/Programme_BDD2024-OK2.pdf)
+[Demandez le programme !](../illustrim/PDFfiles/Programme_BDD2025-OK.pdf)
 
 
 >
@@ -41,7 +41,7 @@ En dehors des conférences, dans le hall et/ou autour des stands des sponsors, d
 Convivialité, bienveillance et détente étaient les maîtres-mots formulés par les visiteurs pour résumer la journée.
 
 #### Galerie de photos souvenirs   ( /!\  à mettre à jour ASAP )
-C'est ici [Photos Souvenirs](../Binder/File_BDD2025photos)
+C'est ici [Photos Souvenirs](../illustrim/Photos/File_BDD2025photos)
 
 
 
