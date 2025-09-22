@@ -2,23 +2,26 @@
 
 ### Le Théâtre "La Passerelle" de Saint-Brieuc
 ![Photo01](../illustrim//Photos/BDD2025/Theatre_La_Passerelle_BDD2025-01.jpg)
-**Le Théâtre "La Passerelle" de Saint-Brieuc**
+**Fig. 1 - Le Théâtre "La Passerelle" de Saint-Brieuc**
 >
 
-### La keynote matinale de Serge Abiteboul (INRIA, ENS Paris, Académie des Sciences)
-![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01.jpg)
-**Les I.A., aujourd’hui et demain**
+### Les I.A., aujourd’hui et demain
 >Serge Abiteboul a ouvert la journée avec une conférence introductive sur le thème « Avec les I.A., où va-t-on ? ».
 > Déjà présente dans le folklore et la science-fiction, l’intelligence artificielle a débarqué au 20ème siècle dans les sciences et la technologie, et plus récemment dans nos vies à tous.
 > Bien sûr, aucune magie là-dedans. Mais la société doit comprendre, maitriser cette nouvelle technologie.
 > Alors, où en est-on ? Et où va-t-on ?    
 >
+![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01.jpg)
+**Fig. 2 - La keynote matinale de Serge Abiteboul (INRIA, ENS Paris, Académie des Sciences)**
 
-### Maryem Guizani et Léo Leydour (ENSAI Junior Consultant à Rennes - Campus de Ker Lann)
+
+
+
+### Retour d'esxpérienc. L'I.A. au service de l'analyse des opinions : Décrypter les tendances sociétales pour mieux agir**
 ![Photo03](../illustrim/Photos/BDD2025/ENSAI_JE_BDD2025-01.jpg)
-**Retex : L'I.A. au service de l'analyse des opinions : Décrypter les tendances sociétales pour mieux agir**
+**Fig. 2 - Maryem Guizani et Léo Leydour (ENSAI Junior Consultant à Rennes - Campus de Ker Lann)**
 
-
+## ???? /!\/!\
 
 ### Le programme dans la salle "Le Grand Léjon"
 ![Photo04](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
