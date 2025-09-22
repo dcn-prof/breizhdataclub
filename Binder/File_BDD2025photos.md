@@ -6,7 +6,7 @@
 >
 
 ### La keynote matinale de Serge Abiteboul (INRIA, ENS Paris, Académie des Sciences)
-![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01)
+![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01.jpg)
 **Les I.A., aujourd’hui et demain**
 >
 
