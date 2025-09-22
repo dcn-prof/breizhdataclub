@@ -5,9 +5,9 @@
 **Le Théâtre "La Passerelle" de Saint-Brieuc**
 >
 
-### Le théâtre "La Passerelle"
-![Photo02](../illustrim/Photos/BDD2024/01_Facade_Palais_Congres.jpg)
-**La Passerelle de Saint-Brieuc**
+### La keynote matinale de Serge Abiteboul (INRIA, ENS Paris, Académie des Sciences)
+![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01)
+**Les I.A., aujourd’hui et demain**
 >
 
 ### La Keynote du matin
