@@ -29,7 +29,7 @@ Cette large ouverture a contribué à la diversité du public et à la richesse 
 
 #### Un riche programme de conférences  ( /!\  à mettre à jour ASAP )
 
-[Demandez le programme !](../../illustrim/PDFfiles/Programme_BDD2025-OK.pdf)
+[Demandez le programme !](../../illustrim/PDFfiles/Programme_BDD2025.pdf)
 
 
 >
