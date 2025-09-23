@@ -11,15 +11,15 @@
 > Bien sûr, aucune magie là-dedans. Mais la société doit comprendre, maitriser cette nouvelle technologie.
 > Alors, où en est-on ? Et où va-t-on ?    
 >
-![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01.jpg)
+![Photo02](../illustrim/Photos/BDD2025/Keynote_S-Abiteboul_BD2025-01k.jpg)
 **Fig. 2 - La keynote matinale de Serge Abiteboul (INRIA, ENS Paris, Académie des Sciences)**
 
 
 
 
-### Retour d'esxpérienc. L'I.A. au service de l'analyse des opinions : Décrypter les tendances sociétales pour mieux agir**
-![Photo03](../illustrim/Photos/BDD2025/ENSAI_JE_BDD2025-01.jpg)
-**Fig. 2 - Maryem Guizani et Léo Leydour (ENSAI Junior Consultant à Rennes - Campus de Ker Lann)**
+### Retour d'esxpérience. L'I.A. au service de l'analyse des opinions : Décrypter les tendances sociétales pour mieux agir**
+![Photo03](../illustrim/Photos/BDD2025/ENSAI_JE_BDD2025-01k.jpg)
+**Fig. 2 - Maryem Guizani et Léo Leydour (ENSAI Junior Consultant à Rennes)**
 
 ## ???? /!\/!\
 
