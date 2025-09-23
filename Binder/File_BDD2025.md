@@ -8,7 +8,7 @@
 
 Cette année, à Saint-Brieuc, c'était la 6ème édition du **Breizh Data Day** créé initialement à Rennes en 2017. 
 
-Avec ses 17 conférences et ses animations collatérales, le **Breizh Data Day 2025** était encore, cette année,le rendez-vous à ne pas manquer pour tous les passionnés et pour les curieux qui souhaitent en savoir plus sur l’univers des Data et des Intelligences Artificielles.telligence Artificiellle.
+Avec ses 17 conférences et ses animations collatérales, le **Breizh Data Day 2025** était encore, cette année,le rendez-vous à ne pas manquer pour tous les passionnés et pour les curieux qui souhaitent en savoir plus sur l’univers des Data et des Intelligences Artificielles.
 
 Pourquoi l'I.A. ? Tout simplement parce que les technologies de l'I.A. sont de très grandes consommatrices de Data (notamment les I.A. génératives et toutes celles qui s'appuient sur le _Machine Learning_ pour affiner et optimiser leurs modèles sous-jacents).
 
@@ -29,7 +29,7 @@ Cette large ouverture a contribué à la diversité du public et à la richesse 
 
 #### Un riche programme de conférences  ( /!\  à mettre à jour ASAP )
 
-[Demandez le programme !](../illustrim/PDFfiles/Programme_BDD2025-OK.pdf)
+[Demandez le programme !](../../illustrim/PDFfiles/Programme_BDD2025-OK.pdf)
 
 
 >
@@ -41,9 +41,8 @@ En dehors des conférences, dans le hall et/ou autour des stands des sponsors, d
 Convivialité, bienveillance et détente étaient les maîtres-mots formulés par les visiteurs pour résumer la journée.
 
 #### Galerie de photos souvenirs   ( /!\  à mettre à jour ASAP )
-C'est ici [Photos Souvenirs](../Binder/File_BDD2025photos)
+C'est ici [Photos Souvenirs](../File_BDD2025photos)
 
-Binder/File_BDD2025photos.md
 
 #### Et aussi une vidéo souvenir 
 C'est ici [Vidéo Souvenir](https://youtu.be/oIBDLMm7fyQ)
