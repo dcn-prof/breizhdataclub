@@ -27,7 +27,7 @@ Cette large ouverture a contribué à la diversité du public et à la richesse 
 
 >
 
-#### Un riche programme de conférences  ( /!\  à mettre à jour ASAP )
+#### Un riche programme de conférences
 
 [Demandez le programme !](../../illustrim/PDFfiles/Programme_BDD2025.pdf)
 
@@ -40,7 +40,7 @@ En dehors des conférences, dans le hall et/ou autour des stands des sponsors, d
 
 Convivialité, bienveillance et détente étaient les maîtres-mots formulés par les visiteurs pour résumer la journée.
 
-#### Galerie de photos souvenirs   ( /!\  à mettre à jour ASAP )
+#### Galerie de photos souvenirs 
 C'est ici [Photos Souvenirs](../File_BDD2025photos)
 
 
@@ -72,5 +72,5 @@ Pour en savoir plus sur le **Breizh Data Day 2026**, cliquer [ICI](https://breiz
   
 >
 
->  *  Version 2025-05-23
+>  *  Version 2025-09-23
 >    
