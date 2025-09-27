@@ -5,7 +5,7 @@
 **Fig. 1 - Le Théâtre "La Passerelle" de Saint-Brieuc**
 >
 
-### Les I.A., aujourd’hui et demain
+### KEYNOTE. Les I.A., aujourd’hui et demain
 >Serge Abiteboul a ouvert la journée avec une conférence introductive sur le thème « Avec les I.A., où va-t-on ? ».
 > Déjà présente dans le folklore et la science-fiction, l’intelligence artificielle a débarqué au 20ème siècle dans les sciences et la technologie, et plus récemment dans nos vies à tous.
 > Bien sûr, aucune magie là-dedans. Mais la société doit comprendre, maitriser cette nouvelle technologie.
@@ -66,15 +66,12 @@
 **Fig. 10 - Appoline Herbinet et Enzo Rideau (Delaware à Rennes)**
 >
 >
->
->
->
 
-### TECH : Intelligence Artificielle : quels impacts environnementaux ?
+### TECH. Intelligence Artificielle : quels impacts environnementaux ?
 ![Photo11](../illustrim//Photos/BDD2025/11_David_Allioux_BDD2025-(2024-02-26).png)
 **Fig. 11 - David Allioux (The Shift Project)**
 
-### TECH : MétéoData, récolter les données météo du Minitel au NB-IoT
+### TECH. MétéoData, récolter les données météo du Minitel au NB-IoT
 ![Photo12](../illustrim//Photos/BDD2025/12_Laurent_Georget_BDD2025-().jpg)
 **Fig. 12 - Laurent Georget (Meteo Concept)**
 
@@ -83,9 +80,21 @@
 **Fig. 13 - Julie Bourrée (EDIH / IMages & Réseaux)**
 
 
+### TECH. Données spatiales et SIG : Trouver l’équilibre entre précision et performance
+![Photo14](../illustrim//Photos/BDD2025/14_Halima_Talab-Ou-Ali_BDD2025-().jpg)
+**Fig. 14 -  Halima Talab-Ou-Ali (SII - Ouest)**
+
+### RETEX. Data et I.A. au service des enjeux du Groupe SNCF et d'une mobilité plus durable
+![Photo15](../illustrim//Photos/BDD2025/15_Jean-Jacques_Thomas_BDD2025-(2025-07-31).jpg)
+**Fig. 15 - Jean-Jacques Thomas (SNCF)**
+
+### RETEX. Conformité ou compétitivité : L’IA Act oblige-t-il à choisir ?
+![Photo16](../illustrim//Photos/BDD2025/16_Lea_Deswarte_BDD2025-().jpg)
+**Fig. 16 - Léa Deswarte (Kereval à Rennes)**
+
+
 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ W V W V W V W V W V W 
-
 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ M A M A M A M A M A M
 
