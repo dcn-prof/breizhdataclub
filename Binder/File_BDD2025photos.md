@@ -94,6 +94,7 @@
 ### RETEX. Défense civile et cognition : résistance et résilience
 ![Photo17](../illustrim//Photos/BDD2025/17_Christophe_Thovex_BDD2025-().jpg)
 **Fig. 17 - Christophe Thovex (Think tank TECHNOREALISME)**
+>
 ![Photo17](../illustrim//Photos/BDD2025/17_Corentin_Boidot_BDD2025-().png)
 **Fig. 17.bis -  Corentin Boidot (Think tank TECHNOREALISME)**
 
@@ -110,12 +111,8 @@
 **Fig. 20 -  Philippe Prost (DBM-Décision Alpha à Ploufragan (22) )**
 
 
-
-
-## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ W V W V W V W V W V W 
-
-
-## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ M A M A M A M A M A M
+>
+>
 
 ### Remerciements pour tous les participants venus au Breizh Data Day 2025
 
