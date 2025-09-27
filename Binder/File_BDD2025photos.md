@@ -68,11 +68,11 @@
 >
 
 ### TECH. Intelligence Artificielle : quels impacts environnementaux ?
-![Photo11](../illustrim//Photos/BDD2025/11_David_Allioux_BDD2025-(2024-02-26).png)
+![Photo11](../illustrim//Photos/BDD2025/11_David_Allioux_BDD2025.png)
 **Fig. 11 - David Allioux (The Shift Project)**
 
 ### TECH. MétéoData, récolter les données météo du Minitel au NB-IoT
-![Photo12](../illustrim//Photos/BDD2025/12_Laurent_Georget_BDD2025-().jpg)
+![Photo12](../illustrim//Photos/BDD2025/12_Laurent_Georget_BDD2025.jpg)
 **Fig. 12 - Laurent Georget (Meteo Concept)**
 
 ### Atelier. Transfomez votre entreprise avec l'I.A.
