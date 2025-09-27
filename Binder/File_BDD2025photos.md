@@ -41,40 +41,37 @@
 **Fig. 6-bis - Pause-déjeuner**
 >
 > 
+
+### TECH. L'I.A. appliquée au service de la langue des signes : la phase critique de l'entraînement
+![Photo07](../illustrim/Photos/BDD2025/ELECTRIC-BRAIN_BD2025-01k.jpg)
+**Fig. 7 - Thomas Roc (Electric Brain à Saint-Brieuc)**
+>
+>
+
+### TECH. La valeur des données industrielles : Enjeux et opportunités dans une économie mondialisée
+![Photo08](../illustrim/Photos/BDD2025/PLASSERAUD-IP_BDD2025-01k.jpg)
+**Fig. 8 - Gaël Le Saux (Plasseraud-IP à Rennes)**
+>
+> 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
 
-
-### Sylvain BARTHELEMY (Gwenlake)
-![Photo07](../illustrim/Photos/BDD2024/04_Amphi_Gwenlake_Sylvain-Barthelemy-01R.gif)  
-**I.A. générative et Unified Knowledge source pour les entreprises** 
+### RETEX. L’I.A. pour tous, du fantasme à la réalité
+![Photo09](../illustrim/Photos/BDD2025/ENEDIS_BDD2025-01k.jpg)
+**Fig. 9 - Jean-Philippe Prodhomme (ENEDIS à Rennes)**
+> 
+### RETEX. L’I.A. pour tous, du fantasme à la réalité
+![Photo10](../illustrim/Photos/BDD2025/ENEDIS_BDD2025-01k.jpg)
+**Fig. 10 - Jean-Philippe Prodhomme (ENEDIS à Rennes)**
 > 
 
-
-###  Sophie TARDIVEL (Doptim) 
-![Photo08](../illustrim/Photos/BDD2024/05_Amphi_Conf_Doptim_S-Tardivel-05.jpg) 
-
-**L'I.A. pour évaluer la qualité des soudures et moins gaspiller**
-> Merci beaucoup Sophie pour ce remplacement, au pied levé, de la conférence de Basile Brochut (Marine Weather Intelligence) prévue initialement sur ce créneau.
-> 
-
-### Thomas WENTZ (Speredia)
-![Photo09](../illustrim/Photos/BDD2024/07_Amphi_Conf_Speredia-01.png)  
-**A.I. Act : vers la régulation des Intelligences Artificielles dans l’U.E.** 
-> 
-
-### Arthur HOARAU (IRISA)
-![Photo10](../illustrim/Photos/BDD2024/04_Amphi_Conf_IRISA-01.png)  
-**Réduction des coûts d’étiquetage en intelligence artificielle** 
-> 
-
-
+## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
 
 ### Remerciements pour tous les participants venus au Breizh Data Day 2025
 
 **Bilan en fin de la journée : 370 personnes sont venues à l’événement.**
 >
 
-### Remerciements à l'équipe d'INNÔZH qui a oeuvré en coulisse 
+### Remerciements à toute l'équipe d'INNÔZH et de La Passerelle qui ont oeuvré en coulisse au succès de cette journée.
 
 **Le Breizh Data Day, c'est un vrai travail d'équipe. Avec des personnes sur la scène et d'autres dans les coulisses.**
 On ne soulignera jamais assez l'importance du travail réalisé en coulisse . . .
