@@ -76,19 +76,19 @@
 **Fig. 12 - Laurent Georget (Meteo Concept)**
 
 ### Atelier. Transfomez votre entreprise avec l'I.A.
-![Photo13](../illustrim//Photos/BDD2025/13_Julie_Bourree_BDD2025-().jpg)
+![Photo13](../illustrim//Photos/BDD2025/13_Julie_Bourree_BDD2025.jpg)
 **Fig. 13 - Julie Bourrée (EDIH / Images & Réseaux)**
 
 ### TECH. Données spatiales et SIG : Trouver l’équilibre entre précision et performance
-![Photo14](../illustrim//Photos/BDD2025/14_Halima_Talab-Ou-Ali_BDD2025-().jpg)
+![Photo14](../illustrim//Photos/BDD2025/14_Halima_Talab-Ou-Ali_BDD2025.jpg)
 **Fig. 14 -  Halima Talab-Ou-Ali (SII - Ouest)**
 
 ### RETEX. Data et I.A. au service des enjeux du Groupe SNCF et d'une mobilité plus durable
-![Photo15](../illustrim//Photos/BDD2025/15_Jean-Jacques_Thomas_BDD2025-(2025-07-31)k.jpg)
+![Photo15](../illustrim//Photos/BDD2025/15_Jean-Jacques_Thomas_BDD2025-k.jpg)
 **Fig. 15 - Jean-Jacques Thomas (SNCF)**
 
 ### RETEX. Conformité ou compétitivité : L’IA Act oblige-t-il à choisir ?
-![Photo16](../illustrim//Photos/BDD2025/16_Lea_Deswarte_BDD2025-().jpg)
+![Photo16](../illustrim//Photos/BDD2025/16_Lea_Deswarte_BDD2025.jpg)
 **Fig. 16 - Léa Deswarte (Kereval à Rennes)**
 
 ### RETEX. Défense civile et cognition : résistance et résilience
