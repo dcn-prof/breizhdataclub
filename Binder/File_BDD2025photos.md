@@ -24,16 +24,19 @@
 
 
 ### RETEX. Optimiser la préparation de rendez-vous clients professionnels dans le domaine bancaire grâce à l’IA
-![Photo04](../illustrim/Photos/BDD2025/NIJI_BPGO_BDD2025-01.jpg)
+![Photo04](../illustrim/Photos/BDD2025/NIJI_BPGO_BDD2025-01k.jpg)
 **Fig. 4 - Manuel Duprey (NIJI à Rennes) et Christophe Laverrière (Banque Populaire Grand Ouest)**
 
 
+
+
+### RETEX. L’I.A. pour tous, du fantasme à la réalité
+![Photo05](../illustrim/Photos/BDD2025/ENEDIS_BDD2025-01k.jpg)
+**Fig. 5 - Jean-Philippe Prodhomme (ENEDIS à Rennes)**
+> 
+
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
 
-### Julien PERRON & Victor KLÖTZER (Ouest France)
-![Photo05](../illustrim/Photos/BDD2024/08_Amphi_Conf_Ouest-France-01.png)
-**Ouest-France, de l'I.A. dans le quotidien : traitements de données multimodales appliqués aux contenus éditoriaux**
-> 
 
 ### Arnaud VALENCE (ESIEA) 
 ![Photo06](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-06.gif) 
