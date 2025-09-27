@@ -64,10 +64,30 @@
 ### RETEX. "Vert" l'avenir : Microsoft Fabric et Power BI pour une transformation durable
 ![Photo10](../illustrim/Photos/BDD2025/Delaware_BDD2025-01k.jpg)
 **Fig. 10 - Appoline Herbinet et Enzo Rideau (Delaware à Rennes)**
-> 
-> 
-## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
-## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
+>
+>
+>
+>
+>
+
+## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ W W W W W W 
+
+### TECH : Intelligence Artificielle : quels impacts environnementaux ?
+![Photo11](../illustrim//Photos/BDD2025/11_David_Allioux_BDD2025-(2024-02-26).png)
+**Fig. 11 - David Allioux (The Shift Project)**
+
+### TECH : MétéoData, récolter les données météo du Minitel au NB-IoT
+![Photo12](../illustrim//Photos/BDD2025/12_Laurent_Georget_BDD2025-().jpg)
+**Fig. 12 - Laurent Georget (Meteo Concept)**
+
+### Atelier. Transfomez votre entreprise avec l'I.A.
+![Photo13](../illustrim//Photos/BDD2025/13_Julie_Bourree_BDD2025-().jpg)
+**Fig. 13 - Julie Bourrée (EDIH / IMages & Réseaux)**
+
+
+
+
+## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ M M M M M M
 
 ### Remerciements pour tous les participants venus au Breizh Data Day 2025
 
