@@ -27,22 +27,21 @@
 ![Photo04](../illustrim/Photos/BDD2025/NIJI_BPGO_BDD2025-01k.jpg)
 **Fig. 4 - Manuel Duprey (NIJI à Rennes) et Christophe Laverrière (Banque Populaire Grand Ouest)**
 
-
-
-
 ### RETEX. L’I.A. pour tous, du fantasme à la réalité
 ![Photo05](../illustrim/Photos/BDD2025/ENEDIS_BDD2025-01k.jpg)
 **Fig. 5 - Jean-Philippe Prodhomme (ENEDIS à Rennes)**
 > 
 
+
+### Le Forum. Un lieu convivial de rencontres et d'échanges
+![Photo06](../illustrim/Photos/BDD2025/Forum_BDD2025-01.jpg)
+**Fig. 6 - Pause-café**
+> 
+![Photo06-bis](../illustrim/Photos/BDD2025/Forum_BDD2025-02.jpg)
+**Fig. 6-bis - Pause-déjeuner**
+>
+> 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
-
-
-### Arnaud VALENCE (ESIEA) 
-![Photo06](../illustrim/Photos/BDD2024/02_Amphi_ESIEA_Arnaud-Valence-06.gif) 
-
-**I.A. génératives/conversationnelles : opportunités et menaces** 
->  
 
 
 ### Sylvain BARTHELEMY (Gwenlake)
