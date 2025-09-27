@@ -52,18 +52,21 @@
 ![Photo08](../illustrim/Photos/BDD2025/PLASSERAUD-IP_BDD2025-01k.jpg)
 **Fig. 8 - Gaël Le Saux (Plasseraud-IP à Rennes)**
 >
+>
+
+### RETEX. Au-delà du chatbot classique : un assistant intelligent et proactif.
+![Photo09](../illustrim/Photos/BDD2025/Polaria_BDD2025-01.jpg)
+**Fig. 9 - Alexis Lewalle (Polaria Tech à Vannes)**
+>
+>
+
+
+### RETEX. "Vert" l'avenir : Microsoft Fabric et Power BI pour une transformation durable
+![Photo10](../illustrim/Photos/BDD2025/Delaware_BDD2025-01k.jpg)
+**Fig. 10 - Appoline Herbinet et Enzo Rideau (Delaware à Rennes)**
+> 
 > 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
-
-### RETEX. L’I.A. pour tous, du fantasme à la réalité
-![Photo09](../illustrim/Photos/BDD2025/ENEDIS_BDD2025-01k.jpg)
-**Fig. 9 - Jean-Philippe Prodhomme (ENEDIS à Rennes)**
-> 
-### RETEX. L’I.A. pour tous, du fantasme à la réalité
-![Photo10](../illustrim/Photos/BDD2025/ENEDIS_BDD2025-01k.jpg)
-**Fig. 10 - Jean-Philippe Prodhomme (ENEDIS à Rennes)**
-> 
-
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
 
 ### Remerciements pour tous les participants venus au Breizh Data Day 2025
