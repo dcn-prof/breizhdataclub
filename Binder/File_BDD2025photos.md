@@ -77,7 +77,7 @@
 
 ### Atelier. Transfomez votre entreprise avec l'I.A.
 ![Photo13](../illustrim//Photos/BDD2025/13_Julie_Bourree_BDD2025-().jpg)
-**Fig. 13 - Julie Bourrée (EDIH / IMages & Réseaux)**
+**Fig. 13 - Julie Bourrée (EDIH / Images & Réseaux)**
 
 
 ### TECH. Données spatiales et SIG : Trouver l’équilibre entre précision et performance
@@ -85,7 +85,7 @@
 **Fig. 14 -  Halima Talab-Ou-Ali (SII - Ouest)**
 
 ### RETEX. Data et I.A. au service des enjeux du Groupe SNCF et d'une mobilité plus durable
-![Photo15](../illustrim//Photos/BDD2025/15_Jean-Jacques_Thomas_BDD2025-(2025-07-31).jpg)
+![Photo15](../illustrim//Photos/BDD2025/15_Jean-Jacques_Thomas_BDD2025-(2025-07-31)z.jpg)
 **Fig. 15 - Jean-Jacques Thomas (SNCF)**
 
 ### RETEX. Conformité ou compétitivité : L’IA Act oblige-t-il à choisir ?
