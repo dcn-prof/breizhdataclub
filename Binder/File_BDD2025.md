@@ -36,7 +36,7 @@ Cette large ouverture a contribué à la diversité du public et à la richesse 
 
 #### Et des échanges informels 
 
-En dehors des conférences, dans le hall et/ou autour des stands des sponsors, de nombreux échanges informels se sont tenus entre les participants (environ 320 personnes en cumulé sur la journée).
+En dehors des conférences, dans le hall et/ou autour des stands des sponsors, de nombreux échanges informels se sont tenus entre les participants (environ 370 personnes en cumulé sur la journée).
 
 Convivialité, bienveillance et détente étaient les maîtres-mots formulés par les visiteurs pour résumer la journée.
 
