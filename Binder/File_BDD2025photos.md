@@ -17,17 +17,16 @@
 
 
 
-### Retour d'esxpérience. L'I.A. au service de l'analyse des opinions : Décrypter les tendances sociétales pour mieux agir**
+### RETEX. L'I.A. au service de l'analyse des opinions : Décrypter les tendances sociétales pour mieux agir
 ![Photo03](../illustrim/Photos/BDD2025/ENSAI_JE_BDD2025-01k.jpg)
 **Fig. 2 - Maryem Guizani et Léo Leydour (ENSAI Junior Consultant à Rennes)**
 
-## ???? /!\/!\
 
-### Le programme dans la salle "Le Grand Léjon"
+### RETEX. Comment optimiser la préparation de rendez-vous clients professionnels dans le domaine bancaire grâce à l’IA ?
 ![Photo04](../illustrim/Photos/BDD2024/02_Programme-BDD2024-GrandLejon.jpg)
-**Le programme des conférences TECH**
-> Le Grand Léjon est un phare qui signale l'entrée nord de la baie de Saint-Brieuc.
+**Fig. 3 - Manuel Duprey (NIJI à Rennes) et Christophe Laverrière (Banque Populaire Grand Ouest)**
 
+## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ ??????
 
 ### Julien PERRON & Victor KLÖTZER (Ouest France)
 ![Photo05](../illustrim/Photos/BDD2024/08_Amphi_Conf_Ouest-France-01.png)
