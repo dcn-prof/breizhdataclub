@@ -79,7 +79,6 @@
 ![Photo13](../illustrim//Photos/BDD2025/13_Julie_Bourree_BDD2025-().jpg)
 **Fig. 13 - Julie Bourrée (EDIH / Images & Réseaux)**
 
-
 ### TECH. Données spatiales et SIG : Trouver l’équilibre entre précision et performance
 ![Photo14](../illustrim//Photos/BDD2025/14_Halima_Talab-Ou-Ali_BDD2025-().jpg)
 **Fig. 14 -  Halima Talab-Ou-Ali (SII - Ouest)**
@@ -92,9 +91,29 @@
 ![Photo16](../illustrim//Photos/BDD2025/16_Lea_Deswarte_BDD2025-().jpg)
 **Fig. 16 - Léa Deswarte (Kereval à Rennes)**
 
+### RETEX. Défense civile et cognition : résistance et résilience
+![Photo17](../illustrim//Photos/BDD2025/17_Christophe_Thovex_BDD2025-().jpg)
+**Fig. 17 - Christophe Thovex (Think tank TECHNOREALISME)**
+![Photo17](../illustrim//Photos/BDD2025/17_Corentin_Boidot_BDD2025-().png)
+**Fig. 17.bis -  Corentin Boidot (Think tank TECHNOREALISME)**
+
+### RETEX. Les données au service d’un meilleur pilotage des exploitations porcines.
+![Photo18](../illustrim//Photos/BDD2025/18_Yvonnick_Rousselière_BDD2025-().jpg)
+**Fig. 18 - Yvonnick Rousselière (IFIP & INRAE à Pacé (35) )**
+
+### RETEX. Exemples de projets d’imagerie pour la santé et le bien-être animal.
+![Photo19](../illustrim//Photos/BDD2025/19_Vincent_Gauthier_BDD2025-().jpg)
+**Fig. 19 - Vincent Gauthier (Néotec Vision à Pacé (35) )**
+
+### TECH. Vetorama : Classification de données vétérinaires en utilisant un réseaux de neurones
+![Photo20](../illustrim//Photos/BDD2025/20_Philippe_Prost_BDD2025-(2024-02-21).png)
+**Fig. 20 -  Philippe Prost (DBM-Décision Alpha à Ploufragan (22) )**
+
+
 
 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ W V W V W V W V W V W 
+
 
 ## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ M A M A M A M A M A M
 
@@ -103,11 +122,12 @@
 **Bilan en fin de la journée : 370 personnes sont venues à l’événement.**
 >
 
-### Remerciements à toute l'équipe d'INNÔZH et de La Passerelle qui ont oeuvré en coulisse au succès de cette journée.
+### Remerciements à toute l'équipe d'INNÔZH et de La Passerelle qui ont oeuvré en coulisse pour le succès de cette journée.
 
 **Le Breizh Data Day, c'est un vrai travail d'équipe. Avec des personnes sur la scène et d'autres dans les coulisses.**
 On ne soulignera jamais assez l'importance du travail réalisé en coulisse . . .
-Ce sont eux qui mettent de l'huile dans les rouages tout au long de la journée.
+Ceux qui oeuvrent en coulisse mettent de l'huile dans les rouages tout au long de la journée.
+Et ça, c'est décisif ! 
 >
 
 
