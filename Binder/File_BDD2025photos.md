@@ -70,8 +70,6 @@
 >
 >
 
-## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ W W W W W W 
-
 ### TECH : Intelligence Artificielle : quels impacts environnementaux ?
 ![Photo11](../illustrim//Photos/BDD2025/11_David_Allioux_BDD2025-(2024-02-26).png)
 **Fig. 11 - David Allioux (The Shift Project)**
@@ -86,8 +84,10 @@
 
 
 
+## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ W V W V W V W V W V W 
 
-## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ M M M M M M
+
+## ???? /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\ M A M A M A M A M A M
 
 ### Remerciements pour tous les participants venus au Breizh Data Day 2025
 
