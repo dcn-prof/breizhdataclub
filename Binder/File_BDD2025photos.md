@@ -92,22 +92,22 @@
 **Fig. 16 - Léa Deswarte (Kereval à Rennes)**
 
 ### RETEX. Défense civile et cognition : résistance et résilience
-![Photo17](../illustrim//Photos/BDD2025/17_Christophe_Thovex_BDD2025-().jpg)
+![Photo17](../illustrim//Photos/BDD2025/17_Christophe_Thovex_BDD2025.jpg)
 **Fig. 17 - Christophe Thovex (Think tank TECHNOREALISME)**
->
-![Photo17](../illustrim//Photos/BDD2025/17_Corentin_Boidot_BDD2025-().png)
+
+![Photo17](../illustrim//Photos/BDD2025/17_Corentin_Boidot_BDD2025.png)
 **Fig. 17.bis -  Corentin Boidot (Think tank TECHNOREALISME)**
 
 ### RETEX. Les données au service d’un meilleur pilotage des exploitations porcines.
-![Photo18](../illustrim//Photos/BDD2025/18_Yvonnick_Rousselière_BDD2025-().jpg)
+![Photo18](../illustrim//Photos/BDD2025/18_Yvonnick_Rousselière_BDD2025.jpg)
 **Fig. 18 - Yvonnick Rousselière (IFIP & INRAE à Pacé (35) )**
 
 ### RETEX. Exemples de projets d’imagerie pour la santé et le bien-être animal.
-![Photo19](../illustrim//Photos/BDD2025/19_Vincent_Gauthier_BDD2025-().jpg)
+![Photo19](../illustrim//Photos/BDD2025/19_Vincent_Gauthier_BDD2025.jpg)
 **Fig. 19 - Vincent Gauthier (Néotec Vision à Pacé (35) )**
 
 ### TECH. Vetorama : Classification de données vétérinaires en utilisant un réseaux de neurones
-![Photo20](../illustrim//Photos/BDD2025/20_Philippe_Prost_BDD2025-(2024-02-21).png)
+![Photo20](../illustrim//Photos/BDD2025/20_Philippe_Prost_BDD2025.png)
 **Fig. 20 -  Philippe Prost (DBM-Décision Alpha à Ploufragan (22) )**
 
 
