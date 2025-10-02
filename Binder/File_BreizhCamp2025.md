@@ -52,4 +52,4 @@ Pour en savoir plus sur le **BreizhCamp 2026**, cliquer [ICI](https://www.breizh
   
 >
 
->  *  Version 2024-07-01
+>  *  Version 2025-10-02
