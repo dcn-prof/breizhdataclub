@@ -50,6 +50,7 @@ C'est ici [Vidéo Souvenir](https://youtu.be/oIBDLMm7fyQ)
 ## Rendez-vous l'année prochaine pour le Breizh Data Day 2026 
 
 La prochaine édition (la 7<sup>ème</sup>) du **Breizh Data Day** est prévue au printemps 2026 à Saint-Brieuc. 
+
 Réservez la date du Vendredi 20 mars 2026 dans votre agenda.
 
 Pour en savoir plus sur le **Breizh Data Day 2026**, cliquer [ICI](https://breizhdataday.innozh.fr/)
