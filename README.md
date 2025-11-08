@@ -28,7 +28,7 @@
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
-|         Breizh Data Day 2026    |    Jeudi 19.03.2026      |  <https://breizhdataday.innozh.fr/>                |
+|         Breizh Data Day 2026    |  Vendredi 20.03.2026     |  <https://breizhdataday.innozh.fr/>                |
 |                                 |                          |                                                    |
 |          BreizhCamp 2026        |   du 24 au 26.06.2026    |  <https://www.breizhcamp.org/>                     |
 |                                 |                          |                                                    |
