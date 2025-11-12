@@ -65,8 +65,8 @@ Pour en savoir plus sur le **Breizh Data Day 2026**, cliquer [ICI](https://breiz
 ## Pour en savoir plus sur le Breizh Data Day 2025
 
 - Source 1 : [INNÔZH - Saint-Brieuc](https://www.innozh.fr/innozh/qui-sommes-nous-2/)
-- Source 2 : [site Breizh Data Day 2024](https://breizhdataday.innozh.fr/)
-- Source 3 : [Palais des Congrès - Saint-Brieuc](https://www.saintbrieucexpocongres.com/)
+- Source 2 : [site Breizh Data Day 2025](https://breizhdataday.innozh.fr/)
+- Source 3 : [Théâtre La Passerelle - Saint-Brieuc](https://www.lapasserelle.info/)
   
 ---
 
@@ -74,5 +74,5 @@ Pour en savoir plus sur le **Breizh Data Day 2026**, cliquer [ICI](https://breiz
   
 >
 
->  *  Version 2025-11-08
+>  *  Version 2025-11-12
 >    
