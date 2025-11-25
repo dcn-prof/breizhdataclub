@@ -20,7 +20,7 @@ Cette nouvelle édition du **Breizh Data Day** a volontairement cherché à prop
 La programmation 2025 proposait à la fois des conférences techniques (TECH) et des retours d’expériences d’entreprises (RETEX) afin d’accueillir un public diversifié : enseignants-chercheurs, chefs d’entreprises, professionnels du
 numérique, étudiants … 
 
-Grâce aux sponsors rassemblés par INNÔZH, le **Breizh Data Day 2025** était (presque) gratuit et ouvert à tous. Seule une modeste contribution était demandée pour financer la restauration et les boissons tout au long de la jouréne.
+Grâce aux sponsors rassemblés par INNÔZH, le **Breizh Data Day 2025** était (presque) gratuit et ouvert à tous. Seule une modeste contribution était demandée pour financer la restauration et les boissons tout au long de la journée.
 
 Cette large ouverture a contribué à la diversité du public et à la richesse des échanges. 
 
