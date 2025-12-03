@@ -99,6 +99,7 @@
 | Etude ADEME–ARCEP - Evaluation de l'impact environnemental du numérique en France - Analyse prospective pour 2030 et 2050  |        2024-03-06      |  [ADEME - ARCEP      (en PDF)](<https://www.arcep.fr/uploads/tx_gspublication/note-synthese-Arcep-gouvernement-prospective-2030-2050_mars2023.pdf>)                                                   |
 | Quand l'I.A. s'attaque aux prévisions météorologiques : évolution ou révolution ?  |        2024-05-01      |  [Revue La Météorologie](<https://lameteorologie.fr/issues/2024/125/meteo_2024_125_48>)                                        |
 | Interrogation topologique des partitions musicales. L'art et la manière de naviguer dans des partitions musicales grâce à une approche topologique. |        2024-06-18      |  [Journal Data Knowledge Engineering         (en PDF)](<https://inria.hal.science/hal-04614440v1/document>)                                        ||                                     |                        |                                                    |
+| Pourquoi je n’utilise pas ChatGPT    |        2025-02-02      |  [Academia.Hypotheses](<https://academia.hypotheses.org/58766>)                                                   |
 |                                     |                        |                                                    |
 |                                     |                        |                                                    |
 |                                     |                        |                                                    |
@@ -123,5 +124,5 @@ Pour en savoir plus sur le **Breizh Data Club**, cliquer sur [A propos](https://
 
 >
 >
->  *  Version 2025-06-20
+>  *  Version 2025-12-03
 
