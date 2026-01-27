@@ -30,6 +30,8 @@
 |                                 |                          |                                                    |
 |         Breizh Data Day 2026    |  Vendredi 20.03.2026     |  <https://breizhdataday.innozh.fr/>                |
 |                                 |                          |                                                    |
+|          Soirée des Communautés Tech de Rennes  2026        |   Jeudi 9.04.2026    |  <https://rennes.tech/>                     |
+|                                 |                          |                                                    |
 |          BreizhCamp 2026        |   du 24 au 26.06.2026    |  <https://www.breizhcamp.org/>                     |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
