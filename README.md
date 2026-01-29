@@ -48,10 +48,10 @@
 |         En ce moment         |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
+|  Le CFP BreizhCamp 2026 est ouvert |  jusqu'au 10 mars 2026 |  [CFP BreizhCamp 2026](https://sessionize.com/breizhcamp-2026)   |
 |                              |                        |                                                    |
-|                              |                        |                                                    |
-|     Heure légale France      |     [Horloge](http://heurelegalefrancaise.fr)         |      <http://heurelegalefrancaise.fr>              |
-|                              |                        |                                                    |
+|                              |                        |                                                    |                                                    
+|    Heure légale France       |     [Horloge](http://heurelegalefrancaise.fr)  |  <http://heurelegalefrancaise.fr>      |
 |                              |                        |                                                    |
 | ---------------------------- |------------------------| ---------------------------------------------------|
 
