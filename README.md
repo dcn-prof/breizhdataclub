@@ -50,6 +50,8 @@
 |                              |                        |                                                    |
 |  Le CFP BreizhCamp 2026 est ouvert |  jusqu'au 10 mars 2026 |  [CFP BreizhCamp 2026](https://sessionize.com/breizhcamp-2026)   |
 |                              |                        |                                                    |
+|  Le CFP 'Soirée des Comm. Tech de Rennes 2026' est ouvert |  jusqu'au 20 mars 2026 |  [CFP SCTR 2026](https://tinyurl.com/cfp-meetups-rennes-2026)   |
+|                              |                        |                                                    |
 |                              |                        |                                                    |                                                    
 |    Heure légale France       |     [Horloge](http://heurelegalefrancaise.fr)  |  <http://heurelegalefrancaise.fr>      |
 |                              |                        |                                                    |
