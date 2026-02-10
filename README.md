@@ -97,13 +97,15 @@
 |  Un peu de lecture pour réfléchir   |  Date de publication   |   Liens pour lire les bonnes feuilles              |
 | :---------------------------------- |:----------------------:| --------------------------------------------------:|
 |                                     |                        |                                                    |
-| Étude des impacts de l’IA sur le travail  |        2024-05-17      |  [LaborIA Explorer](<https://www.laboria.ai/laboria-explorer-synthese-generale/>)                                                   |
-| L’IA peut-elle vraiment être frugale ?    |        2024-05-13      |  [TheConversation](<https://theconversation.com/lia-peut-elle-vraiment-etre-frugale-226274>)                                                   |
+| Étude des impacts de l’I.A. sur le travail  |        2024-05-17      |  [LaborIA Explorer](<https://www.laboria.ai/laboria-explorer-synthese-generale/>)                                                   |
+| L’I.A. peut-elle vraiment être frugale ?    |        2024-05-13      |  [TheConversation](<https://theconversation.com/lia-peut-elle-vraiment-etre-frugale-226274>)                                                   |
 | Stéréotypes de genre avec l'I.A. ?  |        2024-05-06      |  [HelloWorkPlace](<https://www.helloworkplace.fr/discrimination-femmes-ia-rh/>)                                                   |
 | Etude ADEME–ARCEP - Evaluation de l'impact environnemental du numérique en France - Analyse prospective pour 2030 et 2050  |        2024-03-06      |  [ADEME - ARCEP      (en PDF)](<https://www.arcep.fr/uploads/tx_gspublication/note-synthese-Arcep-gouvernement-prospective-2030-2050_mars2023.pdf>)                                                   |
 | Quand l'I.A. s'attaque aux prévisions météorologiques : évolution ou révolution ?  |        2024-05-01      |  [Revue La Météorologie](<https://lameteorologie.fr/issues/2024/125/meteo_2024_125_48>)                                        |
 | Interrogation topologique des partitions musicales. L'art et la manière de naviguer dans des partitions musicales grâce à une approche topologique. |        2024-06-18      |  [Journal Data Knowledge Engineering         (en PDF)](<https://inria.hal.science/hal-04614440v1/document>)                                        ||                                     |                        |                                                    |
 | Pourquoi je n’utilise pas ChatGPT    |        2025-02-02      |  [Academia.Hypotheses](<https://academia.hypotheses.org/58766>)                                                   |
+|Votre I.A. a peut-être une porte dérobée : démonstration du _Data Poisoning_|    2026-02-10   |  [Medium - Olivier Le Lay](<https://medium.com/@liollury/votre-ia-a-peut-%C3%AAtre-une-porte-d%C3%A9rob%C3%A9e-d%C3%A9monstration-pratique-du-data-poisoning-e6fae617a0a6)>)   |
+|                                     |                        |                                                    |
 |                                     |                        |                                                    |
 |                                     |                        |                                                    |
 |                                     |                        |                                                    |
