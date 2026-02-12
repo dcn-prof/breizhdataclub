@@ -26,9 +26,10 @@ Notre objectif est de satisfaire la curiosité et l'intérêt des _Data Lovers_
 
 
 ### Quelques liens utiles pour en savoir plus 
-* [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/) - Pour suivre notre actualité, _stay tuned_
-* [Page Linkedin](https://www.linkedin.com/company/breizhdataclub/) - Pour commenter et/ou réagir sur l'air du temps 
-* [Site BreizhCamp](https://www.breizhcamp.org/asso/) - Pour connaître les communautés techniques rennaises
+* [Site Meetup](https://www.meetup.com/fr-FR/breizh-data-club/) - Pour suivre l'actualité du Breizh Data Club, _stay tuned_
+* [Page Linkedin](https://www.linkedin.com/company/breizhdataclub/) - Pour interagir et/ou papoter sur l'air du temps avec le Breizh Data Club 
+* [Site BreizhCamp](https://www.breizhcamp.org/equipe/) - Pour découvir l'organisation des communautés techniques au sein de BreizhCamp
+* [Site Rennes..Tech](https://rennes.tech/) - Pour découvrir plus largement les communautés techniques rennaises
 
 >
 > 
