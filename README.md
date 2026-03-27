@@ -28,11 +28,11 @@
 | :------------------------------ |:------------------------:| --------------------------------------------------:|
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
-|         Breizh Data Day 2026    |  Vendredi 20.03.2026     |  <https://breizhdataday.innozh.fr/>                |
-|                                 |                          |                                                    |
 |          Soirée des Communautés Tech de Rennes  2026        |   Jeudi 9.04.2026    |  <https://rennes.tech/>                     |
 |                                 |                          |                                                    |
 |          BreizhCamp 2026        |   du 24 au 26.06.2026    |  <https://www.breizhcamp.org/>                     |
+|                                 |                          |                                                    |
+|                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
@@ -48,12 +48,11 @@
 |         En ce moment         |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :--------------------------- |:----------------------:| --------------------------------------------------:|
 |                              |                        |                                                    |
-|  Le CFP BreizhCamp 2026 est ouvert |  jusqu'au 10 mars 2026 |  [CFP BreizhCamp 2026](https://sessionize.com/breizhcamp-2026)   |
-|                              |                        |                                                    |
-|  Le CFP 'Soirée des Comm. Tech de Rennes 2026' est ouvert |  jusqu'au 20 mars 2026 |  [CFP SCTR 2026](https://tinyurl.com/cfp-meetups-rennes-2026)   |
 |                              |                        |                                                    |
 |                              |                        |                                                    |                                                    
 |    Heure légale France       |     [Horloge](http://heurelegalefrancaise.fr)  |  <http://heurelegalefrancaise.fr>      |
+|                              |                        |                                                    |
+|                              |                        |                                                    |
 |                              |                        |                                                    |
 | ---------------------------- |------------------------| ---------------------------------------------------|
 
@@ -67,6 +66,7 @@
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 |                                 |                        |                                                    |
 |                                 |                        |                                                    |
+|      Breizh Data Day 2026       |      2026-03-20      |   [Breizh Data Day 2026](https://breizhdataday.innozh.fr/)    
 |        BreizhCamp 2025          |  du 25 au 27.06.2025   |    <https://www.breizhcamp.org/>                   |  
 |      Breizh Data Day 2025       |      2025-05-15      |   [Breizh Data Day 2025](https://dcn-prof.github.io/breizhdataclub/Binder/File_BDD2025/)            |
 | Soirée des Communautés Tech de Rennes 2025 |      2025-03-06     |  [Soirée des Communautés Tech 2025](https://dcn-prof.github.io/breizhdataclub/Binder/File_SCR_BzhCamp_2025/)       |         
