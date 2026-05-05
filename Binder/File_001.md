@@ -91,7 +91,7 @@ Tout ceci explique le "coup de mou" ressenti par les _Data Lovers_ du **Breizh D
 
 De surcroît, les tribulations administratives et bureaucratiques ont lassé une partie des administrateurs de l'association. En conséquence, le 10 mars 2022, une Assemblée Générale Extraordinaire a décidé l'arrêt du **Breizh Data Club** sous sa forme associative et sa continuation sous d'autres formes.
 
-C'est ainsi que l'association **Breizh Data Club** a été dissoute officiellement et que ses actifs ont été dévolus à deux associations poursuivant des buts voisins ou similaires. D'un côté, les _Data Lovers_ ont décidé de travailler conjointement avec l'association **BreizhCamp** à Rennes ([BreizhCamp asso](https://www.breizhcamp.org/asso/)) pour perpétuer les ***Meetups***. Et, de l'autre, ils ont décidé de travailler avec la technopole **INNÔZH** à Saint-Brieuc ([INNÔZH asso](https://www.innozh.fr/innozh/qui-sommes-nous-2/)) afin d'organiser les **Breizh Data Day** annuels.
+C'est ainsi que l'association **Breizh Data Club** a été dissoute officiellement et que ses actifs ont été dévolus à deux associations poursuivant des buts voisins ou similaires. D'un côté, les _Data Lovers_ ont décidé de travailler conjointement avec l'association **BreizhCamp** à Rennes ([BreizhCamp asso](https://www.breizhcamp.org/equipe)) pour perpétuer les ***Meetups***. Et, de l'autre, ils ont décidé de travailler avec la technopole **INNÔZH** à Saint-Brieuc ([INNÔZH asso](https://www.innozh.fr/innozh/qui-sommes-nous-2/)) afin d'organiser les **Breizh Data Day** annuels.
 
 
 
@@ -116,8 +116,8 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre progressivement en douc
 | 14-05-2024  |  Meetup "Développement d'un robot conversationnel d'entreprise basé sur une approche RAG"   |   [Corentin Brémard](https://dcn-prof.github.io/breizhdataclub/Binder/meetup_2024-05-14/)    |
 | 16-05-2024  | Soirée des communautés techniques rennaises organisée par BreizhCamp à l'ISTIC    | [BreizhCamp & friends](https://events.rennes.tech/events/7df7b1ba-132a-4d17-8a3c-871642cffe35)                      |
 |             |                                                                          |                          |
-|             |                                                                          |                          |
-|             |                                                                          |                          |
+|             |   Etc.  etc.                                                                |                          |
+|             |   Voir la liste complète en page d'accueil : (https://dcn-prof.github.io/breizhdataclub/)     |                          |
 |             |                                                                          |                          |
 |:-----------:|:------------------------------------------------------------------------:|:------------------------:|
 
@@ -147,7 +147,7 @@ C'est pourquoi l'avenir du **Breizh Data Club** reste ouvert . . .  (et reste en
   
 >
 >
->  *  Version 2024-05-20
+>  *  Version 2026-05-05
 
 
 
