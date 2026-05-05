@@ -26,7 +26,7 @@ Rendez-vous donc pour l'année prochaine (en 2026) !
 >
 ## Pour en savoir plus sur ce thème
 
-- Source 1 : [BreizhCamp Asso](https://www.breizhcamp.org/asso/)
+- Source 1 : [BreizhCamp Asso](https://www.breizhcamp.org/equipe)
 
 ---
 
@@ -40,4 +40,4 @@ Rendez-vous donc pour l'année prochaine (en 2026) !
 
 >
 
->  *  Version 2025-03-07
+>  *  Version 2026-05-05
