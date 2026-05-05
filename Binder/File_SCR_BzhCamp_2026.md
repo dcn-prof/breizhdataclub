@@ -41,4 +41,4 @@ Rendez-vous donc pour l'année prochaine (en 2027) !
 
 >
 
->  *  Version 2025-03-07
+>  *  Version 2026-05-05
