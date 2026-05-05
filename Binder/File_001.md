@@ -117,7 +117,7 @@ Les activités pour _Data Lovers_ ont ainsi pu reprendre progressivement en douc
 | 16-05-2024  | Soirée des communautés techniques rennaises organisée par BreizhCamp à l'ISTIC    | [BreizhCamp & friends](https://events.rennes.tech/events/7df7b1ba-132a-4d17-8a3c-871642cffe35)                      |
 |             |                                                                          |                          |
 |             |   Etc.  etc.                                                                |                          |
-|             |   Voir la liste complète en page d'accueil : (https://dcn-prof.github.io/breizhdataclub/)     |                          |
+|             |   Voir la liste complète en [page d'accueil](https://dcn-prof.github.io/breizhdataclub/)     |                          |
 |             |                                                                          |                          |
 |:-----------:|:------------------------------------------------------------------------:|:------------------------:|
 
