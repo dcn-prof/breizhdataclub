@@ -12,7 +12,7 @@ Pour en savoir plus sur l'association BreizhCamp et ses communautés tech, voir 
 En particulier, deux conférences étaient proposées aux _data lovers_ :
 -  **Du LLM à la donnée : le semantic search, brique oubliée des projets IA** par Axel Brunet sur les questions de mise en place d'un LLM afin de mieux exploiter les données d'entreprise.
 -  **Nom de lieux ! Géomatique des toponymes en France** par Didier Certain sur la cartographie linguistique des toponymes en France métropolitaine.
-[ Voici les slides de "Nom de lieux !"  ](../illustrim/PDFfiles/Slides_BDC_2026-04-09-Vshort.pdf)
+[ Voici les slides de "Nom de lieux !"  ](../illustrim/PDFfiles/Noms_de_Lieux_BDC_2026-04-09-Vshort.pdf)
 
 
 ** **
