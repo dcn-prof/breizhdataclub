@@ -66,7 +66,7 @@
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 |                                 |                        |                                                    |
 |                                 |                        |                                                    |
-| Soirée des Communautés Tech de Rennes  2026  |   2026-04-09    |     [Soirée des Communautés Tech 2026]           |
+| Soirée des Communautés Tech de Rennes  2026  |   2026-04-09    |     [Soirée des Communautés Tech 2026](https://dcn-prof.github.io/breizhdataclub/Binder/File_SCR_BzhCamp_2026/)       |
 |      Breizh Data Day 2026       |      2026-03-20      |   [Breizh Data Day 2026](https://breizhdataday.innozh.fr/)    
 |        BreizhCamp 2025          |  du 25 au 27.06.2025   |    <https://www.breizhcamp.org/>                   |  
 |      Breizh Data Day 2025       |      2025-05-15      |   [Breizh Data Day 2025](https://dcn-prof.github.io/breizhdataclub/Binder/File_BDD2025/)            |
