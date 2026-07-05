@@ -30,7 +30,7 @@
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
-|          BreizhCamp 2026        |   du 24 au 26.06.2026    |  <https://www.breizhcamp.org/>                     |
+|                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
@@ -65,6 +65,8 @@
 |      Regards vers le passé      |  Date de l'événement   |          Liens pour en savoir plus                 |
 | :------------------------------ |:----------------------:| --------------------------------------------------:|
 |                                 |                        |                                                    |
+|                                 |                        |                                                    |
+|          BreizhCamp 2026        |   du 24 au 26.06.2026    |  <https://www.breizhcamp.org/>                     |
 |                                 |                        |                                                    |
 | Soirée des Communautés Tech de Rennes  2026  |   2026-04-09    |     [Soirée des Communautés Tech 2026](https://dcn-prof.github.io/breizhdataclub/Binder/File_SCR_BzhCamp_2026/)       |
 |      Breizh Data Day 2026       |      2026-03-20      |   [Breizh Data Day 2026](https://www.youtube.com/watch?v=hLryfXJvX6I)    
@@ -131,5 +133,5 @@ Pour en savoir plus sur le **Breizh Data Club**, cliquer sur [A propos](https://
 
 >
 >
->  *  Version 2025-12-03
+>  *  Version 2026-07-05
 
