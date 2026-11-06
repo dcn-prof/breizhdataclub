@@ -30,7 +30,7 @@
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
-|                                 |                          |                                                    |
+|        Breizh Data Day 2027     |  Mardi 6 avril 2027      |        <https://breizhdataday.innozh.fr/>          |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
 |                                 |                          |                                                    |
